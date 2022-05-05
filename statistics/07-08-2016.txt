@@ -1,0 +1,29 @@
+Death | Sewers | 0, 2, 0, 0 | [18:16:07]<font color='orange'> Attacked by William Stern (wajtswv) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 40, 42.6001, 0 | [18:16:19] <font color='orange'>Has been punched by Phillip Rowley (masturbator)</font>
+Death | Sewers | 0, 0, 8, 0 | [18:18:44]<font color='orange'> Attacked by Unknown (wajtswv) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [18:28:47]<font color='orange'> Attacked by Ace Myles (silentium) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 3, 43, 0 | [18:28:59]<font color='orange'> Attacked by Phoenix Marshall (longlivethenewflesh) with stone (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 37, 48, 0
+Death | Medical Research | 0, 0, 123.6, 0 | [18:31:59] <font color='orange'>Has had their pockets emptied by Josiah Atkinson (biomechanicmann)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 5, 0, 0 | [18:42:19]<font color='orange'> Attacked by Phillip Rowley (masturbator) with Winchester M1887 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 23.5, 31, 78, 0 | [18:44:13] <font color='red'>Attempted to empty Michael Murray's () pockets</font>
+Death | Street | 0, 0, 14, 0 | [18:50:32] <b>Josiah Atkinson/biomechanicmann</b> shot <b>Phoenix Marshall/longlivethenewflesh</b> with a <b>the Bullet</b>
+Death | Engineering | 0, 2, 0, 0 | [18:51:06]<font color='orange'> Attacked by Josiah Atkinson (biomechanicmann) with chainsaw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 172, 0 | [18:51:13]<font color='red'> Attacked Unknown () with chainsaw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 34, 0, 136.229
+Death | Sewers | 0, 37, 0, 0 | [19:08:09]<font color='orange'> Attacked by Ryker Wilo (rzzone) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, 0, 2, 
+Death | Street | 37.4, 0, 100, 0 | [19:17:53] <font color='red'>Attempted to remove Phoenix Marshall's () left ear item</font>
+Death | The Central Primary Hallway | 0, 21, 54, 0 | [19:32:20]<font color='orange'> Attacked by Frank Thorley (nikaks) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 173.727, 1.27259 | [18:55:22] <font color='red'>Attempted to remove Phoenix Marshall's () back item</font>
+Death | Street | 23.2999, 0, 12.4001, 0 | [19:41:11] <font color='red'>Attempted to empty William Stern as (Carl Riker)'s () pockets</font>
+Death | Street | 0, 0, 56.2, 0 | [19:37:47] <font color='red'>Attempted to remove William Stern as (Carl Riker)'s () suit</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, 0, 2, 
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Dormitories | 0, 0, 5, 0 | [19:41:45] <font color='red'>Attempted to empty Unknown's () pockets</font>

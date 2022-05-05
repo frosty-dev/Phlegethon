@@ -1,0 +1,56 @@
+Death | The Dormitories | 0, 3, 100, 0 | [00:00:57]<font color='orange'> Attacked by Chip Randolph as (Triston Thorley) (thelocust) with hammer (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 10, 15, 0 | [00:07:06]<font color='orange'> Attacked by Johnny Cooper (silentium) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [00:14:21] <b>Chip Randolph/thelocust</b> shot <b>Wayne Howard/</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 64, 0, 0
+Death | Engineering Construction Storage | 51, 20, 62, 0 | [00:17:00]<font color='orange'> Attacked by Chip Randolph as (Wayne Howard) (thelocust) with hammer (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 4, 0, 0 | [00:18:37] <b>Chip Randolph as (Wayne Howard)/thelocust</b> shot <b>Unknown/</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 145.2, 3, 0, 0 | [00:19:09]<font color='orange'> Attacked by Malachi Ann (vovanhur) with Sleuth DS (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [00:19:24] <b>Chip Randolph as (Wayne Howard)/thelocust</b> shot <b>Malachi Ann/</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 99.1, 0, 0, 0 | [00:19:54]<font color='orange'> Attacked by Wyatt Roberts (gvardota) with Handy MK2 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 14, 0, 0 | [00:20:07] <b>Wyatt Roberts/gvardota</b> shot <b>Unknown as (Wayne Howard)/thelocust</b> point blank with a <b>the Handy MK2</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 17, 0, 0 | [00:37:22]<font color='orange'> Attacked by Damian Weisgarber (vovanhur) with hatchet (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [00:38:45]<font color='orange'> Attacked by Unknown (aleistercrowley) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 1, 0, 0 | [00:51:05] <b>Wayne Howard/earthwormj1m</b> shot <b>Andy Faust/</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [00:51:44] <b>Wayne Howard/earthwormj1m</b> shot <b>Roberto Sullivan/catratcat</b> point blank with a <b>Sleuth DS</b>
+Death | Engineering Construction Storage | 44.5, 34, 68.3, 0 | [00:55:59] <font color='orange'>Has had their shoes removed by Juan Glover (vovanhur)</font>
+Death | The Kitchen | 0, 31, 0, 0 | [01:00:36] <font color='orange'>Has been strangled (kill intent) by Rudollf Schutze (armun)</font>
+Death | Medical Research | 0, 36, 124, 0 | [01:00:44]<font color='orange'> Attacked by Juan Glover (vovanhur) with chain (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion |  | -1, 0, 2, 
+Explosion |  | -1, 0, 2, 
+Death | The Centcom | 0, 1, 0, 0 | [01:14:51] <b>Holden Tennant/1cogwheel1</b> shot <b>Rudollf Schutze as (Wayne Howard)/</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 0, 0, 0
+Death | The Engineering Control | 0, 0, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 56, 0, 0 | [22:49:15]<font color='orange'> Attacked by Kei Nihondzin (editorrus) with large pipe (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 2, 0, 0 | [23:12:48] <b>Chip Randolph/thelocust</b> shot <b>Unknown/armun</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 31, 15, 0 | [23:12:27]<font color='orange'> Attacked by Holden Tennant (1cogwheel1) with Trencher MK2 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 3, 10, 0 | [23:20:10]<font color='orange'> Attacked by Zip Gunn (camer) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 1, 0, 0 | [23:24:12] <b>Chip Randolph/thelocust</b> shot <b>Eric Bell/egorkor</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 1, 0, 0 | [23:24:56] <b>Chip Randolph/thelocust</b> shot <b>Unknown/gvardota</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 2, 0, 0 | [23:25:18]<font color='orange'> Attacked by Unknown (aleistercrowley) with nailed bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [23:25:43]<font color='orange'> Attacked by Chip Randolph (thelocust) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 2, 0, 0 | [23:26:22]<font color='orange'> Attacked by Chip Randolph (thelocust) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [23:27:57]<font color='orange'> Attacked by Chip Randolph (thelocust) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0
+Death | The Engineering Control | 0, 1, 0, 0 | [23:30:11] <b>Zip Gunn/camer</b> shot <b>Chip Randolph/thelocust</b> with a <b>the Fire Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [23:34:02] <b>Malachi Simmons/bohals</b> shot <b>Unknown as (Holden Tennant)/1cogwheel1</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 34, 113.2, 0 | [23:31:24] <font color='orange'>Has had their pockets emptied by Jonas Randolph (chachka)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [23:39:01] <b>Rumb Two/marcusaga</b> shot <b>Malachi Simmons/bohals</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 32, 56.2, 0 | [23:40:08] <font color='orange'>Has had their pockets emptied by Johnny Cooper (silentium)</font>
+Death | The Escape Pod One | 0, 41, 14, 0 | [23:42:37] <b>Zip Gunn as (Holden Tennant)/camer</b> shot <b>Unknown/aleistercrowley</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 7, 0, 0 | [23:43:36]<font color='orange'> Attacked by Zip Gunn as (Holden Tennant) (camer) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [23:43:48] <b>Unknown as (Rumb One)/ralphhesher</b> shot <b>Unknown as (Chip Randolph)/chachka</b> with a <b>the Bullet</b>
+Death | The Security Lobby | 0, 1, 0, 0 | [23:51:13]<font color='orange'> Attacked by Marcus Murray (chrisik) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2

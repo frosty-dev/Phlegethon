@@ -1,0 +1,28 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Security Lobby | 0, 9, 0, 0 | [22:09:24] <font color='orange'>Has been punched by John Bolon (epicjoe)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 50, 0, 0
+Death | Engineering Construction Storage | 0, 145.2, 12, 0 | [22:17:21]<font color='orange'> Attacked by Aden Kuznetsov (zcv) with knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 42, 0, 0 | [22:19:04]<font color='orange'> Attacked by Drake Jerome (inika) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 5, 0, 52 | [22:28:35]<font color='orange'> Attacked by Brody Buttersworth (bohals) with Trencher MK2 (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Security Lobby | 0, 50, 0, 0 | [22:29:47] <font color='orange'>Has been thrown by John Bolon (epicjoe)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 0, 0, 0 | [22:37:35] <b>Holden Tennant/1cogwheel1</b> shot <b>Braxton Harrow/gvardota</b> point blank with a <b>Hamlet SMG</b>
+Death | The Library | 0, 1, 0, 0 | [22:38:20]<font color='orange'> Attacked by Drake Jerome (inika) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Theatre | 0, 27, 175, 0
+Death | The Engineering Control | 0, 0, 0, 0 | [22:42:57] <b>Holden Tennant/1cogwheel1</b> shot <b>Graham Maclagan/egorkor</b> with a <b>the Bullet</b>
+Death |  | 0, 0, 0, 0
+Death | Engineering Construction Storage | 0, 5, 0, 0 | [22:43:27]<font color='orange'> Attacked by Drake Jerome (inika) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [22:44:30] <b>Holden Tennant/1cogwheel1</b> shot <b>Colby Armstrong/microman8v</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:46:51] <b>John Bolon/epicjoe</b> shot <b>Unknown as (Tetsudji Hisomu)/inika</b> point blank with a <b>the Handy MK2</b>
+Death | The Security Lobby | 0, 144, 0, 0 | [22:51:53] <font color='red'>Attempted to remove Unknown's () left hand item</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [22:56:47] <b>Adam Forge as (Unknown as (Tetsudji Hisomu))/panchoys</b> shot <b>Unknown/jolt96</b> point blank with a <b>the Handy MK2</b>
+Death | The Engineering Control | 0, 18, 67, 0 | [22:57:00] <b>Brody Buttersworth/bohals</b> shot <b>Colby Armstrong/microman8v</b> with a <b>the lead</b>
+Death | The Engineering Control | 0, 12, 62, 0 | [22:57:39] <b>Holden Tennant/1cogwheel1</b> shot <b>Brody Buttersworth/bohals</b> with a <b>the Bullet</b>
+Explosion | The Central Primary Hallway | -1, 1, 1, 3
+Death | The Escape Pod One | 27, 7, 0, 0 | [22:59:20] <b>Adam Forge as (Unknown as (Tetsudji Hisomu))/panchoys</b> shot <b>Holden Tennant/1cogwheel1</b> point blank with a <b>the Handy MK2</b>
+Death | The Escape Pod One | 0, 6, 0, 0 | [23:00:43]<font color='orange'> Attacked by Adam Forge as (Unknown as (Tetsudji Hisomu)) (panchoys) with Handy MK2 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 201, 0, 0 | [22:57:45] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | The Escape Pod One | 0, 11, 0, 0 | [23:02:59] <b>Adam Forge as (Unknown as (Tetsudji Hisomu))/panchoys</b> shot <b>Unknown as (Andrew Parker)/woody112</b> point blank with a <b>Canis .45-70</b>

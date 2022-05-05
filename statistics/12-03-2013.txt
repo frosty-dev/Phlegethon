@@ -1,0 +1,44 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Cafeteria | 0, 28, 99.7, 0 | [00:04:21] <font color='orange'>Has had their pockets emptied by Zachariah Raub (gvardota)</font>
+Death | Engineering Construction Storage | 0, 5, 0, 0 | [00:14:07]<font color='orange'> Attacked by Unknown (aleistercrowley) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [01:17:55] <b>Emmanuel Dryfus/bohals</b> shot <b>Rudollf Schutze/armun</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [01:18:01] <b>Emmanuel Dryfus/bohals</b> shot <b>Urist Zahodethal/marcusaga</b> with a <b>the Bullet</b>
+Death | Medical Research | 3.9, 42, 0, 1.5 | [01:18:30] <b>Unknown/chachka</b> shot <b>Unknown/aleistercrowley</b> with a <b>the Bullet</b>
+Death | Medical Research | 0, 33, 0, 0 | [01:19:04]<font color='orange'> Attacked by Johny Cooper (silentium) with Handy MK2 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 204, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Medical Research | 0, 0, 0, 0 | [01:31:46] <b>Johny Cooper/silentium</b> shot <b>Unknown/gvardota</b> with a <b>the Bullet</b>
+Death | Medical Research | 0, 2, 0, 0 | [01:32:40] <b>Johny Cooper/silentium</b> shot <b>Unknown/chachka</b> point blank with a <b>the Handy MK2</b>
+Death | The Escape Pod One | 64, 0, 0, 0 | [01:44:52] <b>Johny Cooper/silentium</b> shot <b>Unknown as (Emmanuel Dryfus)/bohals</b> with a <b>the Bullet</b>
+Death | The Centcom | 0, 8, 44, 0 | [01:51:52] <b>Unknown/catratcat</b> shot <b>Chip Compton/chachka</b> point blank with a <b>the Handy MK2</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | The Engineering Control | 1, 2, 3, 3
+Explosion | The Security Lobby | 1, 2, 3, 3
+Death | The Engineering Control | 0, 1, 0, 0 | [22:24:08] <b>Roberto Sullivan/catratcat</b> shot <b>the human/</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 1, 0, 0 | [22:35:32] <b>Roberto Sullivan/catratcat</b> shot <b>the human/</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Dormitories | 0, 0, 0, 0 | [22:50:03]<font color='orange'> Attacked by Trey Liam (doublerandysandy) with balisong knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 124, 0, 0 | [23:02:53] <font color='orange'>Has been strangled (kill intent) by John Bolon (epicjoe)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 43, 0, 0 | [23:10:26]<font color='orange'> Attacked by Trey Liam (doublerandysandy) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 47, 8, 0 | [23:18:07] <font color='orange'>Has been thrown by Trey Liam (doublerandysandy)</font>
+Death | The Library | 0, 0, 0, 35 | [23:20:16]<font color='orange'> Attacked by Trey Liam (doublerandysandy) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 27, 85, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Security Lobby | 0, 40, 10, 0 | [23:39:58] <font color='orange'>Has been thrown by John Bolon (epicjoe)</font>
+Death | The Dormitories | 0, 26, 84.1, 0 | [23:40:25] <font color='orange'>Has been fed Space Beer by Mason Montgomery (plymouth) Reagents: [0x2100348b]</font>
+Death | The Engineering Control | 0, 50, 0, 0 | [23:45:45] <font color='orange'>Has had their pockets emptied by Enrique Begum (armun)</font>
+Death | Engineering Construction Storage | 0, 27, 42.0001, 0 | [23:51:04] <font color='orange'>Has had their pockets emptied by Johnny Cooper (silentium)</font>
+Death | The Central Primary Hallway | 0, 2, 0, 0 | [23:53:23] <b>Graham Maclagan as (Braden Bunten)/egorkor</b> shot <b>Unknown as (Mason Montgomery)/plymouth</b> with a <b>the Fire Bullet</b>
+Death | Engineering Construction Storage | 8.80024, 28, 73, 26 | [23:27:54] <b>Holden Tennant/1cogwheel1</b> shot <b>Randy Powers/leonido33</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 0, 15, 0
+Death | The Central Primary Hallway | 11.4, 0, 0, 0 | [23:57:55] <b>Mason Montgomery/lemero</b> shot <b>Unknown/doublerandysandy</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 0, 0, 0 | [23:59:38] <b>Mason Montgomery/lemero</b> shot <b>Unknown/epicjoe</b> with a <b>the Bullet</b>

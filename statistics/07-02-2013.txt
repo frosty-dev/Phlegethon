@@ -1,0 +1,5 @@
+Explosion | The Central Primary Hallway | -1, -1, 5, 3
+Explosion | The Engineering Control | -1, -1, 5, 3
+Explosion | The Engineering Control | 1, 2, 3, 3
+Explosion | The Engineering Control | 1, 2, 3, 3
+Death | The Engineering Control | 0, 36, 0, 0

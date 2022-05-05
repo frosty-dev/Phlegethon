@@ -1,0 +1,8 @@
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [00:06:42] <b>Karpato Florian/karpatoflorian</b> shot <b>Unknown as (Reed Christopher)/catratcat</b> with a <b>the Fire Bullet</b>
+Death | Engineering Construction Storage | 0, 28, 0, 0 | [00:14:58] <b>Reed Christopher/catratcat</b> shot <b>Karpato Florian/karpatoflorian</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 4, 76, 0 | [00:25:27] <b>Reed Christopher/catratcat</b> shot <b>Karpato Florian/karpatoflorian</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 41, 27, 0
+Death | Engineering Construction Storage | 0, 13, 0, 0 | [00:25:27] <b>Reed Christopher/catratcat</b> shot <b>Karpato Florian/karpatoflorian</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [23:01:51] <b>Karpato Florian/karpatoflorian</b> shot <b>Unknown as (Reed Christopher)/catratcat</b> with a <b>the Fire Bullet</b>

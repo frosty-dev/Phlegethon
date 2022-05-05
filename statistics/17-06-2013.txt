@@ -1,0 +1,37 @@
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 161.2, 0
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 1, 0, 0 | [20:21:47]<font color='orange'> Attacked by Jacob Ulery (jarlo) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 5, 0, 0 | [20:21:52]<font color='orange'> Attacked by Conrad Nominox (diustin) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 21, 100, 0 | [20:18:06] <font color='orange'>Has had their pockets emptied by Kyle Andreev (zazaza1112)</font>
+Death | Sewers | 0, 1, 37, 0 | [20:24:03]<font color='orange'> Attacked by Jack (rizus) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 0, 175, 0
+Death | Sewers | 0, 4, 0, 0 | [20:24:31]<font color='orange'> Attacked by Jack (rizus) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 5, 0, 0 | [20:25:31]<font color='orange'> Attacked by Bruno Mantana (rigget) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 5, 0, 0 | [20:27:16]<font color='orange'> Attacked by Gus Bear (nikaks) with scalpel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 101.2, 0 | [20:28:53]<font color='orange'> Attacked by Morgan Bickerson (catratcat) with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [20:33:29] <b>Ace Myles/silentium</b> shot <b>Morgan Bickerson/catratcat</b> point blank with a <b>Nipper MK1</b>
+Death | Sewers | 0, 2, 0, 0 | [20:35:16]<font color='orange'> Attacked by Bruno Mantana (rigget) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 65, 0, 51.5, 0 | [20:27:32] <font color='red'>Attempted to remove Jack as (Jeffrey Weisgarber)'s (rizus) left ear item</font>
+Death | Sewers | 64.8, 34, 0, 0 | [20:31:09]<font color='red'> Attacked Bruno Mantana (rigget) with bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 50.9, 0, 0, 0 | [20:39:24] <b>Ace Myles as (Nathaniel Lauffer)/silentium</b> shot <b>Unknown as (Roman Leslie)/diustin</b> point blank with a <b>the Handy MK2</b>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 109, 54, 0 | [20:41:11] <font color='red'>Attempted to remove Unknown's (hspear26) shoes</font>
+Death | Sewers | 0, 4, 0, 0 | [20:52:00]<font color='orange'> Attacked by Jack as (Miguel Werner) (rizus) with hatchet (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 35, 25.2, 0 | [20:53:56] <font color='orange'>Has had their pockets emptied by Jack as (Miguel Werner) (rizus)</font>
+Death | Sewers | 0, 27, 39, 0 | [20:55:33]<font color='orange'> Attacked by Amano Yukiteru (airenjon) with knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 0, 0 | [20:56:16]<font color='orange'> Attacked by Bruno Mantana (rigget) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 1, 19, 0 | [20:59:18]<font color='orange'> Attacked by Amano Yukiteru (airenjon) with knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 4, 52, 0, 0 | [21:04:12] <b>Unknown as (Roman Leslie)/diustin</b> shot <b>Unknown/airenjon</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [21:10:36] <b>Ace Myles as (Nathaniel Lauffer)/silentium</b> shot <b>Unknown/jarlo</b> point blank with a <b>Trencher MK2</b>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 175, 0 | [21:05:05] <font color='orange'>Has had their pockets emptied by Tyler News (ferriangardson)</font>
+Death | Sewers | 0, 151, 20, 0 | [21:09:45] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Medical Research | 0, 0, 0, 0 | [21:13:46]<font color='orange'> Attacked by Bruno Mantana (rigget) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 174, 0, 0 | [21:12:31] <font color='orange'>Has been fed Tunguska Triple Distilled by Bruno Mantana (rigget) Reagents: [0x21001d5f]</font>
+Death | Sewers | 0, 174, 0, 0 | [21:10:05] <font color='red'>Attempted to empty Unknown's () pockets</font>

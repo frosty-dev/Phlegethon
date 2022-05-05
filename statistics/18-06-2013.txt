@@ -1,0 +1,16 @@
+Death | Street | 0, 11, 0, 0 | [21:37:34] <b>Morgan Bickerson/catratcat</b> shot <b>the human/</b> point blank with a <b>Nipper MK1</b>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 0, 0
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 90, 61, 0 | [21:53:42] <b>Adam Johnson/smet19</b> shot <b>Henry Murray/oxidon</b> with a <b>the lead</b>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 73.3, 0
+Death | The Quartermasters | 0, 0, 0, 0 | [22:04:14] <b>Benna/nyuu99</b> shot <b>Unknown as (Hank Callison)/hank667</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [22:04:44] <b>Benna/nyuu99</b> shot <b>Unknown as (Adam Johnson)/smet19</b> with a <b>the Bullet</b>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Cafeteria | 0, 5, 6, 0 | [22:11:36] <b>Benna/nyuu99</b> shot <b>Unknown/odst97</b> with a <b>the Bullet</b>
+Explosion | The Cafeteria | -1, 0, 2, 
+Death | Sewers | 0, 0, 0, 0 | [22:13:36] <font color='orange'>Has been punched by Benna (nyuu99)</font>
+Death | Street | 0, 0, 0, 0 | [22:15:17]<font color='orange'> Attacked by Elias Beach (redomine) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>

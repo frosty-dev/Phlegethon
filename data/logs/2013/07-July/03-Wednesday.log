@@ -1,0 +1,80 @@
+
+
+Starting up. 00:02.07
+---------------------
+
+[00:02:07]ADMIN: Loading jobban_rank
+[00:02:07]ADMIN: jobban_keylist was empty
+[00:02:07]ADMIN: Updating jobbanfile!
+[00:02:07]ADMIN: Loading Banlist
+Reading donators.txt
+[00:02:16]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[00:02:16]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[00:02:22]ADMIN: Catratcat has started the game.
+[00:02:23]ACCESS: Logout: *no client*/(Catratcat)
+[00:02:23]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[00:02:29]ADMIN: Catratcat/(Morgan Bickerson) jumped to 43,42,2 in Street
+[00:02:41]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[00:02:42]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[00:02:45]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[00:03:05]ADMIN: Catratcat/(Morgan Bickerson) changed the equipment of Catratcat/(Morgan Bickerson) to arcology agent.
+[00:03:09]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[00:03:10]EMOTE: human/ : <B>The human</B> stops breathing...
+[00:03:11]EMOTE: human/ : <B>The human</B> screams!
+[00:03:12]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[00:03:14]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[00:03:14]EMOTE: human/ : <B>The human</B> screams!
+[00:03:15]EMOTE: human/ : <B>The human</B> screams!
+[00:03:21]EMOTE: human/ : <B>The human</B> stops breathing...
+[00:03:36]EMOTE: human/ : <B>The human</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:03:41]EMOTE: human/ : <B>The human</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:03:49]ADMIN: Catratcat/(Morgan Bickerson) changed the equipment of Catratcat/(Morgan Bickerson) to arcology agent.
+[00:03:52]ADMIN: Catratcat/(Morgan Bickerson) healed / revived *no client*/(human)
+[00:03:53]EMOTE: human/ : <B>The human</B> breathes.
+[00:03:55]ADMIN: Catratcat/(Morgan Bickerson) healed / revived *no client*/(human)
+[00:03:57]ADMIN: Catratcat/(Morgan Bickerson) healed / revived *no client*/(human)
+[00:03:58]EMOTE: human/ : <B>The human</B> breathes.
+[00:04:10]ADMIN: Catratcat/(Morgan Bickerson) modified Sleuth DS's acc to 80
+[00:04:13]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[00:04:15]EMOTE: human/ : <B>The human</B> screams!
+[00:04:36]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[00:04:37]EMOTE: human/ : <B>The human</B> stops breathing...
+[00:04:38]EMOTE: human/ : <B>The human</B> screams!
+[00:04:42]EMOTE: human/ : <B>The human</B> gasps!
+[00:04:46]ACCESS: Logout: Catratcat/(Morgan Bickerson)
+
+
+Starting up. 00:09.09
+---------------------
+
+[00:09:09]ADMIN: Loading jobban_rank
+[00:09:09]ADMIN: jobban_keylist was empty
+[00:09:09]ADMIN: Updating jobbanfile!
+[00:09:09]ADMIN: Loading Banlist
+Reading donators.txt
+[00:09:43]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[00:09:43]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[00:09:49]ADMIN: Catratcat has started the game.
+[00:09:49]ACCESS: Logout: *no client*/(Catratcat)
+[00:09:49]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[00:09:59]ADMIN: Catratcat/(Morgan Bickerson) jumped to 40,42,2 in Street
+[00:10:10]ADMIN: Catratcat/(Morgan Bickerson) changed the equipment of Catratcat/(Morgan Bickerson) to arcology agent.
+[00:10:20]ADMIN: Catratcat/(Morgan Bickerson) modified Sleuth DS's acc to 80
+[00:11:32]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[00:11:34]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[00:11:46]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[00:12:47]ADMIN: Catratcat/(Morgan Bickerson) created 6ea /obj/item/ammo_magazine/c38s
+[00:12:59]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[00:13:00]EMOTE: human/ : <B>The human</B> screams!
+[00:13:06]ADMIN: Catratcat/(Morgan Bickerson) healed / revived *no client*/(human)
+[00:13:12]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[00:13:14]EMOTE: human/ : <B>The human</B> screams!
+[00:13:35]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[00:13:37]EMOTE: human/ : <B>The human</B> screams!
+[00:13:38]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[00:13:41]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[00:13:42]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[00:13:44]EMOTE: human/ : <B>The human</B> stops breathing...
+[00:13:52]EMOTE: human/ : <B>The human</B> gasps!
+[00:13:55]EMOTE: human/ : <B>The human</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:13:56]ACCESS: Logout: Catratcat/(Morgan Bickerson)

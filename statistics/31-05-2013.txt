@@ -1,0 +1,70 @@
+Death | Street | 0, 0, 0, 0 | [22:26:58] <b>Unknown/catratcat</b> shot <b>Unknown/catratcat</b> point blank with a <b>Nipper MK1</b>
+Death | Street | 0, 4, 0, 0 | [22:28:35]<font color='orange'> Attacked by Unknown (catratcat) with Nipper MK1 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [22:50:22] <b>Unknown as (Cletus Moore)/catratcat</b> shot <b>Unknown as (Cletus Moore)/catratcat</b> point blank with a <b>Nipper MK1</b>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 175, 0 | [23:08:22] <font color='orange'>Has been punched by Miguel Paynter (doppler13)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Quartermasters | 0, 0, 0, 0 | [23:20:49] <b>Darcey Shupe/voldirs</b> shot <b>Unknown/krylovmark</b> point blank with a <b>the Handy MK2</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:22:20] <b>Unknown/smet19</b> shot <b>Unknown/krylovmark</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:22:26] <b>Darcey Shupe/voldirs</b> shot <b>Unknown/krylovmark</b> point blank with a <b>Nipper MK1</b>
+Death | The Quartermasters | 0, 7, 8.4, 0 | [23:22:47] <b>Unknown/smet19</b> shot <b>Darcey Shupe/voldirs</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:23:22] <b>Cocky Cocks/camer</b> shot <b>Leroy Lowstetter/lacsuos</b> with a <b>the Bullet</b>
+Death | Street | 0, 4, 42.4001, 0 | [23:23:42]<font color='orange'> Attacked by Jay Stall (mihman) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:23:47] <b>Leroy Lowstetter/lacsuos</b> shot <b>Darcey Shupe/silentium</b> point blank with a <b>the Handy MK2</b>
+Death | The Quartermasters | 0, 46, 0, 0 | [23:24:14] <b>Leroy Lowstetter/lacsuos</b> shot <b>Cocky Cocks/camer</b> point blank with a <b>Nipper MK1</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:25:02] <b>Leroy Lowstetter/lacsuos</b> shot <b>Unknown/krylovmark</b> with a <b>the Bullet</b>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 125, 0, 0 | [23:30:06] <font color='orange'>Has had their pockets emptied by Owen Newbern (vovanhur)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, 0, 2, 
+Death | The Quartermasters | 0, 0, 0, 0 | [23:32:56]<font color='orange'> Attacked by Darcey Shupe (camer) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 35, 12, 0 | [23:30:49]<font color='orange'> Attacked by Bill Karlos (tima33) with cheap lighter (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:35:00] <b>Unknown/smet19</b> shot <b>Leroy Lowstetter/lacsuos</b> with a <b>the Bullet</b>
+Death | Street | 0, 24, 0, 0 | [23:34:20] <b>Unknown/smet19</b> shot <b>Zachariah Raub/gvardota</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:35:38] <b>Unknown/smet19</b> shot <b>Leroy Lowstetter/lacsuos</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:35:43] <b>Unknown/smet19</b> shot <b>Leroy Lowstetter/lacsuos</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 2, 0, 0 | [23:36:01]<font color='orange'> Attacked by Unknown (smet19) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 111.5, 0
+Explosion | Sewers | -1, -1, 2, 2
+Death | Medical Research | 0, 0, 0, 0 | [23:36:35]<font color='orange'> Attacked by Darcey Shupe (camer) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 2, 0, 0 | [23:36:33]<font color='orange'> Attacked by Unknown (smet19) with Hamlet SMG (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | The Quartermasters | -1, 0, 2, 
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 0, 0, 0 | [23:36:39] <b>Unknown/smet19</b> shot <b>Unknown as (Leroy Lowstetter)/lacsuos</b> with a <b>the Bullet</b>
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 15, 0, 0 | [23:37:57]<font color='orange'> Attacked by Unknown (voldirs) with Handy MK2 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 67, 104, 0
+Death | The Quartermasters | 0, 0, 0, 0 | [23:40:34]<font color='orange'> Attacked by Unknown (silentium) with L-Ferus .50 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 128, 42.8001, 0 | [23:40:11] <font color='orange'>Has been handcuffed (attempt) by Simon Lee (cofein)</font>
+Death | The Quartermasters | 0, 1, 0, 0 | [23:40:47]<font color='orange'> Attacked by Cocky Cocks (krylovmark) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:41:02]<font color='orange'> Attacked by Cocky Cocks (krylovmark) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:41:11] <b>Cocky Cocks/krylovmark</b> shot <b>Unknown as (Leroy Lowstetter)/lacsuos</b> with a <b>the lead</b>
+Death | The Kitchen | 0, 165, 0, 0 | [23:38:56]<font color='orange'> Attacked by Unknown as (Leroy Lowstetter) (lacsuos) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 12, 35, 0 | [23:41:27]<font color='orange'> Attacked by Darcey Shupe (camer) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:41:32]<font color='orange'> Attacked by Cocky Cocks (krylovmark) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:41:59]<font color='orange'> Attacked by Cocky Cocks (krylovmark) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 1, 0, 0 | [23:42:16]<font color='orange'> Attacked by Cocky Cocks (krylovmark) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 2, 0, 0 | [23:42:32]<font color='orange'> Attacked by Cocky Cocks (krylovmark) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 4, 0, 0 | [23:45:35]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 1, 0, 0 | [23:47:33]<font color='orange'> Attacked by Owen Newbern (vovanhur) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 4, 0, 0 | [23:48:39]<font color='orange'> Attacked by Darcey Shupe (camer) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 32, 17.6, 0
+Death | The Escape Pod One | 0, 0, 0, 0 | [23:50:13]<font color='orange'> Attacked by Unknown (krylovmark) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 1, 0, 0 | [23:50:41]<font color='orange'> Attacked by Darcey Shupe (camer) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [23:50:49]<font color='orange'> Attacked by Simon Lee (cofein) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [23:50:53]<font color='orange'> Attacked by Simon Lee (cofein) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 38, 76, 0 | [23:42:47]<font color='red'> Attacked Darcey Shupe (camer) with shard (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [23:53:31]<font color='orange'> Attacked by Leroy Lowstetter (airenjon) with knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 1, 0, 0 | [23:53:49]<font color='orange'> Attacked by Arnie Baker (jolt96) with large pipe (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 12, 0, 0 | [23:55:13] <font color='orange'>Has been punched by Unknown (krylovmark)</font>
+Death | The Centcom | 0, 28, 0, 0 | [23:54:56]<font color='orange'> Attacked by Owen Newbern (vovanhur) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 9, 0, 0 | [23:55:27]<font color='orange'> Attacked by Owen Newbern (vovanhur) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | Sewers | -1, -1, 2, 2

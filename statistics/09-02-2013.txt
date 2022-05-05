@@ -1,0 +1,42 @@
+Death | The Theatre | 0, 21, 179.1, 0 | [23:58:55] <font color='orange'>Has been disarmed by Ivan Bizon (bohals)</font>
+Death | Engineering Construction Storage | 0, 46, 112, 0
+Death | Medical Research | 0, 48, 0, 0 | [23:50:36] <font color='orange'>Has been fed Greyson Greene-meat by Unknown (1cogwheel1) Reagents: [0x210031b7]</font>
+Death | Engineering Construction Storage | 0, 150.806, 0, 0
+Death | Engineering Construction Storage | 0, 18, 0, 0 | [00:13:36]<font color='orange'> Attacked by Unknown (zanytsin) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 21, 0, 0 | [00:14:31]<font color='orange'> Attacked by Charles Brown (chachka) with crowbar (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 37, 0, 0
+Death | Engineering Construction Storage | 0, 42, 0, 0 | [00:21:26] <font color='red'>Attempted to empty Uriel Reid's () pockets</font>
+Death | The Engineering Control | 0, 7, 0, 0 | [00:34:11]<font color='orange'> Attacked by Uriel Reid (niterial) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Security Lobby | 0, 9, 0, 0 | [00:37:28]<font color='orange'> Attacked by Uriel Reid (niterial) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 141.5, 0, 0 | [00:36:29] <font color='orange'>Has been handcuffed (attempt) by Rick Rainer (tima33)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:03:23] <font color='red'>Attempted to remove Unknown as (Dalton Robinson)'s () ID</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Escape Pod One | 389, 0, 0, 0 | [00:43:18] <b>Simon Phillips/panchoys</b> shot <b>SECBOT/randysandy</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 54, 0, 0 | [00:43:14] <font color='red'>Attempted to remove Unknown's () shoes</font>
+Death | Engineering Construction Storage | 0, 47, 0, 0 | [00:07:18] <b>Misty Torhold as (Simon Phillips)/panchoys</b> shot <b>Unknown/dragoner408</b> with a <b>the Fire Bullet</b>
+Death | The Security Lobby | 0, 5, 0, 0 | [00:50:00]<font color='orange'> Attacked by Unknown (chachka) with crowbar (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 33, 76, 0 | [00:50:10] <font color='orange'>Has been attacked with stun baton by SECBOT (1cogwheel1) (INTENT: HELP)</font>
+Death | The Escape Pod One | 313, 0, 0, 0 | [00:50:10] <font color='red'>Used the stun baton to attack Arnold Herz (odst97) (INTENT: HELP)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 11, 0, 0 | [00:55:59]<font color='orange'> Attacked by Grodon Brooks (teretox) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 6, 0, 0 | [00:57:30]<font color='orange'> Attacked by Unknown (camer) with balisong knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Dormitories | 0, 27, 0, 0 | [00:58:03] <font color='orange'>Has been punched by Bill Karlos (tima33)</font>
+Death | Engineering Construction Storage | 0, 21, 88, 0 | [00:58:42]<font color='orange'> Attacked by Braden Brandenburg (273g) with chain (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 188, 0, 0 | [00:57:07]<font color='red'> Attacked Unknown (zcv) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Security Lobby | 0, 25, 0, 0 | [01:02:44] <font color='orange'>Has had their belt item removed by Bill Karlos (tima33)</font>
+Death | The Engineering Control | 0, 1, 0, 0 | [01:09:50] <b>Unknown/tima33</b> shot <b>Unknown as (Flick Clark)/hoteimotei</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 3, 0, 0 | [01:13:10] <b>Unknown/tima33</b> shot <b>Unknown as (Arnold Herz)/odst97</b> with a <b>the laser</b>
+Death | The Central Primary Hallway | 0, 5, 0, 0 | [01:15:08] <b>Flick Clark/panchoys</b> shot <b>Unknown/tima33</b> with a <b>the lead</b>
+Death | Engineering Construction Storage | 0, 32, 0, 0 | [01:15:43]<font color='orange'> Attacked by Leonard Clarke (zcv) with chain (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 21, 43, 0 | [01:16:23]<font color='orange'> Attacked by Leonard Clarke (zcv) with chain (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0.6, 0 | [01:21:11] <b>Flick Clark/panchoys</b> shot <b>Unknown/chrisik</b> with a <b>the lead</b>
+Death | The Engineering Control | 0, 0, 0, 0 | [01:21:24] <b>Flick Clark/panchoys</b> shot <b>Unknown/chachka</b> with a <b>the lead</b>
+Death | Engineering Construction Storage | 0, 170, 37, 0 | [01:24:10] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Engineering Construction Storage | 0, 26, 0, 0 | [01:34:45] <font color='orange'>Has had their left ear item removed by George Grove (chachka)</font>
+Death | The Central Primary Hallway | 3.1, 5, 0, 36 | [01:40:13] <b>Flick Clark/panchoys</b> shot <b>Unknown/nigilith</b> with a <b>the laser</b>
+Death | The Quartermasters | 0, 21, 180, 0 | [02:56:55] <font color='red'>Fed human by human () Reagents: [0x21003036]</font>

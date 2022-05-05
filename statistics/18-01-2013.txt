@@ -1,0 +1,46 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 27, 6, 0 | [22:45:01]<font color='orange'> Attacked by Graham Maclagan (egorkor) with metal (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | The Dormitories | 0, 3, 5, 0 | [22:51:45]<font color='orange'> Attacked by Rick Woods (kryptonian) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 46, 0, 0 | [22:48:20] <font color='red'>Attempted to remove Unknown's () belt item</font>
+Explosion | The Quartermasters | -1, -1, 1, 2
+Death | The Quartermasters | 0, 44, 0, 0 | [22:53:20]<font color='orange'> Attacked by Unknown (epicjoe) with Handy MK2 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Quartermasters | -1, -1, 1, 2
+Death | The Quartermasters | 0, 34, 0, 0 | [22:54:21] <font color='orange'>Has been punched by Urist Zahodethal (marcusaga)</font>
+Death | The Quartermasters | 0, 18, 0, 0 | [22:54:48] <font color='orange'>Has been punched by Urist Zahodethal (marcusaga)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [22:56:09]<font color='orange'> Attacked by Baldric Hobo Gibson  (eggman1945) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 46, 0, 0
+Death | Engineering Construction Storage | 0, 3, 0, 0 | [23:01:42]<font color='orange'> Attacked by Baldric Hobo Gibson  (eggman1945) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 0, 476, 0 | [22:57:04] <font color='orange'>Has had their uniform removed by Samuel (panchoys)</font>
+Death | Engineering Construction Storage | 0, 49, 77, 0
+Death | Engineering Construction Storage | 0, 174.2, 0, 0 | [22:46:41] <font color='orange'>Has been disarmed by Graham Maclagan as (Kyleigh Costello) (egorkor)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 56, 14, 0 | [23:10:14] <font color='orange'>Has been thrown by Samuel (panchoys)</font>
+Death | The Quartermasters | 0, 42, 34, 0 | [23:17:12] <font color='red'>Threw Amaya Powell (jolt96)</font>
+Death | Engineering Construction Storage | 0, 33, 0, 0 | [23:18:05]<font color='red'> Attacked Unknown (tehdrama) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion |  | -1, 0, 2, 
+Death | The Quartermasters | 0, 34, 17, 0 | [23:17:33]<font color='red'> Attacked Baldric Hobo Gibson  (eggman1945) with large pipe (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 0, 140, 0 | [23:21:04] <font color='orange'>Has had their hat removed by Unknown (epicjoe)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 60, 7, 0 | [23:22:58] <font color='red'>Attempted to remove Willie Pratt's (epicbeardguy) uniform</font>
+Death | Engineering Construction Storage | 0, 100.01, 0, 0
+Death | Engineering Construction Storage | 0, 114.01, 0, 0 | [23:17:56] <font color='orange'>Has had their uniform removed by Jean Creeping Things Guess (dafiop)</font>
+Death | The Cafeteria | 0, 6, 44, 0 | [23:34:05]<font color='orange'> Attacked by Baldric Hobo Gibson  (eggman1945) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 8, 43, 0 | [23:34:21]<font color='orange'> Attacked by Baldric Hobo Gibson  (eggman1945) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 8, 2.1, 0 | [23:34:40]<font color='orange'> Attacked by Baldric Hobo Gibson  (eggman1945) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 11, 1, 0 | [23:36:28]<font color='orange'> Attacked by Samuel (panchoys) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 187, 16, 0
+Death | Engineering Construction Storage | 0, 112, 0, 0
+Death | The Dormitories | 0, 201, 0, 0 | [23:46:58] <font color='orange'>Has had their belt item removed by Urist Zahodethal (marcusaga)</font>
+Death | Engineering Construction Storage | 0, 128, 73, 0
+Death | The Escape Pod One | 0, 175.429, 0, 0 | [23:30:12] <font color='red'>Attempted to remove Drew Hirleman's (mrnoize) suit</font>
+Death | Engineering Construction Storage | 0, 165, 36, 0
+Death | Engineering | 0, 28, 10, 0 | [23:55:15] <font color='orange'>Has had their pockets emptied by Kyleigh Costello (epicjoe)</font>
+Death | Engineering | 0, 57, 0, 0 | [23:55:43] <font color='orange'>Has had their pockets emptied by Kyleigh Costello (epicjoe)</font>

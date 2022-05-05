@@ -1,0 +1,10 @@
+Death | The Engineering Control | 0, 0, 0, 0 | [01:21:39] <b>Scotty Blackburn/catratcat</b> shot <b>the human/</b> with a <b>the Fire Bullet</b>
+Death | The Cafeteria | 0, 0, 0, 0
+Death | The Cafeteria | 0, 0, 0, 0
+Death | The Cafeteria | 0, 0, 0, 0
+Death | The Cafeteria | 0, 0, 0, 0
+Death | The Kitchen | 0, 0, 0, 0
+Death | The Kitchen | 0, 0, 0, 0
+Death | The Engineering Control | 0, 0, 0, 0
+Explosion | The Engineering Control | -1, -1, 3, 3
+Explosion | The Engineering Control | -1, -1, 3, 3

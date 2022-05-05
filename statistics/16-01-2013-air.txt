@@ -1,0 +1,14 @@
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,2500
+"Engineering",21.8366,82.1472,0,0,293.15,2500
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,25000
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,5000
+"The Kitchen",21.8366,82.1472,0,0,293.15,5000
+"The Quartermasters",21.8366,82.1472,0,0,293.15,5000
+"The Security Lobby",21.8366,82.1472,0,0,293.15,10000
+"The Central Primary Hallway",21.8365,82.1472,4.88889e-005,0,293.15,75000
+"Engineering",19.5504,73.5461,0.000127546,0,294.891,210000
+"The Dormitories",19.8406,74.6381,0.000297772,0,293.205,22500
+"The Escape Pod One",21.8366,82.1472,0,0,293.15,5000
+"Medical Research",21.8366,82.1472,0,0,293.15,2500
+"The Quartermasters",21.8366,82.1472,0,0,336.426,20000
+"Medical Research",21.8366,82.1472,0,0,293.15,5000

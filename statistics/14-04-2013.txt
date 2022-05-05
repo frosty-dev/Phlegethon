@@ -1,0 +1,47 @@
+Death | Engineering Construction Storage | 88, 57, 0, 0 | [00:00:50]<font color='orange'> Attacked by Grendel Jardine as (Jayden Elliott) (editorrus2) with balisong knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 73, 99, 0 | [00:07:42] <font color='orange'>Has been thrown by Braiden Vanleer (rzzone)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0
+Death | The Quartermasters | 0, 0, 0, 0 | [00:14:28] <b>Grendel Jardine as (Jayden Elliott)/editorrus2</b> shot <b>Unknown as (Launce Gardner)/lemero</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [00:15:26] <b>Grendel Jardine as (Jayden Elliott)/editorrus2</b> shot <b>Kovel Roust/dnivji</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:20:58] <b>Ian Roust/lemero</b> shot <b>Kai Murray/rzzone</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 1, 0, 0 | [00:26:38] <b>Roan Hees/lemero</b> shot <b>Unknown as (Scott Day)/rzzone</b> with a <b>the lead</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:27:39] <b>Roan Hees/lemero</b> shot <b>Johnny Logue/gadmans</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 175, 0 | [00:28:43]<font color='orange'> Attacked by Tamsin Perkins (miromade) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 38, 0, 0 | [00:31:36]<font color='orange'> Attacked by Unknown (editorrus2) with shard (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:34:25] <b>Karston Greenawalt/gvardota</b> shot <b>Unknown as (Roan Hees)/lemero</b> point blank with a <b>Sleuth DS</b>
+Death | Engineering Construction Storage | 0, 63, 0, 0 | [00:36:05] <font color='orange'>Has had their pockets emptied by Unknown (editorrus2)</font>
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Death | The Escape Pod One | 0, 41, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 57, 0, 0 | [00:48:23]<font color='orange'> Attacked by Unknown (aveyder) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 28, 0, 0 | [00:49:15]<font color='orange'> Attacked by Unknown (pukanovzrivatus) with knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [00:51:00]<font color='orange'> Attacked by Karston Greenawalt (gvardota) with knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0
+Death | The Cafeteria | 0, 0, 0, 0 | [00:51:20] <b>Ian Roust/lemero</b> shot <b>Unknown/rzzone</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 21, 0, 0 | [00:52:29] <b>Ian Roust/lemero</b> shot <b>Unknown/aveyder</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 0, 0, 0 | [00:56:00] <b>Ian Roust/lemero</b> shot <b>Chandler Clark/rzzone</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 175, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering | 0, 2, 0, 0 | [01:11:43]<font color='orange'> Attacked by Unknown (jolt96) with hammer (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 20, 0, 0 | [01:24:22] <b>Ian Roust/lemero</b> shot <b>Unknown/jolt96</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 0, 0, 0 | [01:26:50] <b>Ian Roust/lemero</b> shot <b>Unknown/gvardota</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 1, 0, 0 | [01:27:32] <b>Adrian Carmack/qwertyo55</b> shot <b>Unknown as (Ian Roust)/lemero</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 39, 0, 0 | [01:12:44] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [01:43:26]<font color='orange'> Attacked by Ian Roust (qwertyo55) with Trencher MK2 (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [01:51:22] <b>Jamarion Mathews/tarlfake0000</b> shot <b>Torn Waldendorf/catratcat</b> with a <b>the Bullet</b>
+Death | The Kitchen | 0, 44, 0, 0 | [01:51:13] <b>John Wallcroft/gazbax</b> shot <b>Rick Rainer/dragoner408</b> with a <b>the Fire Bullet</b>
+Death | Engineering | 0, 12, 18, 0 | [01:53:47] <b>Ian Roust/qwertyo55</b> shot <b>Unknown/miromade</b> point blank with a <b>Trencher MK2</b>
+Death | The Engineering Control | 0, 300, 0, 0
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Engineering Control | 0, 0, 0, 0 | [01:54:20] <font color='red'>Attempted to remove Unknown's () belt item</font>

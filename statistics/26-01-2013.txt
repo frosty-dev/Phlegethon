@@ -1,0 +1,61 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 42, 0, 0
+Death | The Engineering Control | 0, 59, 101, 0 | [00:09:18] <font color='orange'>Has had their pockets emptied by Finn Palmer (panchoys)</font>
+Death | Engineering Construction Storage | 0, 46, 0, 0 | [00:11:01] <font color='orange'>Has been thrown by Unknown (epicjoe)</font>
+Death | Engineering Construction Storage | 13, 0, 65, 0 | [00:13:49] <font color='orange'>Has been thrown by Finn Palmer (panchoys)</font>
+Death | Medical Research | 0, 4, 0, 0 | [00:16:54]<font color='orange'> Attacked by Santiago Fiscina (dragoner408) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 51, 54, 0 | [00:22:30] <font color='orange'>Has been strangled (kill intent) by Unknown (epicjoe)</font>
+Death | Medical Research | 0, 39, 0, 0 | [00:23:31]<font color='orange'> Attacked by Randy Powers (leonido33) with chain (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering | -1, -1, 2, 2
+Explosion | Engineering | -1, 0, 2, 
+Death | The Engineering Control | 0, 86, 0, 0 | [00:29:46] <font color='orange'>Has had their right ear item removed by Unknown (epicjoe)</font>
+Death | The Security Lobby | 0, 25, 0, 0 | [00:37:06] <b>Unknown/epicjoe</b> shot <b>Finn Palmer/gvardota</b> point blank with a <b>the Handy MK2</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 21, 31, 0 | [00:46:51] <font color='red'>Attempted to empty Antonio Jones's () pockets</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | The Engineering Control | 0, 131, 0, 0 | [14:09:44] <font color='orange'>Has been thrown by Unknown (epicjoe)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 188.7, 0, 43 | [14:16:10]<font color='orange'> Attacked by Ezra Garrison (microman8v) with knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 7.4, 3, 0, 0 | [14:18:20]<font color='orange'> Attacked by Unknown (geeezus) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Cafeteria | 0, 1, 0, 0 | [14:31:19]<font color='orange'> Attacked by Unknown (geeezus) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 12, 0, 0 | [14:36:33]<font color='orange'> Attacked by Unknown (echo1212) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 187, 61, 0 | [14:36:46] <font color='orange'>Has been thrown by Elize as (Ryker Raub) (panchoys)</font>
+Death | The Engineering Control | 0, 16, 0, 48 | [14:40:57] <b>Wilhelm Sundberg /airenjon</b> shot <b>Edward Bogwater/norgot</b> with a <b>the Fire Bullet</b>
+Death | The Engineering Control | 0, 13, 0, 0 | [14:42:42]<font color='orange'> Attacked by Unknown (echo1212) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 40, 0, 0 | [14:42:55]<font color='orange'> Attacked by Bryce Guess (microman8v) with rasp (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 186.8, 0, 0 | [14:44:02] <b>Elize as (Ryker Raub)/panchoys</b> shot <b>Unknown/failoman</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 69, 0, 0 | [14:54:07] <font color='orange'>Has been thrown by Elize as (Ryker Raub) (panchoys)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [14:55:56] <font color='orange'>Has been thrown by Unknown (epicjoe)</font>
+Death | The Engineering Control | 0, 2, 0, 0 | [14:56:29] <b>Unknown/echo1212</b> shot <b>Unknown/epicjoe</b> point blank with a <b>the Handy MK2</b>
+Death | The Engineering Control | 0, 2, 0, 0 | [14:56:34] <b>Unknown/echo1212</b> shot <b>Unknown as (Ryker Raub)/panchoys</b> point blank with a <b>the Handy MK2</b>
+Death | The Engineering Control | 21.2, 0, 0, 0 | [14:58:29] <font color='red'>Attempted to remove Jhon Kameron's (pwwp) belt item</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [15:05:43] <font color='red'>Attempted to remove Unknown's () hat</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [15:00:59] <font color='red'>Attempted to remove Unknown's () left ear item</font>
+Death | Engineering Construction Storage | 0, 1, 0, 0 | [15:10:22] <b>Randall Howl/echo1212</b> shot <b>Unknown/woody112</b> point blank with a <b>the Handy MK2</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 25, 0, 0 | [15:12:41] <b>Bryce Guess as (Ian Travis)/microman8v</b> shot <b>Unknown/palputin</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 49, 29, 0 | [15:01:12] <font color='orange'>Has had their uniform removed by Tristan Feufer (airenjon)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [15:29:58] <font color='orange'>Has been thrown by Ian Travis (captainmouse)</font>
+Death | The Cafeteria | 0, 14, 0, 0 | [15:31:33]<font color='orange'> Attacked by Ian Travis (captainmouse) with chain (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 25, 0, 0 | [15:32:57] <b>Finn Palmer/susimus</b> shot <b>Unknown as (Bruno Montana)/rigget</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [15:38:14] <b>Maximilian Johnson/microman8v</b> shot <b>Unknown/panchoys</b> with a <b>the lead</b>
+Death | The Central Primary Hallway | 0, 23, 0, 0 | [15:38:01] <b>Maximilian Johnson/microman8v</b> shot <b>Bill Karlos/tima33</b> with a <b>the lead</b>
+Death | The Central Primary Hallway | 0, 11, 0, 0 | [15:39:33] <b>Maximilian Johnson/microman8v</b> shot <b>Unknown/leonido33</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 5, 0, 0

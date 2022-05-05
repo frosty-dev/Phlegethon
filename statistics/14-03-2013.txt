@@ -1,0 +1,34 @@
+Death | The Engineering Control | 0, 0, 0, 0 | [21:47:59]<font color='orange'> Attacked by Trey Liam (doublerandysandy) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [21:58:39]<font color='orange'> Attacked by Andres Wilson (qqqjerichoppp) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 12, 0, 0 | [22:01:39]<font color='orange'> Attacked by Arnold Herz (odst97) with balisong knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 44, 42, 0 | [22:03:28] <font color='orange'>Has been thrown by Brian Owl Hoover (eggman1945)</font>
+Death | The Engineering Control | 0, 187, 9, 0 | [21:48:09] <font color='orange'>Has been punched by Raymond Moley (gaben)</font>
+Death | Medical Research | 0, 34, 0, 0 | [22:20:46]<font color='orange'> Attacked by Dillon Beedell (thelocust) with nailed bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 7, 12, 0 | [22:26:24]<font color='orange'> Attacked by Brian Owl Hoover (eggman1945) with hammer (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 35, 0, 34, 0 | [22:29:34] <font color='orange'>Has had their mask removed by Trey Liam (doublerandysandy)</font>
+Death | The Engineering Control | 0, 0, 24, 0 | [22:33:51] <b>Arnold Herz/odst97</b> shot <b>Unknown/camer</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 66, 0, 0, 0 | [22:35:48]<font color='orange'> Attacked by Arnold Herz (odst97) with balisong knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 0, 4, 0 | [22:42:20]<font color='orange'> Attacked by Arnold Herz (thelocust) with scalpel (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 14, 76, 0 | [22:45:02] <b>Trey Liam/doublerandysandy</b> shot <b>Alec Sandys/epicjoe</b> with a <b>bow</b> (fuel (5),)
+Death | Medical Research | 0, 2, 0, 0 | [22:55:08]<font color='orange'> Attacked by Wayne Howard (earthwormj1m) with nailed bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 6, 0, 0 | [22:59:29]<font color='orange'> Attacked by Arnold Herz (thelocust) with scalpel (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 0, 0, 0 | [23:02:35] <b>Arnold Herz/thelocust</b> shot <b>Rudolf Lamfry/odst97</b> with a <b>the Bullet</b>
+Death | Medical Research | 0, 41, 0, 0 | [23:02:50] <b>Unknown as (Holden Tennant)/1cogwheel1</b> shot <b>Arnold Herz/thelocust</b> with a <b>the Bullet</b>
+Death | Medical Research | 0, 28, 114, 28 | [23:01:45] <font color='orange'>Has been thrown by Arnold Herz (thelocust)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Medical Research | 0, 27, 0, 0 | [23:14:00] <b>Zachariah Raub/gvardota</b> shot <b>Unknown/chachka</b> point blank with a <b>the Handy MK2</b>
+Death | Medical Research | 0, 27, 0, 44 | [23:16:11]<font color='orange'> Attacked by Zachariah Raub (gvardota) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [23:33:51] <b>Henry Chinasky/camer</b> shot <b>Sum Ruster/chrisik</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 5, 0, 0 | [23:34:33] <b>Henry Chinasky/camer</b> shot <b>Pestor Struggle/epicjoe</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [23:36:33] <b>Trey Liam/randysandy</b> shot <b>Unknown as (Larvus Borux)/chachka</b> point blank with a <b>the Handy MK2</b>
+Death | The Central Primary Hallway | 0, 4, 0, 0 | [23:36:41] <b>Trey Liam/randysandy</b> shot <b>Henry Chinasky/camer</b> point blank with a <b>Sleuth DS</b>
+Death | The Central Primary Hallway | 100, 16, 16, 0 | [23:36:52]<font color='orange'> Attacked by Trey Liam (randysandy) with Sleuth DS (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [23:37:26]<font color='orange'> Attacked by Unknown as (Andres Wilson) (thelocust) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 28, 0, 0 | [23:56:09]<font color='orange'> Attacked by Unknown (thelocust) with nailed bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2

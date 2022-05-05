@@ -1,0 +1,77 @@
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 1, 0, 0 | [15:31:02]<font color='orange'> Attacked by Holden Isemann (palputin) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 9, 30, 0 | [15:35:47] <font color='orange'>Has been punched by Adrian Carmack (qwertyo55)</font>
+Death | Sewers | 0, 1, 0, 0 | [15:36:43]<font color='orange'> Attacked by Holden Isemann (palputin) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 175, 0
+Death | Street | 0, 37, 98, 0
+Death | Street | 0, 0, 104.1, 0
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 116.9, 0 | [15:36:59] <font color='red'>Punched Unknown ()</font>
+Death | Sewers | 0, 0, 120.6, 0
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 10, 0, 0 | [15:43:19]<font color='orange'> Attacked by Steven Todd (disconected) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 44, 0, 0 | [15:40:34] <font color='red'>Attempted to empty James Butt's (cattus) pockets</font>
+Death | Sewers | 0, 16, 79, 0 | [15:48:09]<font color='orange'> Attacked by Adrian Carmack (qwertyo55) with scalpel (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Street | 33.3, 0, 175, 0 | [15:52:27]<font color='red'> Attacked Colton McGarryson (alfgeirrnicolason) with bow (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 25, 21, 125.428
+Death | Sewers | 0, 35, 18, 118.142
+Death | Sewers | 0, 34, 24, 112.07
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 5, 26, 0 | [16:03:29]<font color='orange'> Attacked by Unknown (whiteman) with bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 1, 30, 0 | [16:03:58]<font color='orange'> Attacked by Buck Mccnelan (rigget) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 11.1, 31, 69.2, 0 | [15:51:46] <font color='red'>Strangled (kill intent) Samyil Thompson (miroar)</font>
+Death | The Quartermasters | 0, 31, 73.3999, 0 | [15:53:34] <font color='red'>Attempted to remove Steven Todd's () hat</font>
+Death | Street | 0, 0, 104.6, 0 | [16:12:31]<font color='orange'> Attacked by Charles Lawrence (vadkop) with berry flavoring packet (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 20, 36, 0 | [16:22:43]<font color='orange'> Attacked by Samyil Thompson (miroar) with knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 32, 21, 0 | [16:25:13] <font color='orange'>Has had their left ear item removed by Griffin Reighner (vovanhur)</font>
+Death | Sewers | 64.6, 0, 21, 0 | [16:29:20]<font color='orange'> Attacked by Bruce Noton (midas123) with Springfield A7 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Street | -1, 0, 2, 
+Death | Street | 12.8, 6, 0, 0 | [16:31:16]<font color='orange'> Attacked by Bruce Noton (midas123) with Springfield A7 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 3, 101, 0 | [16:28:01] <b>Bruce Noton/midas123</b> shot <b>Alessa Towers/nigilith</b> with a <b>bow</b> (blood (5),)
+Death | The Quartermasters | 4, 35, 136.199, 0 | [16:40:27] <font color='red'>Fed Rusty James by Rusty James (moroz10) Reagents: [0x21008d4a]</font>
+Death | Street | 0, 1, 25, 0 | [16:48:34]<font color='orange'> Attacked by Rastus Jewell (gwini) with bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 31, 49.6001, 0 | [16:51:43] <font color='orange'>Has been fed meat by Griffin Reighner (vovanhur) Reagents: [0x2100a7de]</font>
+Death | Street | 0, 0, 116.623, 5.64069 | [16:43:52] <font color='red'>Attempted to remove Charles Lawrence's () back item</font>
+Death | The Quartermasters | 0, 34, 119.999, 0 | [16:40:27] <font color='orange'>Has been fed Kelotane pill by Urist Zahodethal (marcusaga) Reagents: [0x21008d4a]</font>
+Death | Building | 12.6, 0, 167.5, 0
+Death | The Dormitories | 0, 62, 0, 0 | [16:59:48]<font color='orange'> Attacked by Milton Sutton (whiteman) with fire axe (Wielded) (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Building | 0, 0, 135.2, 0 | [16:59:04]<font color='orange'> Attacked by Rastus Jewell (gwini) with bottle of lindane (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 7, 0 | [17:06:23]<font color='orange'> Attacked by Unknown (qwertyo55) with chainsaw (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 95.2, 0 | [17:15:01] <font color='orange'>Has had their pockets emptied by Griffin Reighner (vovanhur)</font>
+Death | Street | 0, 57, 0, 0 | [17:18:25]<font color='orange'> Attacked by Hugo Heckendora (spartan235) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 1, 0, 0 | [17:19:43]<font color='orange'> Attacked by Mark James (midas123) with bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 175, 0
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 70, 73, 0 | [17:31:57]<font color='orange'> Attacked by Sampson Sloan (alkoz) with chain (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 29, 0, 0
+Death | Street | 0, 2, 0, 0 | [17:48:51]<font color='orange'> Attacked by Ace Myles (silentium) with chainsaw (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | The Centcom | -1, 0, 2, 
+Death | Sewers | 13.2, 0, 8, 0 | [17:49:50] <font color='orange'>Has had their shoes removed by Conrad Nominox (diustin)</font>
+Death | Building | 0, 31, 106.4, 0 | [18:00:01]<font color='orange'> Attacked by Unknown (airenjon) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 24, 100, 0 | [18:09:25]<font color='orange'> Attacked by Greyson Thomlinson (alkoz) with old tanktop shirt (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 16.4, 2.5, 32.4, 0
+Death | The Central Primary Hallway | 1.19999, 0.5, 5, 0 | [18:17:54] <b>Shaun Hoover/whiteman</b> shot <b>Johnny Logue/gadmans</b> with a <b>the Fire Bullet</b>
+Death | The Dormitories | 0, 1.5, 29, 0 | [17:40:07] <font color='red'>Attempted to remove Johnny Logue's (gadmans) mask</font>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | Sewers | 0, 1, 4, 0 | [18:09:13] <font color='orange'>Has had their hat removed by Conrad Nominox (diustin)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [18:20:23] <b>Shaun Hoover/whiteman</b> shot <b>Mark James/midas123</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 5, 27, 0 | [18:21:25] <b>Mark James/midas123</b> shot <b>Unknown as (Johnny Logue)/vovanhur</b> with a <b>bow</b> ()
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [18:21:45] <b>Shaun Hoover/whiteman</b> shot <b>Unknown as (Johnny Logue)/vovanhur</b> with a <b>the lead</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [18:22:21] <b>Shaun Hoover/whiteman</b> shot <b>Unknown/midas123</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 2, 14, 0
+Death | The Quartermasters | 0, 2.5, 19.2, 0
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Quartermasters | 0, 260.3, 26.8, 0 | [18:34:02] <font color='orange'>Has been fed Tramadol pill by Steve Rams (jolt96) Reagents: [0x210099d9]</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [18:36:47]<font color='orange'> Attacked by Ace Myles (silentium) with chainsaw (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 0, 8, 0 | [18:37:57] <b>Ace Myles/silentium</b> shot <b>Steve Rams/jolt96</b> with a <b>the projectile</b>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 12, 0, 0 | [18:40:31] <b>Rum Waters/silentium</b> shot <b>Steve Rams/jolt96</b> with a <b>the Bullet</b>

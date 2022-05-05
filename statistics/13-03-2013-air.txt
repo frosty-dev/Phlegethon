@@ -1,0 +1,8 @@
+"The Dormitories",21.8366,82.1472,0,0,293.15,2500
+"The Dormitories",21.8366,82.1472,0,0,293.15,15000
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,5000
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,2500
+"The supply shuttle",21.8366,82.1472,0,0,293.15,35000
+"The Quartermasters",21.8357,82.1472,0.000855556,0,293.15,15000
+"The Security Lobby",21.8366,82.1472,0,0,293.15,7500
+"The Escape Pod One",21.8366,82.1472,0,0,293.15,5000

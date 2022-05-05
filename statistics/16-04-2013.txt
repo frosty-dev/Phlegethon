@@ -1,0 +1,10 @@
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 5, 0, 0
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 0, 0, 0
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Cafeteria | 0, 0, 0, 0
+Death | The Kitchen | 0, 0, 0, 0 | [22:11:43] <font color='orange'>Has been disarmed by Cletus Moore (catratcat)</font>
+Death | The Kitchen | 0, 0, 0, 0
+Death | The Kitchen | 0, 0, 0, 0

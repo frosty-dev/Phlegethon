@@ -1,0 +1,246 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Security Lobby | 0, 51, 0, 0 | [00:00:19]<font color='orange'> Attacked by Unknown (chachka) with hammer (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 79, 0, 0 | [00:07:09]<font color='orange'> Attacked by Dillon Beedell as (Trey Liam) (thelocust) with hatchet (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 135, 0, 0 | [00:08:47] <b>Dillon Beedell as (Trey Liam)/thelocust</b> shot <b>Hank Wimbleton/danteru</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 45, 0, 0 | [00:08:36] <b>Dillon Beedell as (Trey Liam)/thelocust</b> shot <b>Unknown as (Zip Gunn)/camer</b> point blank with a <b>the Handy MK2</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:15:30] <b>Donot Lock/camer</b> shot <b>Unknown/thelocust</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 14, 0, 0 | [00:18:18] <b>Donot Lock/camer</b> shot <b>Unknown/chachka</b> with a <b>the lead</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:19:44] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Donot Lock/camer</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:19:59] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/1cogwheel1</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 0, 96, 0 | [00:19:31]<font color='orange'> Attacked by Wyatt Roberts (gvardota) with brick (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [00:21:16] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Unknown/silentium</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 100, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 0, 0, 0 | [00:22:48] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Donot Lock/camer</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 97, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | Space | 0, 0, 0, 0 | [00:23:12] <font color='orange'>Has been thrown by I Nag as (Trey Liam) (thelocust)</font>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 94, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 91, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 88, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 88, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 88, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 88, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 88, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 88, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 88, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 88, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 88, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 88, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 88, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 88, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 88, 0 | [00:20:40] <b>I Nag as (Trey Liam)/thelocust</b> shot <b>Holden Tennant/</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 29, 66.5, 0 | [00:27:52] <font color='orange'>Has had their neck grabbed by Joshua Kifer (chachka)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 3, 0, 0 | [00:34:03]<font color='orange'> Attacked by Hank Wimbleton (danteru) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 27, 175, 0 | [00:43:30]<font color='orange'> Attacked by Dr. John Cooper (silentium) with screwdriver (INTENT: HELP)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 27, 85.9, 0
+Death | The Theatre | 0, 136.3, 0, 0 | [00:54:37]<font color='orange'> Attacked by Joshua Kifer (chachka) with sharpening (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 100, 0 | [01:29:08]<font color='orange'> Attacked by Unknown (thelocust) with balisong knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 62, 0, 0, 0 | [01:33:23] <b>Zip Gunn/camer</b> shot <b>Unknown/thelocust</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [01:41:17] <b>Dr. John Cooper/silentium</b> shot <b>Unknown as (Dr. John Cooper)/gvardota</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 0, 0, 0 | [01:45:48] <b>Unknown/catratcat</b> shot <b>Unknown as (Zip Gunn)/camer</b> point blank with a <b>the Handy MK2</b>
+Death | The Central Primary Hallway | 0, 5, 0, 0 | [01:49:54] <b>Unknown/catratcat</b> shot <b>Hank Wimbleton/danteru</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 38, 0, 16, 0 | [01:51:18] <b>Unknown as (Zip Gunn)/camer</b> shot <b>Dr. John Cooper/silentium</b> with a <b>the lead</b>
+Death | The Central Primary Hallway | 0, 9, 0, 0 | [01:53:14]<font color='orange'> Attacked by Unknown as (Zip Gunn) (camer) with Trencher MK2 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 0, 0, 0 | [02:00:28] <b>Unknown as (Zip Gunn)/camer</b> shot <b>Unknown/catratcat</b> with a <b>the lead</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 35, 139.4, 0 | [19:59:47]<font color='red'> Attacked Bryce Sagan (divulon) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 27, 0, 0 | [20:00:59]<font color='orange'> Attacked by Alexandr Kane (azztek) with Nipper MK1 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 186.6, 21, 0 | [20:01:49] <font color='orange'>Has been strangled (kill intent) by Unknown (epicjoe)</font>
+Death | The Engineering Control | 0, 29, 62.9, 0 | [20:03:36] <font color='orange'>Has had their mask removed by Rodger Ward (lemero)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [20:04:33]<font color='orange'> Attacked by Unknown (epicjoe) with balisong knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 126, 0, 0 | [20:03:30] <font color='orange'>Has had their back item removed by Rodger Ward (lemero)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Medical Research | 0, 0, 0, 11 | [20:05:52]<font color='orange'> Attacked by Braden Bunten (dezer) with scalpel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 0, 0, 0 | [20:13:26]<font color='orange'> Attacked by Braden Bunten (dezer) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 3, 0, 0 | [20:14:27]<font color='orange'> Attacked by Jaxon Parker (divulon) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | The Engineering Control | 0, 54, 0, 0 | [20:15:19] <font color='orange'>Has had their left ear item removed by Unknown (epicjoe)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Security Lobby | 0, 28, 76.5, 0 | [20:22:35] <font color='orange'>Has been strangled (kill intent) by Unknown (epicjoe)</font>
+Death | The Engineering Control | 0, 14, 0, 0 | [20:24:05] <b>Hank Callison/hank667</b> shot <b>Carter Powers/striker12345</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 28, 24, 0 | [20:27:00] <font color='orange'>Has had their pockets emptied by Arnold Herz (epicjoe)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 21, 33, 0 | [20:42:16]<font color='orange'> Attacked by Hank Callison (hank667) with circular saw (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 153, 0, 0 | [20:50:02] <font color='orange'>Has had their back item removed by Dr. John Cooper (silentium)</font>
+Death | The Quartermasters | 0, 28, 100, 0 | [20:51:36] <font color='orange'>Has been fed Tramadol pill by Hank Callison (hank667) Reagents: [0x210028a4]</font>
+Death | Engineering Construction Storage | 0, 6, 30, 0 | [20:57:49]<font color='orange'> Attacked by Arnold Herz (epicjoe) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 1, 0, 0 | [21:05:54] <b>Dr. John Cooper/silentium</b> shot <b>Unknown/microman8v</b> point blank with a <b>Canis .45-70</b>
+Death | Engineering Construction Storage | 0, 18, 79, 0 | [21:06:53]<font color='orange'> Attacked by Unknown (airenjon) with sharpening (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 7, 7, 0 | [21:07:37] <font color='orange'>Has been thrown by Arnold Herz (epicjoe)</font>
+Death | The Engineering Control | 0, 20, 0, 0 | [21:09:45] <font color='orange'>Has had their pockets emptied by Arnold Herz (epicjoe)</font>
+Explosion | The Engineering Control | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:09:45] <font color='red'>Attempted to empty Atarabashi Nihondzin's (editorrus3) pockets</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 54, 50, 0 | [21:13:21] <b>Unknown/airenjon</b> shot <b>Unknown/camer</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:13:55] <b>Unknown/airenjon</b> shot <b>Unknown/editorrus4</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 10, 18, 0 | [21:16:47] <font color='orange'>Has had their suit removed by Angel Fryer (dezer)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [21:17:29] <b>Wyatt Roberts as (Alexandr Kane)/gvardota</b> shot <b>William Reighner as (Hank Callison)/catratcat</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 185.5, 0, 0
+Death | The Quartermasters | 0, 124, 79, 0
+Death | The Centcom | 0, 0, 0, 0 | [21:21:37] <b>Wyatt Roberts as (Hank Callison)/gvardota</b> shot <b>Dr. John Cooper/silentium</b> with a <b>the Bullet</b>
+Death | The Centcom | 0, 0, 0, 47 | [21:22:06] <b>Wyatt Roberts as (Hank Callison)/gvardota</b> shot <b>Unknown/dezer</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 12, 0, 0 | [21:30:58]<font color='orange'> Attacked by Zip Gunn (camer) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Kitchen | 0, 40, 0, 61 | [21:40:54] <b>William Reighner/catratcat</b> shot <b>Unknown as (Solder Hans)/lemero</b> point blank with a <b>Nipper MK1</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 7, 0, 0 | [21:50:00]<font color='orange'> Attacked by Unknown (editorrus) with nailed bat (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:54:38] <b>Mark Bower/dnivji</b> shot <b>Unknown/bohals</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:54:59]<font color='orange'> Attacked by Mark Bower (dnivji) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 6, 0, 0 | [21:59:26]<font color='orange'> Attacked by Karston Greenawalt (gvardota) with hatchet (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:59:56] <b>John Bolon/epicjoe</b> shot <b>Mark Bower/dnivji</b> with a <b>the lead</b>
+Death | Engineering Construction Storage | 0, 32, 0, 0 | [22:00:37] <b>Jenny Doe/danteru</b> shot <b>Solder Hans/lemero</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 126.5, 77.7, 0 | [22:01:57] <font color='orange'>Has had their suit removed by Jenny Doe (danteru)</font>
+Death | The Central Primary Hallway | 0, 6, 180.08, 0 | [22:02:22] <b>Mole Pratchett/microman8v</b> shot <b>Marcus Murray/chrisik</b> with a <b>the Bullet</b>
+Death | The Kitchen | 0, 0, 168.6, 0 | [21:50:31] <font color='red'>Attempted to remove Braden Bunten's () uniform</font>
+Death | The Central Primary Hallway | 0, 8, 170.08, 0
+Death | The Central Primary Hallway | 0, 8, 190.08, 0
+Death | The Engineering Control | 0, 11, 200.08, 0
+Death | The Quartermasters | 69.4001, 8, 140, 0 | [22:00:16] <b>Brian Owl Hoover as (Solder Hans)/eggman1945</b> shot <b>Braden Bunten/dezer</b> with a <b>bow</b> ()
+Death | The Central Primary Hallway | 0, 4, 84, 0
+Death | The Central Primary Hallway | 0, 2, 0.04, 0 | [21:42:13] <font color='red'>Attempted to remove Unknown as (Solder Hans)'s () left ear item</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:19:23]<font color='orange'> Attacked by Solder Hans (lemero) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Security Lobby | 0, 1, 0, 0 | [22:20:08]<font color='orange'> Attacked by Cassandra Rollie (dnivji) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Security Lobby | 0, 0, 10, 0 | [22:21:36]<font color='orange'> Attacked by John Bolon (epicjoe) with balisong knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Security Lobby | 47, 0, 0, 0 | [22:21:39]<font color='orange'> Attacked by John Bolon (epicjoe) with balisong knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Security Lobby | 0, 0, 10, 0 | [22:21:45]<font color='orange'> Attacked by John Bolon (epicjoe) with balisong knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death |  | 0, 0, 0, 0
+Death |  | 0, 0, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Cafeteria | 0, 56, 0, 0 | [22:32:01] <font color='orange'>Has been strangled (kill intent) by Jenny Doe as (Unkown) (danteru)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 174, 0, 0 | [22:43:40] <font color='orange'>Has had their pockets emptied by Zachariah Raub (gvardota)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [22:47:17] <b>Israel Baker/bohals</b> shot <b>John Bolon/epicjoe</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 0, 0, 0 | [22:54:25]<font color='orange'> Attacked by Mark Bower (dnivji) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 26, 175, 0
+Death | Engineering Construction Storage | 32.5999, 9, 70.4001, 0 | [23:25:18] <font color='orange'>Has had their back item removed by Mark Bower (dnivji)</font>
+Death | Medbay | 0, 31, 93.4, 0 | [23:23:49] <font color='red'>Attempted to remove Johnny Logue's (gadmans) shoes</font>
+Death | The Engineering Control | 420, 0, 0, 0 | [23:26:49] <font color='red'>Used the stun baton to attack Mr. Owl (1cogwheel1) (INTENT: HELP)</font>
+Death | The Central Primary Hallway | 0, 7, 0, 0 | [23:37:52] <b>Israel Baker/bohals</b> shot <b>Unknown as (Jenny Doe)/danteru</b> point blank with a <b>Hamlet SMG</b>
+Death | Engineering Construction Storage | 6.49996, 28, 151.1, 0 | [23:23:49] <font color='orange'>Has had their shoes removed by Bradley Armstrong (komputar)</font>
+Death | The Security Lobby | 308, 0, 0, 0 | [23:38:21]<font color='orange'> Attacked by Mr. Owl (1cogwheel1) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 196, 104, 0
+Death | The Escape Pod One | 0, 0, 0, 0 | [23:43:30] <b>Israel Baker/bohals</b> shot <b>Unknown/lemero</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [23:44:06]<font color='orange'> Attacked by Security Cyborg -202 (chrisik) with stun baton (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 49, 0, 0 | [23:44:22] <font color='red'>Threw Unknown ()</font>
+Death | The Escape Pod One | 0, 11, 30, 0 | [22:49:32] <font color='red'>Threw John Bolon ()</font>

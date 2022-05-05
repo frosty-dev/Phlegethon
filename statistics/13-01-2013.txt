@@ -1,0 +1,100 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 186, 0, 0 | [21:08:39]<font color='red'> Attacked Ryder Wheel Robinson (onnyx) with large pipe (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 5, 0, 0 | [21:11:17]<font color='orange'> Attacked by Ian Windsor (woody112) with brass knuckle (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [21:17:01]<font color='orange'> Attacked by Unknown (dragoner408) with crowbar (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 64, 64, 0, 0 | [21:16:31] <font color='orange'>Has been thrown by Unknown (epicjoe)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 34, 0, 0 | [21:18:45] <font color='orange'>Has had their pockets emptied by Unknown (dragoner408)</font>
+Death | Engineering Construction Storage | 0, 0, 21, 0 | [21:18:21]<font color='orange'> Attacked by Boris Blade Grishenko (fiodoss) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 14, 0 | [21:12:21] <font color='red'>Attempted to empty Drew Kelly's (hellbyte) pockets</font>
+Death | Engineering Construction Storage | 0, 40, 0, 0 | [21:20:44] <font color='orange'>Has had their suit removed by Unknown (epicjoe)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 47, 33, 0
+Death | Engineering Construction Storage | 0, 34, 0, 0 | [21:16:05] <font color='orange'>Has had their shoes removed by Baldric Hobo Gibson  (eggman1945)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [21:24:36]<font color='orange'> Attacked by John DeFoe (jolt96) with brick (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Security Lobby | 0, 7, 0, 0 | [21:24:39]<font color='orange'> Attacked by Boris The Blade Manochnikov (fiodoss) with chain (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 11, 0, 0 | [21:25:40]<font color='orange'> Attacked by John DeFoe (jolt96) with brick (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Security Lobby | 0, 2, 0, 0 | [21:26:26] <b>Unknown/epicjoe</b> shot <b>Unknown/fiodoss</b> point blank with a <b>the Handy MK2</b>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [21:26:49]<font color='orange'> Attacked by Terry Kelley (shorrer) with metal rods (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 35, 10, 0 | [21:26:18] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | The Quartermasters | 6, 37, 25, 0 | [21:28:42]<font color='red'> Attacked Ryder Wheel Robinson (onnyx) with large pipe (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 32, 0, 0 | [21:28:42]<font color='orange'> Attacked by Terry Kelley (shorrer) with large pipe (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 7, 5, 0 | [21:31:08]<font color='orange'> Attacked by Ian Windsor (woody112) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [21:33:52]<font color='orange'> Attacked by Unknown (fiodoss) with balisong knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 39, 39, 0 | [21:33:39]<font color='red'> Attacked Boris Blade Grishenko () with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 36, 56, 0 | [21:32:14]<font color='orange'> Attacked by Terry Kelley (shorrer) with shard (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 47, 0, 0 | [21:34:33] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Engineering Construction Storage | 0, 41, 90, 0
+Death | The Quartermasters | 0, 0, 0, 0 | [21:35:13] <b>River Zimmer/littlechaos</b> shot <b>Urist Washedbaby/marcusaga</b> with a <b>the Electrode</b>
+Death | Engineering Construction Storage | 0, 35, 94, 0
+Death | Engineering Construction Storage | 0, 48, 0, 0 | [21:33:21] <font color='red'>Attempted to remove John DeFoe's () belt item</font>
+Death | Engineering Construction Storage | 0, 115, 0, 0 | [21:36:43] <font color='orange'>Has been strangled (kill intent) by Irvine Picard (mrrino)</font>
+Death | Engineering Construction Storage | 0, 48, 17, 0 | [21:37:14] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Engineering Construction Storage | 0, 35, 0, 0 | [21:08:44] <font color='red'>Attempted to empty Drew Kelly's (hellbyte) pockets</font>
+Death | The Engineering Control | 0, 30, 0, 0 | [21:40:30] <b>Unknown/epicjoe</b> shot <b>Unknown/dragoner408</b> point blank with a <b>the Handy MK2</b>
+Death | Medical Research | 0, 0, 0, 0 | [21:41:53]<font color='orange'> Attacked by Rudollf Schutze (armun) with sharpening (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 166, 0, 0 | [21:43:55] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Engineering Construction Storage | 17, 42, 0, 0 | [21:41:16] <font color='red'>Attempted to empty Urist Washedbaby's () pockets</font>
+Death | Engineering Construction Storage | 0, 47, 0, 0 | [21:44:24]<font color='orange'> Attacked by Steve Wilson (buddey) with scout (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 5, 5, 0 | [21:45:54]<font color='orange'> Attacked by Drew Hirleman (mrnoize) with chain (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 34, 0, 0
+Death | The Quartermasters | 0, 53, 0, 0 | [21:45:12] <font color='red'>Attempted to empty Urist Washedbaby's () pockets</font>
+Death | Engineering Construction Storage | 0, 183, 0, 0 | [21:47:42] <font color='red'>Attempted to remove Unknown's (demonbykov) right ear item</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [21:52:40]<font color='orange'> Attacked by Terry Kelley (shorrer) with metal rods (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Cafeteria | 0, 0, 0, 0 | [21:46:13] <font color='orange'>Has had their uniform removed by Unknown (dafiop)</font>
+Death | The Quartermasters | 0, 35, 36, 0 | [21:53:28] <font color='orange'>Has been thrown by Randy Powers (leonido33)</font>
+Death | Engineering Construction Storage | 0, 196, 79, 0 | [21:55:55] <font color='orange'>Has been punched by Phoenix Hunter Beck (eggman1945)</font>
+Death | The Engineering Control | 0, 0, 6, 0 | [21:56:12] <b>River Zimmer/littlechaos</b> shot <b>Raymond McRay/raymar</b> with a <b>the laser</b>
+Death | The Engineering Control | 0, 1, 0, 0 | [21:57:11] <b>Unknown/panchoys</b> shot <b>Unknown/catratcat</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 26, 0, 0 | [21:59:59] <b>River Zimmer/littlechaos</b> shot <b>Unknown/armun</b> with a <b>the laser</b>
+Death | The Central Primary Hallway | 0, 12, 0, 0 | [22:00:51]<font color='orange'> Attacked by John Nerer (xaker2009) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 36, 0, 0 | [22:01:11] <font color='orange'>Has had their uniform removed by Unknown (dafiop)</font>
+Death | Engineering Construction Storage | 0, 30, 0, 0 | [21:58:11] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | The Escape Pod One | 0, 1, 0, 0 | [22:01:56] <b>John Nerer/xaker2009</b> shot <b>Unknown/airenjon</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 27, 48, 0
+Death | The Cafeteria | 0, 149, 0, 0 | [22:02:00] <b>Unknown/panchoys</b> shot <b>Unknown/eggman1945</b> with a <b>the projectile</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [22:00:13] <b>River Zimmer/littlechaos</b> shot <b>Urist  Zagodeth The Washed Baby/marcusaga</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 28, 0, 9, 0 | [22:04:21] <font color='red'>Attempted to remove Unknown's () suit</font>
+Death | The Quartermasters | 0, 4, 0, 0 | [22:08:17]<font color='orange'> Attacked by Oliver Queen (woody112) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 28, 0, 0, 0 | [22:09:42] <b>Randy Powers/leonido33</b> shot <b>Unknown/dafiop</b> with a <b>the laser</b>
+Death | Engineering Construction Storage | 0, 4, 0, 0 | [22:09:58] <b>Unknown/panchoys</b> shot <b>Randy Powers/leonido33</b> with a <b>the laser</b>
+Death | Engineering Construction Storage | 0, 6, 5, 0 | [22:10:48] <b>Unknown/panchoys</b> shot <b>Unknown/echo1212</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Medical Research | 18, 1, 20, 0 | [22:23:28]<font color='orange'> Attacked by Montgomery Manson (camer) with hatchet (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [22:26:12]<font color='orange'> Attacked by Misty Torhold (panchoys) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 47, 25, 0 | [22:24:24] <font color='orange'>Has had their uniform removed by Misty Torhold (panchoys)</font>
+Death | The Engineering Control | 0, 3, 0, 0 | [22:30:04]<font color='orange'> Attacked by Misty Torhold (panchoys) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 24, 33, 0 | [22:31:31] <font color='orange'>Has been fed Chateau De Baton Premium Cognac by Unknown (catratcat) Reagents: [0x210034c1]</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Medical Research | 0, 2, 0, 0 | [22:37:39]<font color='orange'> Attacked by Unknown (armun) with scout (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 64, 28, 0 | [22:38:34] <font color='orange'>Has been thrown by Unknown (epicjoe)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 12, 0, 0 | [22:40:13] <font color='orange'>Has had their pockets emptied by Drew Hirleman (mrnoize)</font>
+Death | Engineering Construction Storage | 0, 10, 40, 0 | [22:40:26] <b>Unknown/leonido33</b> shot <b>Unknown/armun</b> with a <b>syringegun</b> (pacid (9),plasma (6),)
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 28, 0, 0 | [22:47:05] <font color='orange'>Has had their pockets emptied by Dakota Stange (armun)</font>
+Death | The Kitchen | 0, 1, 0, 0 | [22:48:44] <b>Unknown/epicjoe</b> shot <b>Urist  Zagodeth The Washed Baby/dragoner408</b> with a <b>the Bullet</b>
+Death | The Kitchen | 3, 137.5, 0, 0 | [22:48:37]<font color='orange'> Attacked by Unknown (woody112) with Handy MK2 (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 21, 42, 32, 0 | [22:53:20] <font color='orange'>Has had their pockets emptied by Unknown (cofein)</font>
+Death | The Quartermasters | 0, 39, 0, 0 | [22:55:06] <b>Baldric Hobo Gibson /epicjoe</b> shot <b>Unknown/marcusaga</b> point blank with a <b>Trencher MK2</b>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:53:20] <font color='red'>Attempted to empty Unknown's (zazaby) pockets</font>
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 48, 0, 0 | [22:57:12]<font color='orange'> Attacked by Shane Hoover (messiah2011) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 43, 18, 0 | [22:49:58] <font color='red'>Attempted to remove Unknown's () uniform</font>
+Death | Engineering Construction Storage | 0, 43, 0, 0 | [22:40:26] <b>Unknown/leonido33</b> shot <b>Unknown/armun</b> with a <b>syringegun</b> (pacid (9),plasma (6),)

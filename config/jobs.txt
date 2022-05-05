@@ -1,0 +1,35 @@
+Shift Supervisor=0
+Transhumanist Overseer=1
+Head of Security=0
+Chief Engineer=1
+Research Director=1
+Chief Medical Officer=0
+Head of Nutrition=0
+Chief Psychiatrist=0
+
+Engineer=0
+Atmospheric Technician=0
+Machinist=0
+Cargo Unit=0
+Unit=0
+Roboticist=0
+
+Psychiatrist=0
+Medical Doctor=0
+Geneticist=0
+
+Scientist=0
+Chemist=0
+
+Detective=0
+Bartender=0
+Botanist=0
+Chef=1
+Medical janitor=0
+Assistant=-1
+
+Chief Security Officer=0
+Security Officer=0
+
+Cyborg=0
+pAI=0

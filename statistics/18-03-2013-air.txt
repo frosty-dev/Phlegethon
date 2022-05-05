@@ -1,0 +1,6 @@
+"The Quartermasters",21.8366,82.1472,0,0,293.15,5000
+"Engineering Construction Storage",19.0574,71.689,0,0,293.15,8.6875e+006
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500
+"The Library",21.8366,82.1472,0,0,293.15,27500
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,5000
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,2500

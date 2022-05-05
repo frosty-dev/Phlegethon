@@ -1,0 +1,16 @@
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500
+"The Quartermasters",21.8366,82.1472,0,0,293.15,2500
+"The Library",21.8366,82.1472,0,0,293.15,27500
+"The Central Primary Hallway",21.8366,82.1471,0,0,293.15,425000
+"The Escape Pod One",21.8366,82.1472,0,0,293.15,2500
+"Medbay",21.8366,82.1472,0,0,293.15,22500
+"The Security Lobby",21.8366,82.1472,0,0,293.15,10000
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,2500
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,25000
+"The Quartermasters",21.8366,82.1472,0,0,293.15,112500
+"The Dormitories",21.8366,82.1472,0,0,293.15,2500
+"The Quartermasters",21.8366,82.1472,0,0,293.15,2500
+"Engineering",21.8366,82.1472,0,0,293.15,102500
+"Engineering",18.1531,68.2886,0,0,293.15,20000
+"The Security Lobby",21.8366,82.1472,0,0,293.15,50000

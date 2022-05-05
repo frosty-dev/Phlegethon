@@ -1,0 +1,110 @@
+Death | The Engineering Control | 0, 11, 0, 0 | [00:00:26]<font color='orange'> Attacked by Cocky Cocks (camer) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 5, 0, 0 | [00:02:01]<font color='orange'> Attacked by Byron Harshman (sempyi) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 2, 15, 0 | [00:04:28]<font color='orange'> Attacked by Gerardo Heckendora (epicjoe) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | The Engineering Control | 1, 2, 3, 3
+Explosion | The Central Primary Hallway | 1, 2, 3, 3
+Explosion | The Engineering Control | 1, 2, 3, 3
+Death | Engineering Construction Storage | 0, 166, 0, 0 | [00:08:33] <font color='orange'>Has had their uniform removed by Wilhelm Sundberg  (airenjon)</font>
+Explosion | The Engineering Control | 1, 2, 3, 3
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 124, 14, 0
+Death | The Engineering Control | 0, 6, 0, 0 | [00:30:08] <b>Nena Lord/alekscr</b> shot <b>Unknown/epicjoe</b> with a <b>the Bullet</b>
+Explosion | The Engineering Control | -1, -1, 3, 4
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, -1, 0, 
+Death | The Engineering Control | 0, 33, 86.8, 0 | [00:54:02] <font color='orange'>Has had their back item removed by John Bolon (epicjoe)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:59:35] <b>Urist Zahodethal/marcusaga</b> shot <b>Dr. Samuel Arkhens/panchoys</b> with a <b>the lead</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:41:27] <font color='red'>Used the Nanoaugmentation Implaner (Regenerative Nanobots) (Regenerative Nanobots) to implant Wilhelm Sundberg  (airenjon)</font>
+Death | The Kitchen | 0, 42, 0, 0 | [01:01:44] <font color='orange'>Has had their back item removed by John Bolon (epicjoe)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [01:00:04] <font color='orange'>Has been thrown by Unknown (flint7272)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0
+Death | The Central Primary Hallway | 0, 159.716, 0, 0 | [01:04:02] <font color='orange'>Has been disarmed by Unknown (flint7272)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 0, 4, 0
+Death | The Quartermasters | 0, 0, 8, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 33, 91.3, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 32, 0, 0
+Death | Engineering Construction Storage | 0, 28, 108, 0 | [19:37:10] <font color='red'>Attempted to remove Corbin Williams's () uniform</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 5, 0, 0 | [19:53:56]<font color='orange'> Attacked by Reddy Kong (redomine) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 39, 1.40001, 0
+Death | The Kitchen | 0, 20, 0, 0 | [20:00:32] <b>Johnny Cooper/silentium</b> shot <b>Unknown/lagius</b> point blank with a <b>Canis .45-70</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Cafeteria | 0, 7, 43, 0 | [20:14:41]<font color='orange'> Attacked by Reddy Kong (redomine) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 13, 0, 0 | [20:16:08]<font color='orange'> Attacked by Mike Mizanin (abakan) with hatchet (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Dormitories | 0, 27, 0, 0 | [20:23:36] <b>Johnny Cooper/silentium</b> shot <b>Gerardo Priebe/leonido33</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | The Engineering Control | 47.2, 14, 0, 0 | [20:32:27]<font color='orange'> Attacked by Ferro (nyuu99) with nailed bat (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 54, 41, 0 | [20:28:11] <font color='red'>Threw Unknown ()</font>
+Death | The Cafeteria | 0, 19, 0, 0 | [20:38:46]<font color='orange'> Attacked by Dakota Curry (zanytsin) with fork (INTENT: HELP)</font>
+Death | The Engineering Control | 0, 4, 0, 0 | [20:42:20]<font color='orange'> Attacked by Unknown (zanytsin) with stick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 0, 100, 0 | [20:46:01]<font color='orange'> Attacked by Rick Rainer (dragoner408) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 60.1, 2, 34, 0 | [20:46:27]<font color='orange'> Attacked by Ferro (nyuu99) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 42, 0, 0 | [20:45:29] <font color='orange'>Has had their uniform removed by Percival Rathens (microman8v)</font>
+Death | Engineering Construction Storage | 0, 21, 0, 0 | [20:48:57]<font color='orange'> Attacked by Percival Rathens (microman8v) with scalpel (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 3, 0, 0 | [20:52:51]<font color='orange'> Attacked by Unknown (rigget) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [20:54:35]<font color='orange'> Attacked by Unknown (rigget) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 47, 14, 0 | [20:59:09] <font color='orange'>Has had their shoes removed by Unknown (zanytsin)</font>
+Death | Engineering Construction Storage | 0, 41, 1, 0 | [20:38:02] <font color='orange'>Has had their uniform removed by John Bolon (epicjoe)</font>
+Death | The Engineering Control | 0, 6, 0, 0 | [21:00:54]<font color='orange'> Attacked by Denholm Ulery (epicjoe) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 3, 0, 0 | [21:01:42] <font color='orange'>Has had their suit removed by Cassandra Rollie (dnivji)</font>
+Death | Engineering Construction Storage | 0, 8, 3, 0 | [21:03:38]<font color='orange'> Attacked by Grant Camp (chachka) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Theatre | 0, 129, 70, 0 | [21:04:16]<font color='orange'> Attacked by Aiden Cross (woody112) with shard (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | The Engineering Control | -1, -1, 2, 2
+Death | The Central Primary Hallway | 46.4, 6, 7, 0 | [21:07:05]<font color='orange'> Attacked by Cassandra Rollie as (Ryder Pritchard) (dnivji) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 1, 9, 0 | [21:07:42] <b>Andres Wilson/qqqjerichoppp</b> shot <b>Unknown/dragoner408</b> with a <b>the Fire Bullet</b>
+Death | The Central Primary Hallway | 0, 12, 0, 0 | [21:07:36] <b>Andres Wilson/qqqjerichoppp</b> shot <b>Unknown as (Ryder Pritchard)/dnivji</b> with a <b>the Fire Bullet</b>
+Death | The Central Primary Hallway | 23.3, 21, 0, 0 | [21:09:17] <b>Denholm Ulery/epicjoe</b> shot <b>Unknown as (Ryder Pritchard)/abakan</b> with a <b>the Bullet</b>
+Death | The Centcom | 13.5, 1, 0, 0 | [21:09:25] <b>Taylor Evans/susimus</b> shot <b>Andres Wilson/qqqjerichoppp</b> with a <b>the Bullet</b>
+Death | The Centcom | 0, 21, 0, 0 | [21:09:30] <b>Taylor Evans/susimus</b> shot <b>Unknown as (Johnny Cooper)/silentium</b> with a <b>the Fire Bullet</b>
+Death | Engineering Construction Storage | 0, 39, 2, 0 | [21:06:50] <b>Unknown/zanytsin</b> shot <b>Preston Gardner/rampo</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 54, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 29, 110.6, 0
+Death | Engineering Construction Storage | 0, 56, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Security Lobby | 0, 26, 78, 0 | [21:16:09]<font color='orange'> Attacked by Sean Seelig (microman8v) with hammer (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 6, 0, 0 | [21:32:46]<font color='orange'> Attacked by Mike Mizanin (abakan) with hammer (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 40, 0, 0 | [21:25:01] <font color='orange'>Has had their pockets emptied by Reddy Kong (redomine)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Medical Research | 45.1, 5, 0, 0 | [21:40:47]<font color='orange'> Attacked by Rattle Snake (camer) with sharpening (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 0, 0, 0 | [21:41:02] <b>Cassandra Rollie/dnivji</b> shot <b>Unknown/catratcat</b> with a <b>the Fire Bullet</b>
+Death | The Quartermasters | 0, 5, 0, 0 | [21:41:06] <b>Mike Mizanin/abakan</b> shot <b>Unknown as (Cassandra Rollie)/dnivji</b> point blank with a <b>the Handy MK2</b>
+Death | Engineering Construction Storage | 0, 125, 91, 0 | [21:33:42]<font color='orange'> Attacked by Sean Seelig (microman8v) with hammer (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 49, 29, 0 | [21:44:22] <font color='red'>Attempted to remove Connor Nine's (fatach) hat</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Medical Research | 23.8, 7, 0, 0 | [21:49:19]<font color='orange'> Attacked by Unknown (camer) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 43, 53, 0 | [21:36:05] <font color='red'>Attempted to empty John DeFoe's () pockets</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 19, 0, 0 | [21:54:47]<font color='orange'> Attacked by Rattle Snake (camer) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 155.8, 0, 0 | [21:54:43]<font color='orange'> Attacked by Rick Rainer (dragoner408) with large pipe (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 2, 5, 0 | [21:57:48]<font color='orange'> Attacked by Mike Mizanin (abakan) with hammer (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Security Lobby | 0, 0, 0, 0 | [22:07:06] <font color='orange'>Has been thrown by Unknown (panchoys)</font>
+Death | The Quartermasters | 0, 35, 15, 0 | [22:15:40] <b>Johnny Cooper/silentium</b> shot <b>Ryder Wheel Robinson/onnyx</b> with a <b>the lead</b>
+Death | The Dormitories | 0, 32, 0, 0 | [22:18:19] <font color='orange'>Has had their uniform removed by Reddy Kong (redomine)</font>
+Death | The Quartermasters | 0, 99, 75, 0 | [22:18:29] <font color='orange'>Has had their internals toggled by Mike Mizanin (abakan)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [22:21:19] <b>Johnny Cooper/silentium</b> shot <b>Alex Epicus/epicus</b> point blank with a <b>Trencher MK2</b>
+Death | The Quartermasters | 0, 3, 0, 0 | [22:21:35]<font color='orange'> Attacked by Mike Mizanin (abakan) with hammer (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 5.89999, 2, 0, 25 | [22:28:47]<font color='orange'> Attacked by Mike Mizanin (abakan) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 78.5, 25, 0, 0 | [22:30:05] <b>Johnny Cooper/silentium</b> shot <b>Unknown/camer</b> point blank with a <b>the Handy MK2</b>
+Death | The Quartermasters | 0, 26, 75, 0
+Death | The Escape Pod One | 0, 22, 0, 0 | [22:30:34] <b>Johnny Cooper/silentium</b> shot <b>Unknown/redomine</b> point blank with a <b>the Handy MK2</b>
+Death | The Cafeteria | 0, 3, 0, 0 | [22:32:28]<font color='orange'> Attacked by Aden Kuznetsov (zcv) with knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 12, 0, 0 | [22:32:22] <b>Mike Mizanin/abakan</b> shot <b>Unknown/dragoner408</b> point blank with a <b>the Doubly</b>
+Death | The Escape Pod One | 0, 6, 0, 0 | [22:37:21]<font color='orange'> Attacked by Samuel Arkhens (panchoys) with stun baton (INTENT: HURT) (DAMTYE: BRUTE)</font>

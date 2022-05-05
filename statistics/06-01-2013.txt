@@ -1,0 +1,470 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 48, 0, 0 | [00:04:05] <font color='orange'>Has had their ID removed by Gerardo Moberly (viton)</font>
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | Medbay | 13, 8, 0, 0 | [00:05:47]<font color='orange'> Attacked by John Nerer (xaker2009) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 41, 0, 0 | [23:30:46] <font color='orange'>Has been disarmed by Sophie King (nanodesu)</font>
+Death | Engineering Construction Storage | 0, 15, 0, 0 | [00:08:38] <font color='orange'>Has been punched by  (leonido33)</font>
+Death | Engineering Construction Storage | 0, 40, 64, 0 | [00:04:05] <font color='red'>Attempted to remove 's (diustin) ID</font>
+Death | Engineering | 0, 130, 74, 0 | [00:11:54] <font color='red'>Attempted to empty Graham Maclagan's () pockets</font>
+Death | Engineering Construction Storage | 0, 21, 0, 0 | [00:13:35]<font color='orange'> Attacked by John McCarpets (microman8v) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion |  | -1, 1, -1, 
+Death | The Kitchen | 0, 18, 7, 0 | [00:19:29] <font color='orange'>Has had their mask removed by Unknown (neray)</font>
+Death | Engineering Construction Storage | 35, 44, 0, 0 | [00:16:35] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Engineering Construction Storage | 0, 40, 0, 0 | [00:23:06]<font color='orange'> Attacked by Ken Sharkston (demonbykov) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [00:19:11] <font color='red'>Attempted to empty Jay Merryman's () pockets</font>
+Death | The Cafeteria | 0, 194, 15, 0 | [00:25:12]<font color='orange'> Attacked by Rodler Wheeger (nameless216) with Broken Bottle (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 5, 4, 0 | [00:33:52]<font color='orange'> Attacked by Unknown (panchoys) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 62, 0, 0 | [00:33:48] <font color='orange'>Has had their suit removed by Werner Diels (neray)</font>
+Death | The Central Primary Hallway | 0, 13, 0, 0 | [00:35:30]<font color='orange'> Attacked by Unknown (egorkor) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 6, 92, 0 | [00:37:28] <font color='orange'>Has been thrown by Kane Perkins (lazaka)</font>
+Death | Medbay | 0, 14, 21, 0 | [00:40:57]<font color='orange'> Attacked by  (dudeofbro) with hatchet (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 9, 42, 23, 3 | [00:11:08] <font color='orange'>Has had their pockets emptied by John Bolon (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 49, 13, 0 | [00:41:05] <font color='red'>Threw Unknown ()</font>
+Death | Engineering Construction Storage | 0, 44, 4, 0 | [00:38:09] <font color='orange'>Has had their pockets emptied by Grog OReily (gordonsollicitor)</font>
+Death | Engineering Construction Storage | 0, 19, 10, 0 | [00:56:33] <font color='orange'>Has been thrown by  (dudeofbro)</font>
+Death | Engineering Construction Storage | 0, 48, 15, 0 | [01:00:54] <font color='red'>Threw Unknown ()</font>
+Explosion | The Engineering Control | 1, 2, 3, 3
+Death | The Engineering Control | 0, 1, 0, 0 | [00:56:33] <font color='red'>Threw Unknown (xaker2009)</font>
+Death | Engineering Construction Storage | 0, 44, 0, 0 | [00:46:10] <font color='red'>Threw Daven Ulgard (ughaag)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [00:57:24] <b>John McCarpets/microman8v</b> shot <b>John McCarpets/microman8v</b> point blank with a <b>the Handy MK2</b>
+Death | Engineering Construction Storage | 0, 41, 1, 0 | [01:09:04] <font color='orange'>Has had their pockets emptied by Kane Perkins (lazaka)</font>
+Death | Engineering Construction Storage | 0, 53, 0, 0 | [01:11:32] <font color='orange'>Has been thrown by John Nerer (xaker2009)</font>
+Death | Medbay | 0, 0, 0, 0
+Death | The Central Primary Hallway | 0, 15, 63, 0 | [01:18:51] <b>Werner Diels/neray</b> shot <b>/demonbykov</b> with a <b>the Bullet</b>
+Death | The Kitchen | 0, 0, 7, 0 | [01:02:36] <font color='orange'>Has had their back item removed by Gerardo Moberly (viton)</font>
+Death | The Quartermasters | 0, 18, 0, 0 | [01:11:32] <font color='red'>Threw Wayne Howard (earthwormj1m)</font>
+Death | The Engineering Control | 32, 50.6523, 0, 0 | [01:17:58] <font color='orange'>Has been thrown by Gannon Koster (gordonsollicitor)</font>
+Death | The Engineering Control | 0, 73.6523, 14, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 0, 0
+Death | Engineering Construction Storage | 0, 0, 0, 0
+Death | Engineering Construction Storage | 0, 12, 0, 0 | [15:32:23]<font color='orange'> Attacked by human (mrechoru) with shard (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [16:10:37] <b>the human/mrechoru</b> shot <b>Malachi Howe/catratcat</b> with a <b>the x-ray concentrated beam</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 6, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [19:32:02]<font color='orange'> Attacked by John Price (striker12345) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [19:31:24] <font color='orange'>Has been thrown by John Bolon (epicjoe)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Kitchen | 0, 16, 7, 0 | [19:33:08]<font color='orange'> Attacked by Driscoll Priebe (leonido33) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 6, 12, 0 | [19:34:32]<font color='orange'> Attacked by John Nerer (xaker2009) with scalpel (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 195, 0, 0 | [19:35:47]<font color='orange'> Attacked by John Nerer (xaker2009) with crowbar (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 10, 0, 0 | [19:36:16]<font color='orange'> Attacked by Unknown (segasony) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 35, 0, 0 | [19:35:49]<font color='orange'> Attacked by John Price (striker12345) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [19:37:10]<font color='orange'> Attacked by Unknown (xaker2009) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 36, 0, 0 | [19:37:36]<font color='orange'> Attacked by Jeb Clarke (vania149) with large pipe (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [19:38:16]<font color='orange'> Attacked by Unknown (xaker2009) with scalpel (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 47, 0, 0
+Death | Engineering Construction Storage | 0, 8, 20, 0 | [19:39:39]<font color='orange'> Attacked by Unknown (xaker2009) with scalpel (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 12, 0, 0 | [19:40:38]<font color='orange'> Attacked by Jeb Clarke (vania149) with circular saw (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 21, 0, 0 | [19:41:25] <font color='orange'>Has had their pockets emptied by Unknown (returoks)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [19:42:05]<font color='orange'> Attacked by Unknown (xaker2009) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [19:42:10]<font color='red'> Attacked Unknown (vbif) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [19:44:10]<font color='orange'> Attacked by Unknown (spielmann34) with shard (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [19:44:46]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 39, 0, 0 | [19:43:46] <b>Driscoll Priebe/leonido33</b> shot <b>Jaxson Gibson/marcusaga</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 34, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 199, 17, 0 | [19:44:00]<font color='orange'> Attacked by Alberto Hirleman (hank667) with bone setter (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 47, 2, 0, 0 | [19:48:33]<font color='orange'> Attacked by Kane Perkins (lazaka) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Medbay | 0, 9, 0, 0 | [19:48:53]<font color='orange'> Attacked by Phelix Newton (striker12345) with large pipe (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 6, 0, 0 | [19:50:19]<font color='orange'> Attacked by Lone Floyd (dudeofbro) with hatchet (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 173, 5, 0 | [19:50:23]<font color='orange'> Attacked by Mike Singh (ewgenie) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 32, 0, 0 | [19:51:59]<font color='orange'> Attacked by Alberto Hirleman (hank667) with shard (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 42, 0, 0 | [19:51:50]<font color='orange'> Attacked by Unknown (striker12345) with large pipe (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 46, 0, 0 | [19:52:23] <font color='orange'>Has been thrown by Willy Leech (zanytsin)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [19:55:16] <font color='orange'>Has had their uniform removed by Kane Perkins (lazaka)</font>
+Death | Engineering Construction Storage | 0, 8, 0, 0 | [19:56:39]<font color='orange'> Attacked by Gunner Glover (ewgenie) with brick (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 200, 0, 0 | [19:56:26] <font color='orange'>Has been strangled (kill intent) by Willy Leech (zanytsin)</font>
+Explosion |  | -1, 1, -1, 
+Explosion |  | -1, 1, -1, 
+Explosion |  | -1, 1, -1, 
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [19:57:25] <font color='orange'>Has had their shoes removed by Jackson Rahl (failoman)</font>
+Death | Medical Research | 0, 4, 0, 0 | [19:58:09]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [19:59:06]<font color='orange'> Attacked by Gunner Glover (ewgenie) with brick (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 8, 0, 0 | [19:59:34]<font color='orange'> Attacked by Raymond McRay (raymar) with brick (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 13, 0, 0 | [20:00:56] <font color='orange'>Has been punched by Unknown (striker12345)</font>
+Death | Engineering Construction Storage | 0, 5, 0, 0 | [20:02:23]<font color='orange'> Attacked by Unknown (xaker2009) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion |  | -1, 1, -1, 
+Death | Engineering Construction Storage | 0, 5, 56, 0 | [20:03:03]<font color='orange'> Attacked by Unknown (xaker2009) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 20, 9, 0 | [20:03:29] <font color='orange'>Has been punched by Byron Moberly (fulupik)</font>
+Death | The Dormitories | 0, 9, 8, 0 | [20:03:32]<font color='orange'> Attacked by Hideki Zuri (diustin) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 117, 0, 0 | [20:02:23] <font color='orange'>Has been strangled (kill intent) by Unknown (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 4, 0, 0 | [20:04:52] <font color='orange'>Has been thrown by Sally Gray (nyuu99)</font>
+Death | Engineering Construction Storage | 0, 19, 24, 0 | [20:05:51]<font color='orange'> Attacked by Leara Moon (vbif) with shard (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 46, 0, 0 | [20:06:14]<font color='orange'> Attacked by Bruce Milne (voldirs) with screwdriver (INTENT: GRAB)</font>
+Death | Engineering Construction Storage | 0, 7, 15, 0 | [20:06:58]<font color='orange'> Attacked by Richard Stewart (jarlo) with shard (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 11, 0, 0 | [20:07:10]<font color='orange'> Attacked by Rodger Wheeler (nameless216) with stone (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 19, 34, 0, 0 | [20:09:32] <font color='orange'>Has been thrown by Rodger Wheeler (nameless216)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [20:10:22]<font color='orange'> Attacked by Rodger Wheeler (nameless216) with hatchet (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 2, 8, 0 | [20:10:34]<font color='orange'> Attacked by Unknown as (John McCarpets) (xaker2009) with circular saw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 22, 0, 0 | [20:11:13] <font color='orange'>Has been punched by Hideki Zuri (diustin)</font>
+Death | Engineering Construction Storage | 12, 6, 0, 5.55592 | [20:11:30]<font color='orange'> Attacked by Rodger Wheeler (nameless216) with hatchet (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 8, 5, 0 | [20:11:41]<font color='orange'> Attacked by Leara Moon (vbif) with shard (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 35, 0, 0
+Death | Engineering Construction Storage | 0, 30, 0, 0 | [20:11:53]<font color='orange'> Attacked by Unknown as (John McCarpets) (xaker2009) with circular saw (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 5, 0, 0 | [20:12:25]<font color='orange'> Attacked by Unknown as (John McCarpets) (xaker2009) with circular saw (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [20:12:47]<font color='orange'> Attacked by Bruce Milne (voldirs) with screwdriver (INTENT: HELP)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [20:12:09] <font color='orange'>Has been thrown by Unknown as (John McCarpets) (xaker2009)</font>
+Death | Engineering Construction Storage | 3, 6, 9, 0 | [20:15:31]<font color='orange'> Attacked by Unknown as (John McCarpets) (xaker2009) with circular saw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 14, 0, 0 | [20:15:59]<font color='orange'> Attacked by John McCarpets (microman8v) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 20, 32, 0 | [20:17:38]<font color='orange'> Attacked by Richard Stewart (jarlo) with scout (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 140, 110, 0 | [20:18:05] <font color='orange'>Has been thrown by Kenneth Pennington (failoman)</font>
+Death | Engineering Construction Storage | 0, 2, 0, 0 | [20:18:43]<font color='orange'> Attacked by Unknown as (John McCarpets) (xaker2009) with circular saw (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 6, 15, 0 | [20:18:50]<font color='orange'> Attacked by George Haynie (styrkarr) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 21, 0, 0 | [20:18:34]<font color='orange'> Attacked by Leara Moon (vbif) with scout (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 26, 39, 0 | [20:20:00]<font color='orange'> Attacked by Gannon Koster (gordonsollicitor) with knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 3, 0, 0 | [20:20:35]<font color='orange'> Attacked by Unknown as (John McCarpets) (xaker2009) with circular saw (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 35, 16, 0 | [20:20:11]<font color='orange'> Attacked by Bruce Milne (voldirs) with screwdriver (INTENT: HELP)</font>
+Death | Engineering Construction Storage | 0, 2, 0, 0 | [20:20:42]<font color='orange'> Attacked by Unknown as (John McCarpets) (xaker2009) with circular saw (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [20:21:58]<font color='orange'> Attacked by Unknown as (John McCarpets) (xaker2009) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 36, 19, 0 | [20:22:05]<font color='orange'> Attacked by Unknown as (John McCarpets) (xaker2009) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 14, 0, 0 | [20:27:42]<font color='orange'> Attacked by Lone Floyd (dudeofbro) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 3, 5, 0 | [20:28:29]<font color='orange'> Attacked by Leara Moon (vbif) with hatchet (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 3, 0, 0 | [20:29:10]<font color='orange'> Attacked by Andres Wilson (qqqjerichoppp) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 47, 0, 0 | [20:28:33] <font color='orange'>Has had their pockets emptied by Hideki Zuri (diustin)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 11, 0, 0 | [20:30:21]<font color='orange'> Attacked by Phelix Newton (striker12345) with stone (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 12, 0, 0 | [20:31:50]<font color='orange'> Attacked by Jackson Rahl (failoman) with wrench (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [20:28:13] <font color='orange'>Has had their pockets emptied by Misty Farland as (Willy Leech) (panchoys)</font>
+Death | Engineering Construction Storage | 0, 25, 0, 0 | [20:32:17] <font color='orange'>Has been thrown by Richard Stewart (jarlo)</font>
+Death | Engineering Construction Storage | 0, 8, 8, 0 | [20:32:58] <font color='orange'>Has been thrown by Richard Stewart (jarlo)</font>
+Death | The supply shuttle | 0, 92, 0, 0 | [20:29:44] <font color='red'>Attempted to remove Unknown's (raymar) hat</font>
+Death | The Dormitories | 0, 9, 0, 0 | [20:33:22]<font color='orange'> Attacked by Phelix Newton as (Alberto Hirleman) (striker12345) with scout (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [20:30:50] <font color='orange'>Has had their uniform removed by Misty Farland as (Willy Leech) (panchoys)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 32, 0, 0 | [20:33:56] <font color='orange'>Has had their pockets emptied by John Bolon (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 6, 5, 0 | [20:35:00]<font color='orange'> Attacked by Raymond McRay (raymar) with hatchet (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 136, 0, 0 | [20:37:00]<font color='orange'> Attacked by Alberto Hirleman (hank667) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 13, 6, 0 | [20:37:53]<font color='orange'> Attacked by Hideki Zuri (diustin) with shard (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 34, 0, 0 | [20:38:08] <font color='orange'>Has had their shoes removed by Unknown (microman8v)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 47, 0, 0 | [20:38:34] <font color='orange'>Has been thrown by Richard Stewart (jarlo)</font>
+Death | The Library | 0, 9, 0, 0 | [20:39:52]<font color='orange'> Attacked by Alisa Woodward (vbif) with stone (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 15, 0, 0 | [20:40:23]<font color='orange'> Attacked by Jacob Enderly (sakhan) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Library | 0, 20, 0, 0 | [20:40:23]<font color='orange'> Attacked by Alisa Woodward (vbif) with stone (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 46, 0, 0 | [20:37:15] <font color='red'>Attempted to remove Unknown's () uniform</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [20:41:57]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 33, 0, 0 | [20:41:53]<font color='orange'> Attacked by Richard Stewart (jarlo) with shard (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 6, 0, 0 | [20:42:24]<font color='orange'> Attacked by Greg (gordonsollicitor) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 42, 14, 0, 0 | [20:42:34]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 41, 25, 0 | [20:38:54] <font color='red'>Attempted to empty Willy Leech's () pockets</font>
+Death | Engineering Construction Storage | 0, 32, 24, 0 | [20:42:28] <font color='red'>Threw Richard Wile ()</font>
+Death | Engineering Construction Storage | 3, 42, 42, 0 | [20:44:13]<font color='orange'> Attacked by Braiden Pain (sakhan) with shard (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 13.25, 199.75, 6, 0 | [20:45:28]<font color='orange'> Attacked by Unknown (kypa) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 14, 0, 0 | [20:45:58]<font color='orange'> Attacked by Darcey Shupe (voldirs) with large pipe (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 16, 0, 0 | [20:46:58]<font color='orange'> Attacked by Jackson Rahl (failoman) with fork (INTENT: DISARM)</font>
+Death | Engineering Construction Storage | 0, 39, 9, 0 | [20:45:44] <font color='red'>Disarmed Wolf Lebovsky (techpriestwolfy)</font>
+Death | Engineering Construction Storage | 0, 49, 0, 0 | [20:47:53]<font color='orange'> Attacked by Richard Stewart (jarlo) with shard (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 9, 0, 0 | [20:51:32]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [20:51:45]<font color='orange'> Attacked by Raymond McRay (raymar) with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 28, 148, 0, 0 | [20:46:35]<font color='red'> Attacked Unknown () with fire first-aid kit (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 33, 20, 0
+Death | Engineering | 0, 0, 28, 0 | [20:47:28]<font color='orange'> Attacked by Braiden Pain (sakhan) with scout (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 49, 29, 0 | [20:50:42] <font color='red'>Attempted to remove Unknown's () mask</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [20:54:14]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 9, 16, 0 | [20:54:20]<font color='orange'> Attacked by Richard Stewart (jarlo) with shard (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 198, 18, 0
+Death | Engineering Construction Storage | 0, 20, 0, 0
+Death | Engineering Construction Storage | 0, 10, 0, 0 | [20:56:16]<font color='orange'> Attacked by Richard Stewart (jarlo) with shard (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 8, 0, 0 | [20:56:43]<font color='orange'> Attacked by Richard Stewart (jarlo) with shard (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 12, 0, 0 | [20:58:36]<font color='orange'> Attacked by Richard Stewart (jarlo) with shard (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [20:58:33] <font color='orange'>Has had their shoes removed by Kane Perkins (lazaka)</font>
+Death | Engineering Construction Storage | 0, 120, 0, 0
+Death | Engineering Construction Storage | 34.5, 60, 0, 3.83091 | [20:59:23]<font color='orange'> Attacked by Kristopher Clarke (voldirs) with Arrow (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 47, 36, 0 | [20:58:15] <font color='red'>Disarmed Brody Flickinger (titanoid)</font>
+Death | The Engineering Control | 0, 6, 21, 0
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [21:01:19]<font color='orange'> Attacked by Richard Stewart (jarlo) with circular saw (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 33, 9, 0
+Death | The Engineering Control | 0, 151, 10, 0 | [20:54:35] <font color='red'>Threw Unknown ()</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [21:03:21]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 2, 0, 0 | [21:04:13]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 15, 0, 0 | [21:06:20]<font color='orange'> Attacked by Andy Sandy (kypa) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:01:10] <font color='red'>Attempted to remove Willy Leech's () uniform</font>
+Death | Engineering Construction Storage | 30, 2, 0, 0 | [21:07:37]<font color='orange'> Attacked by Richard Stewart (jarlo) with circular saw (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [21:07:29] <font color='orange'>Has had their shoes removed by Kane Perkins (lazaka)</font>
+Death | Engineering Construction Storage | 0, 50, 16, 0 | [21:06:48]<font color='orange'> Attacked by Unknown (phornix) with circular saw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 195, 0, 0 | [21:10:29]<font color='orange'> Attacked by Ernesto Delaverte (phornix) with Wood Planks (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 35, 0, 0 | [21:10:58]<font color='orange'> Attacked by Christopher Wright (styrkarr) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 15, 0, 0 | [21:11:04]<font color='orange'> Attacked by Unknown (qqqjerichoppp) with stone (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 37, 15, 0 | [21:09:57]<font color='red'> Attacked Janes Curry () with circular saw (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 48, 9, 0
+Death | Engineering Construction Storage | 0, 88, 0, 0 | [21:09:55] <font color='orange'>Has been strangled (kill intent) by John Bolon (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 41, 9, 0 | [21:08:54] <font color='red'>Threw Wolf Lebovsky (techpriestwolfy)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [21:13:19]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 176, 0, 0
+Death | Engineering Construction Storage | 0, 47, 7, 0 | [21:11:50] <font color='red'>Attempted to remove Unknown's () back item</font>
+Death | Engineering Construction Storage | 0, 41, 0, 0
+Death | Engineering Construction Storage | 0, 49, 15, 0 | [21:13:28] <font color='red'>Attempted to empty Malik Collin's (stepfan) pockets</font>
+Death | Engineering Construction Storage | 0, 0, 0, 1.82911 | [21:15:35]<font color='orange'> Attacked by Kuzmich Ivanov (fulupik) with rolling pin (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 2, 0, 0, 0 | [21:06:56] <font color='red'>Threw Brody Flickinger ()</font>
+Death | Engineering Construction Storage | 0, 0, 22, 0 | [21:16:19] <font color='orange'>Has been thrown by Hugo Perkins (voldirs)</font>
+Death | Engineering Construction Storage | 0, 35, 0, 0 | [21:17:26] <font color='orange'>Has been thrown by Lorenzo Shere (diustin)</font>
+Death | The Dormitories | 0, 43, 0, 0 | [21:19:14]<font color='orange'> Attacked by Driscoll Priebe (leonido33) with scalpel (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 40, 0, 0 | [21:16:37] <font color='red'>Attempted to remove Kory Curry's (zanytsin) uniform</font>
+Explosion |  | -1, 1, -1, 
+Explosion |  | -1, 1, -1, 
+Death | The Security Lobby | 0, 6, 0, 0 | [21:22:10]<font color='orange'> Attacked by Unknown (spielmann34) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 13, 0, 0 | [21:23:38]<font color='orange'> Attacked by Brody Flickinger (titanoid) with Wood Planks (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 180, 0, 0 | [21:24:06]<font color='orange'> Attacked by Lorenzo Shere (diustin) with large pipe (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:24:20] <font color='orange'>Has been thrown by Corrine Beach (sakhan)</font>
+Death | Engineering Construction Storage | 39, 7, 8, 0 | [21:24:27]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 33, 18, 0
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:16:55] <font color='orange'>Has had their pockets emptied by Unknown (spielmann34)</font>
+Death | Engineering Construction Storage | 0, 47, 10, 0 | [21:24:00] <font color='red'>Attempted to empty Wolf Lebovsky's (techpriestwolfy) pockets</font>
+Death | Engineering Construction Storage | 0, 27, 0, 0 | [21:26:29]<font color='orange'> Attacked by Unknown (spielmann34) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:28:21] <font color='orange'>Has had their shoes removed by Leara Moon (vbif)</font>
+Explosion |  | -1, 1, -1, 
+Death | Engineering Construction Storage | 0, 39, 0, 0 | [21:23:41]<font color='red'> Attacked Unknown (vania149) with Wood Planks (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 149, 0, 0 | [21:30:51]<font color='orange'> Attacked by John McCarpets (microman8v) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 15, 0, 0 | [21:31:03] <font color='orange'>Has had their pockets emptied by Unknown (diustin)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:30:07]<font color='orange'> Attacked by Trip Garratt (real66) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [21:33:43] <font color='orange'>Has been thrown by Fabian Mitchell (sakhan)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [21:33:52]<font color='orange'> Attacked by Willy Leech (xaker2009) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 32, 14, 0 | [21:33:29]<font color='orange'> Attacked by Unknown (epicjoe) with circular saw (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 186, 0, 0 | [21:33:17] <font color='red'>Threw Nathan Carmichael (styrbjorn)</font>
+Death | The Cafeteria | 0, 0, 19, 0
+Death | Engineering Construction Storage | 0, 49, 7, 0 | [21:34:00]<font color='orange'> Attacked by Kennard Flickinger (susimus) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 31, 77, 0 | [21:35:05] <font color='orange'>Has been thrown by Unknown (diustin)</font>
+Death | Engineering Construction Storage | 0, 194, 0, 0 | [21:33:53]<font color='orange'> Attacked by Unknown (epicjoe) with circular saw (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion |  | -1, 1, -1, 
+Death | The Cafeteria | 35.5, 7, 0, 0 | [21:37:53] <font color='orange'>Has been thrown by Fabian Mitchell (sakhan)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [21:38:27]<font color='orange'> Attacked by Willy Leech (xaker2009) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [21:38:39]<font color='orange'> Attacked by Carl Johnson (real66) with metal rods (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 21, 62, 0 | [21:38:42]<font color='orange'> Attacked by Paul Torhold (panchoys) with stone (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 5, 16, 0 | [21:38:47]<font color='orange'> Attacked by Willy Leech (xaker2009) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 126, 0, 0 | [21:38:57] <font color='orange'>Has been thrown by Fabian Mitchell (sakhan)</font>
+Death | The Cafeteria | 0, 9, 0, 0 | [21:39:21]<font color='orange'> Attacked by Fabian Mitchell (sakhan) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 49, 10, 0 | [21:35:24] <font color='red'>Attempted to handcuff Unknown (spielmann34)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:24:18] <font color='orange'>Has had their uniform removed by Raymond McRay (raymar)</font>
+Death | The Engineering Control | 0, 42, 0, 0 | [21:39:50] <font color='orange'>Has been punched by Brendan Jyllian (uropb)</font>
+Death | The Cafeteria | 0, 165, 0, 0 | [21:41:03]<font color='orange'> Attacked by Unknown (diustin) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 186, 0, 0 | [21:43:09]<font color='orange'> Attacked by John Bolon (epicjoe) with scout (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 4, 0, 0 | [21:43:59] <b>Lone Floyd as (Alberto Hirleman)/dudeofbro</b> shot <b>Rodger Wheeler/nameless216</b> point blank with a <b>the Nipper MK1</b>
+Death | Engineering Construction Storage | 0, 12, 0, 0 | [21:45:00] <font color='orange'>Has been thrown by Dillon Blessig (sakhan)</font>
+Death | Engineering Construction Storage | 0, 166, 49, 0 | [21:46:25]<font color='orange'> Attacked by John DeFoe (jolt96) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [21:46:29]<font color='orange'> Attacked by Willy Leech (xaker2009) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 135, 0, 0 | [21:47:07]<font color='orange'> Attacked by Unknown (diustin) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [21:47:26]<font color='orange'> Attacked by Unknown (panchoys) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 25, 0, 0 | [21:47:56]<font color='orange'> Attacked by Unknown (diustin) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 46, 0, 0 | [21:47:23]<font color='red'> Attacked Unknown () with shard (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [21:52:48]<font color='orange'> Attacked by Lorenzo Shere (diustin) with metal rods (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 35, 0, 0 | [21:54:20] <font color='orange'>Has been thrown by Lorenzo Shere (diustin)</font>
+Death | Engineering Construction Storage | 0, 40, 0, 0
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:54:57] <font color='orange'>Has been punched by Brody Flickinger (titanoid)</font>
+Death | Engineering Construction Storage | 0, 13, 0, 0 | [21:56:13]<font color='orange'> Attacked by Steven Todd (disconected) with stone (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 29, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | The Security Lobby | 0, 0, 0, 0 | [21:59:25]<font color='orange'> Attacked by John Nerer (xaker2009) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 13, 0, 0 | [22:00:27] <font color='orange'>Has been thrown by Unknown (leonido33)</font>
+Death | Engineering Construction Storage | 0, 50, 9, 0 | [21:57:23]<font color='orange'> Attacked by Jaxson Gibson (marcusaga) with large pipe (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 49, 0, 0
+Death | Engineering Construction Storage | 0, 40, 0, 0
+Death | Engineering Construction Storage | 0, 13, 0, 0 | [22:01:16] <font color='orange'>Has been strangled (kill intent) by Unknown (leonido33)</font>
+Death | The Engineering Control | 0, 168, 0, 0 | [22:01:58]<font color='orange'> Attacked by Chris Jewller (abakan) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:00:20]<font color='orange'> Attacked by Parker Kombucha (hoteimotei) with Arrow (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:03:09] <font color='orange'>Has had their eyewear removed by Andres Wilson (qqqjerichoppp)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:03:49]<font color='orange'> Attacked by Kennard Flickinger (susimus) with large pipe (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 35, 0, 0 | [22:05:36]<font color='orange'> Attacked by Steven Todd (disconected) with Broken Bottle (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 13, 0, 0 | [22:06:23] <font color='orange'>Has been thrown by Malik Collin (stepfan)</font>
+Death | Engineering Construction Storage | 1, 15, 0, 0 | [22:07:18] <font color='orange'>Has been thrown by John Bolon (epicjoe)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 42, 0, 0 | [22:06:35] <font color='red'>Attempted to remove Meal Kruddinger's (ipxkz) right ear item</font>
+Death | Engineering Construction Storage | 0, 39, 0, 0
+Death | Engineering Construction Storage | 0, 3, 0, 0 | [22:10:50] <font color='orange'>Has been thrown by Malik Collin (stepfan)</font>
+Death | The Cafeteria | 0, 0, 24, 0 | [22:14:47] <font color='orange'>Has had their shoes removed by Kane Perkins (lazaka)</font>
+Death | Engineering Construction Storage | 0, 46, 19, 0 | [22:11:56] <font color='red'>Attempted to remove Steven Todd's () belt item</font>
+Death | Engineering Construction Storage | 0, 38, 21, 0 | [22:12:12] <font color='orange'>Has had their pockets emptied by Paul Torhold (panchoys)</font>
+Death | Engineering Construction Storage | 0, 47, 36, 0 | [22:15:13] <font color='orange'>Has had their shoes removed by Brody Flickinger (titanoid)</font>
+Death | The Engineering Control | 0, 139, 24, 0 | [22:15:59]<font color='orange'> Attacked by Chris Jewller (abakan) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:06:33] <font color='red'>Threw Unknown ()</font>
+Death | Engineering Construction Storage | 0, 195, 0, 0
+Death | Engineering Construction Storage | 0, 33, 0, 0 | [22:15:13] <font color='red'>Attempted to remove Richard Wile's (spaint) shoes</font>
+Death | The Engineering Control | 0, 0, 0, 0
+Death | Engineering Construction Storage | 0, 175, 0, 0 | [22:20:39] <font color='orange'>Has had their pockets emptied by Paul Torhold (panchoys)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 11, 0, 0 | [22:22:15]<font color='orange'> Attacked by John Nerer (xaker2009) with hatchet (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 0, 28, 0 | [22:18:15] <font color='orange'>Has been thrown by Unknown (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 18, 18, 0 | [22:20:39] <font color='red'>Attempted to empty Eric Bell's (egorkor) pockets</font>
+Death | Engineering Construction Storage | 0, 42, 0, 0 | [22:23:42]<font color='orange'> Attacked by Sabella Sauter (sakhan) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 44, 28, 0 | [22:19:55] <font color='orange'>Has been thrown by Conrad Nominox (diustin)</font>
+Death | Engineering Construction Storage | 0, 42, 0, 0 | [22:23:25] <font color='orange'>Has been thrown by Conrad Nominox (diustin)</font>
+Death | Engineering Construction Storage | 0, 47, 29, 0 | [22:24:14] <font color='orange'>Has been thrown by Angelo Stough (aazimar)</font>
+Death | Engineering Construction Storage | 0, 49, 0, 0
+Death | Engineering Construction Storage | 0, 27, 19, 0 | [22:17:45] <font color='red'>Attempted to empty Malik Collin's () pockets</font>
+Death | Engineering Construction Storage | 0, 40, 0, 0 | [22:24:14] <font color='red'>Threw Josiah Tireman (hellbyte)</font>
+Death | Engineering Construction Storage | 0, 36, 26, 0 | [22:20:53] <font color='red'>Threw Sol Demegnar (intercross21)</font>
+Death | The Quartermasters | 0, 48, 21, 0 | [22:17:28] <font color='orange'>Has had their uniform removed by John Nerer (xaker2009)</font>
+Death | The Cafeteria | 0, 149.612, 22, 0 | [22:21:50] <font color='red'>Attempted to remove Bella White's (rosalimo) uniform</font>
+Death | Engineering Construction Storage | 0, 27, 0, 0 | [22:18:15] <font color='red'>Threw Ray Magnum (dustworm)</font>
+Death | The Cafeteria | 0, 43, 0, 0 | [22:21:50] <font color='orange'>Has had their uniform removed by Sol (kypa)</font>
+Death | The Cafeteria | 18.5, 49, 34, 0 | [22:19:41] <font color='red'>Attempted to handcuff Bella White (rosalimo)</font>
+Death | Engineering Construction Storage | 0, 43, 0, 0
+Death | Engineering | 0, 2, 0, 0 | [22:28:17]<font color='orange'> Attacked by John Nerer (xaker2009) with knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 54, 32, 0, 0 | [22:25:44] <font color='red'>Attempted to remove Unknown's () uniform</font>
+Death | Engineering Construction Storage | 0, 41, 6, 0
+Death | Engineering Construction Storage | 0, 47, 0, 0 | [22:18:15] <font color='red'>Threw Ray Magnum (dustworm)</font>
+Death | Engineering Construction Storage | 0, 42, 0, 0
+Death | Engineering Construction Storage | 24, 20, 0, 0.497977 | [22:23:41] <font color='orange'>Has been punched by Unknown (leonido33)</font>
+Death | Engineering Construction Storage | 0, 29, 0, 0
+Death | Engineering Construction Storage | 54, 33, 18, 0 | [22:30:01]<font color='orange'> Attacked by John Nerer (xaker2009) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [22:30:45] <font color='red'>Disarmed Lou Crayfish (irondead)</font>
+Death | Engineering Construction Storage | 0, 196, 0, 0 | [22:32:09]<font color='orange'> Attacked by Kai (kypa) with large pipe (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 35, 0, 0
+Death | Engineering Construction Storage | 0, 29, 7, 0
+Death | The Engineering Control | 0, 11, 0, 0 | [22:34:24]<font color='orange'> Attacked by Unknown (dudeofbro) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:30:45] <font color='orange'>Has been disarmed by Jaxson Gibson (marcusaga)</font>
+Death | Engineering Construction Storage | 0, 42, 15, 0 | [22:35:50] <font color='orange'>Has been disarmed by John Nerer (xaker2009)</font>
+Death | Engineering Construction Storage | 0, 42, 8, 0 | [22:39:03] <font color='red'>Attempted to remove Paul Torhold's () back item</font>
+Death | Engineering Construction Storage | 0, 49, 9, 0
+Death | Engineering Construction Storage | 0, 40, 9, 0
+Death | Engineering Construction Storage | 11, 199, 0, 0 | [22:39:54]<font color='red'> Attacked Unknown (microman8v) with knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 48, 0, 0 | [22:35:32] <font color='red'>Attempted to empty Nick Kombucha's () pockets</font>
+Death | Engineering Construction Storage | 0, 40, 0, 0 | [22:41:44] <font color='red'>Attempted to remove Paul Torhold's () left ear item</font>
+Death | The Engineering Control | 0, 41, 0, 0 | [22:42:09]<font color='orange'> Attacked by Jaxson Gibson (marcusaga) with brass knuckle (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 49, 0, 0 | [22:42:32] <font color='orange'>Has been thrown by Unknown (microman8v)</font>
+Death | Engineering Construction Storage | 0, 34, 14, 0 | [22:39:20] <font color='red'>Attempted to empty Unknown's (volk0n) pockets</font>
+Death | Engineering Construction Storage | 0, 28, 0, 0
+Death | Engineering Construction Storage | 0, 32, 38, 0
+Death | Engineering Construction Storage | 0, 194, 0, 0 | [22:44:22]<font color='orange'> Attacked by Jimmy Sybilla (aazimar) with stone (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 41, 7, 0
+Death | Engineering Construction Storage | 0, 49, 0, 0 | [22:43:42] <font color='red'>Threw Unknown ()</font>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 32, 0, 0
+Death | Engineering Construction Storage | 0, 36, 0, 0
+Death | The Engineering Control | 0, 14, 0, 0
+Death | Engineering Construction Storage | 0, 40, 18, 0 | [22:43:10] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Engineering Construction Storage | 0, 40, 13, 0
+Death | Engineering Construction Storage | 0, 20, 8, 0
+Death | The Quartermasters | 0, 129, 0, 0 | [22:45:25] <font color='orange'>Has had their back item removed by Malik Collin (stepfan)</font>
+Death | Engineering Construction Storage | 0, 25, 13, 0 | [22:41:07] <b>Lone Floyd/dudeofbro</b> shot <b>Unknown/disconected</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 41, 0, 0
+Death | Engineering Construction Storage | 0, 35, 0, 0
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [22:48:52] <font color='red'>Threw Lou Crayfish ()</font>
+Death | Engineering Construction Storage | 0, 49, 10, 0 | [22:48:20] <font color='red'>Attempted to remove Ken Sharkston's () back item</font>
+Death | The Centcom | 0, 0, 0, 0 | [22:51:19] <b>Jeb Clarke/vania149</b> shot <b>Unknown as (Alberto Hirleman)/neray</b> with a <b>the laser</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 198, 9, 0 | [22:54:43]<font color='orange'> Attacked by Werner Diels (neray) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 10, 7, 0, 0.0877807 | [23:00:05]<font color='orange'> Attacked by John Nerer (xaker2009) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 3, 0, 0 | [23:01:17]<font color='orange'> Attacked by Unknown (xaker2009) with sharpening (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 37, 0, 0
+Death | The Cafeteria | 0, 0, 0, 0
+Death | Engineering Construction Storage | 0, 191, 10, 0 | [23:04:13]<font color='orange'> Attacked by Graham Maclagan (egorkor) with Broken Bottle (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion |  | -1, 1, -1, 
+Explosion |  | -1, 1, -1, 
+Death | Engineering Construction Storage | 0, 40, 10, 0 | [23:04:57] <font color='red'>Fed Greg by Greg (gordonsollicitor) Reagents: [0x210033f0]</font>
+Death | Engineering Construction Storage | 0, 22, 0, 0
+Death | Engineering Construction Storage | 0, 48, 0, 0 | [23:10:05] <font color='orange'>Has been thrown by John Nerer (xaker2009)</font>
+Death | Engineering Construction Storage | 0, 26, 0, 0 | [23:10:36] <font color='orange'>Has been thrown by John Nerer (xaker2009)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [23:10:50] <font color='orange'>Has had their suit removed by Unknown (abakan)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0
+Death | Engineering Construction Storage | 0, 3, 0, 0 | [23:11:57]<font color='orange'> Attacked by Simon Moore (dustworm) with hatchet (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:05:13]<font color='orange'> Attacked by John McCarpets (microman8v) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [23:13:07]<font color='orange'> Attacked by John Nerer (xaker2009) with sharpening (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 195.267, 0, 0 | [23:10:44] <font color='orange'>Has had their pockets emptied by Simon Moore (dustworm)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [23:16:24]<font color='orange'> Attacked by Simon Moore (dustworm) with hatchet (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 170.279, 0, 0 | [23:17:29]<font color='orange'> Attacked by Werner Diels (neray) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 48, 0, 0 | [23:18:54]<font color='orange'> Attacked by John DeFoe (jolt96) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 15, 5, 0 | [23:18:37]<font color='orange'> Attacked by Rod (kypa) with shard (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 39, 0, 0
+Death | The Engineering Control | 0, 3, 0, 0 | [23:19:37]<font color='orange'> Attacked by John Gilroy (real66) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 173, 0, 0 | [23:19:40] <font color='orange'>Has been punched by Rod (kypa)</font>
+Death | Medical Research | 0, 6, 0, 0 | [23:21:59]<font color='orange'> Attacked by Unknown (xaker2009) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 3, 0, 0 | [23:22:26]<font color='orange'> Attacked by Unknown (xaker2009) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 49, 17, 0 | [23:19:11] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Engineering Construction Storage | 0, 42, 0, 0
+Death | Engineering Construction Storage | 0, 20, 0, 0 | [23:25:45]<font color='orange'> Attacked by Rodger Wheeler (nameless216) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 44, 0, 0 | [23:24:46] <font color='orange'>Has been thrown by Fed (kypa)</font>
+Death | Engineering Construction Storage | 0, 162, 6, 0 | [23:25:55]<font color='orange'> Attacked by Steven Todd (disconected) with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 29, 0, 0 | [23:26:57]<font color='orange'> Attacked by Jeb Clarke (vania149) with scalpel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 42, 0, 0 | [23:26:23] <font color='orange'>Has been punched by Ray Magnum (dustworm)</font>
+Death | Engineering Construction Storage | 0, 27, 0, 0 | [23:28:01]<font color='orange'> Attacked by Unknown (nameless216) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 46, 16, 0
+Death | Medical Research | 0, 6, 0, 0 | [23:28:42]<font color='orange'> Attacked by Jeb Clarke (vania149) with scalpel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 12, 0 | [23:28:48]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 26, 13, 0 | [23:27:43] <font color='orange'>Has been thrown by Fed (kypa)</font>
+Death | Engineering Construction Storage | 0, 130, 0, 0 | [23:29:41]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 36, 9, 0 | [23:28:04] <font color='orange'>Has had their belt item removed by Sam Segway (jolt96)</font>
+Death | Engineering Construction Storage | 0, 35, 0, 0 | [23:28:04] <font color='red'>Attempted to remove Unknown's (real66) belt item</font>
+Death | The Engineering Control | 0, 198, 0, 0
+Death | Engineering Construction Storage | 41, 136, 0, 0 | [23:29:11] <font color='red'>Threw Ray Magnum ()</font>
+Death | Engineering Construction Storage | 0, 51, 0, 0 | [23:33:44]<font color='orange'> Attacked by Jee Crawfish (disconected) with brick (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 21, 0, 0 | [23:34:55] <font color='orange'>Has had their ID removed by Graham Maclagan (egorkor)</font>
+Death | Medical Research | 0, 2, 0, 0 | [23:36:31]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [23:32:08] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Engineering Construction Storage | 0, 1, 259, 0 | [23:38:28] <font color='orange'>Has been thrown by Jared Straub (kypa)</font>
+Death | Engineering | 0, 197, 0, 0 | [23:37:54] <font color='orange'>Has been punched by Graham Maclagan (egorkor)</font>
+Death | Engineering Construction Storage | 0, 45, 0, 0 | [23:36:23] <font color='orange'>Has had their pockets emptied by John Gilroy (real66)</font>
+Death | Engineering Construction Storage | 0, 1, 218, 0 | [23:39:22] <font color='orange'>Has been thrown by Jared Straub (kypa)</font>
+Death | The Engineering Control | 0, 5, 0, 0 | [23:40:26]<font color='orange'> Attacked by Unknown (xaker2009) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 193, 0, 0 | [23:40:34]<font color='orange'> Attacked by Sabella Sauter (sakhan) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 20, 182.5, 0, 0 | [23:41:34] <font color='red'>Threw Unknown ()</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [23:40:29] <font color='orange'>Has been fed cutlet by Kristopher Evans (niiich) Reagents: [0x21003b9f]</font>
+Death | Engineering Construction Storage | 0, 48, 10, 0 | [23:45:03]<font color='orange'> Attacked by Jayce Werry (jolt96) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 36, 0, 0 | [23:39:42] <font color='orange'>Has had their mask removed by Rodger Wheeler (nameless216)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [23:46:51]<font color='orange'> Attacked by Unknown (nameless216) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 47, 33, 0
+Death | The Quartermasters | 0, 0, 0, 0
+Death | Engineering Construction Storage | 0, 42, 0, 0
+Death | Engineering Construction Storage | 0, 192, 29, 0 | [23:42:54]<font color='red'> Attacked Unknown () with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 39, 0, 0 | [23:47:15] <font color='orange'>Has had their pockets emptied by Weston Ludwig (dustworm)</font>
+Death | Engineering Construction Storage | 0, 48, 8, 0
+Death | Engineering Construction Storage | 0, 188, 0, 0
+Death | Engineering Construction Storage | 0, 3, 0, 0 | [23:53:48]<font color='orange'> Attacked by Brenden Hill as (Jee Crawfish) (vbif) with sharpening (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [23:53:58]<font color='orange'> Attacked by Braiden Pain (sakhan) with shard (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [23:54:20]<font color='orange'> Attacked by Unknown (nameless216) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 42, 0, 0 | [23:53:50] <font color='orange'>Has been disarmed by Unknown (xaker2009)</font>
+Death | Engineering Construction Storage | 0, 2, 0, 0 | [23:55:53]<font color='orange'> Attacked by Jee Crawfish (vbif) with sharpening (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 195, 0, 0 | [23:54:36] <font color='orange'>Has had their pockets emptied by Unknown (nameless216)</font>
+Death | The Engineering Control | 0, 6, 0, 0 | [23:57:11] <font color='orange'>Has been thrown by Elle Compton (kypa)</font>
+Death | Engineering Construction Storage | 31, 27, 0, 0 | [23:57:00]<font color='orange'> Attacked by Jee Crawfish (vbif) with sharpening (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 21, 0, 0 | [23:57:00]<font color='red'> Attacked Unknown (voldirs) with sharpening (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [23:58:19]<font color='orange'> Attacked by Weston Ludwig (dustworm) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 42, 15, 0 | [23:54:14] <font color='red'>Attempted to empty Graham Maclagan's (egorkor) pockets</font>
+Death | Engineering Construction Storage | 0, 6, 152, 0 | [23:59:31] <font color='orange'>Has been thrown by Henry Fox (vitasys)</font>
+Death | Engineering Construction Storage | 0, 185, 0, 0 | [23:59:44] <font color='orange'>Has been thrown by Elle Compton (kypa)</font>

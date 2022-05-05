@@ -1,0 +1,20 @@
+"The Quartermasters",21.8366,82.1472,0,0,293.15,2500
+"The Dormitories",21.8366,82.1472,0,0,293.15,22500
+"The Cafeteria",21.8366,82.1472,0,0,293.15,250000
+"The Quartermasters",21.8366,82.1472,0,0,293.15,70000
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500
+"The Quartermasters",21.8366,82.1472,0,0,293.15,5000
+"The Kitchen",21.8366,82.1472,0,0,293.15,5000
+"The Security Lobby",21.8366,82.1472,0,0,293.15,2500
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,2500
+"Medbay",21.8366,82.1472,0,0,293.15,5000
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,2500
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,75000
+"The Quartermasters",21.8366,82.1472,0,0,293.15,2500
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500
+"The Dormitories",21.574,81.1614,0.000591472,0,293.15,17500
+"Medbay",18.1129,68.1374,5.05883e-005,0,293.335,72500
+"Engineering",21.8366,82.1472,0,0,293.15,2500
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500
+"Medbay",21.8366,82.1472,0,0,293.15,2500

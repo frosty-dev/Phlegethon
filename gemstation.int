@@ -1,0 +1,12 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+LAST_COMPILE_TIME: 1470576392
+DIR: code code\ATMOSPHERICS\components code\ATMOSPHERICS\components\binary_devices code\ATMOSPHERICS\components\trinary_devices code\ATMOSPHERICS\components\unary code\datums\diseases code\datums\helper_datums code\defines code\defines\obj code\game code\game\gamemodes code\game\gamemodes\wizard icons\mob maps 
+AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 510.1345
+WINDOW: icons\mob\screen1_old.dmi;icons\mob\zone_sel.dmi;icons\mob\screen1.dmi;icons\mob\hud.dmi;icons\mob\human.dmi;maps\Phlegethon_1.3.(test).dmm;code\game\gamemodes\wizard\soulstone.dm
+FILE: code\game\gamemodes\wizard\soulstone.dm
+*/
+// END_INTERNALS

@@ -1,0 +1,41 @@
+Death | The Quartermasters | 0, 8, 0, 0 | [00:01:00] <b>Unknown/silentium</b> shot <b>Unknown as (Bradley Armstrong)/camer</b> point blank with a <b>the Handy MK2</b>
+Death | Engineering Construction Storage | 0, 195.2, 0, 0 | [23:51:59] <font color='orange'>Has been disarmed by Hank Wimbleton (danteru)</font>
+Death | The Quartermasters | 0, 19, 0, 0 | [00:07:43] <b>Ian Marks as (Kade Hayhurst)/lemero</b> shot <b>Braden Bunten as (Eli Gorko)/dezer</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 96, 0, 0 | [00:08:11]<font color='orange'> Attacked by Ian Marks as (Kade Hayhurst) (lemero) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 100, 5, 0, 0 | [00:09:09] <font color='orange'>Has been punched by Snoop Dogg (dnivji)</font>
+Death | The Quartermasters | 79.5, 42, 44, 0 | [00:17:41]<font color='orange'> Attacked by Eli Gorko (eggman1945) with Sleuth DS (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 26, 65, 0 | [00:26:05] <b>Justin Prevatt/vovanhur</b> shot <b>Braden Bunten/dezer</b> with a <b>bow</b> (pacid (5),)
+Death | Engineering Construction Storage | 0, 26, 25, 0 | [00:26:51] <font color='orange'>Has had their pockets emptied by Justin Prevatt (vovanhur)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [00:29:49] <font color='orange'>Has had their hat removed by Justin Prevatt (vovanhur)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [00:24:13] <font color='red'>Attempted to remove Unknown's () eyewear</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [00:21:16] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 49, 107.2, 0 | [00:42:29]<font color='orange'> Attacked by Grandpa Cowper (vovanhur) with shard (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 32, 159.55, 0 | [00:44:48] <font color='orange'>Has been thrown by Grandpa Cowper (vovanhur)</font>
+Death | Engineering Construction Storage | 0, 28, 86.4, 0 | [00:53:27] <font color='orange'>Has been thrown by Zachariah Raub (gvardota)</font>
+Death | Medical Research | 0, 0, 0, 0 | [01:00:24] <font color='orange'>Has been disarmed by Goodwin Northey (chachka)</font>
+Death | The Security Lobby | 0, 1, 0, 0 | [01:27:07]<font color='orange'> Attacked by Unknown (silentium) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Security Lobby | 0, 0, 0, 0 | [01:28:47] <font color='red'>Threw Unknown ()</font>
+Death | The Cafeteria | 0, 19, 0, 0 | [01:36:57] <b>Unknown/silentium</b> shot <b>Unknown as (Tow Wright)/catratcat</b> point blank with a <b>Sleuth DS</b>
+Death | Medical Research | 21, 16, 0, 0 | [01:37:16]<font color='orange'> Attacked by Grant Camp (chachka) with scout (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 46.8, 46, 6, 0 | [01:40:16] <b>Grant Camp/chachka</b> shot <b>Unknown/oleolegka</b> with a <b>bow</b> ()
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Engineering Control | 40, 125, 175, 0 | [01:44:46]<font color='orange'> Attacked by Moshe Katzman (vovanhur) with stone (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 15, 4.5, 0 | [02:02:20] <b>Thorn Vogelfest/catratcat</b> shot <b>Anthony Soulstark/lemero</b> point blank with a <b>the Tomcat SMG</b>
+Death | The Kitchen | 0, 16, 0, 0 | [02:02:22] <b>Thorn Vogelfest/catratcat</b> shot <b>Gena Vaganich/camer</b> point blank with a <b>the Tomcat SMG</b>
+Death | The Kitchen | 0, 41, 0, 0 | [02:03:19] <b>Thorn Vogelfest/catratcat</b> shot <b>Unknown as (Braden Bunten)/dezer</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 22, 0, 0 | [02:08:28] <b>Thorn Vogelfest/catratcat</b> shot <b>Unknown/vovanhur</b> point blank with a <b>Sleuth DS</b>
+Death | The Kitchen | 0, 6, 0, 0 | [02:11:13]<font color='orange'> Attacked by monkey (25) (chachka) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 32, 0, 0 | [02:12:18] <b>Sawyer Easter/vovanhur</b> shot <b>Unknown/chrisik</b> point blank with a <b>the Handy MK2</b>
+Death | The Central Primary Hallway | 0, 2, 0, 0 | [02:12:53]<font color='orange'> Attacked by Sawyer Easter (vovanhur) with Handy MK2 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 28, 175, 0 | [02:15:41]<font color='orange'> Attacked by Braden Bunten (dezer) with Sleuth DS (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [02:16:54]<font color='orange'> Attacked by Unknown as (Tow Wright) (silentium) with Handy MK2 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 21, 0, 0, 0 | [01:39:52]<font color='orange'> Attacked by Grant Camp (chachka) with brass knuckle (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 13, 0, 0 | [02:16:38]<font color='orange'> Attacked by Unknown as (Tow Wright) (silentium) with Handy MK2 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 184, 11.5, 0 | [02:15:11]<font color='red'> Attacked Braden Bunten (dezer) with Sleuth DS (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 107, 0, 0 | [02:20:07] <font color='orange'>Has had their neck grabbed by Sawyer Easter (vovanhur)</font>
+Death | The Centcom | 234, 17, 0, 0

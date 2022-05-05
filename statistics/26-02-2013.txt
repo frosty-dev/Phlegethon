@@ -1,0 +1,43 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Security Lobby | 0, 189, 114, 0 | [20:44:12] <font color='orange'>Has been strangled (kill intent) by Tetsudji Hisomu (panchoys)</font>
+Death | Engineering Construction Storage | 0, 2, 0, 0 | [20:45:44]<font color='orange'> Attacked by Unknown (microman8v) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 10.3, 42, 0, 0
+Death | Engineering Construction Storage | 13.8, 149, 0, 0 | [20:59:50] <font color='orange'>Has had their right ear item removed by Vincent Dennis (drfenix)</font>
+Death | The Engineering Control | 0, 0, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 46, 40, 0 | [21:02:05] <font color='orange'>Has been thrown by Theodore Nickolson (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 171.2, 58, 0 | [21:01:29] <font color='orange'>Has been thrown by Theodore Nickolson (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 54, 0, 0
+Death | Engineering Construction Storage | 0, 197.664, 7, 0 | [21:06:02]<font color='orange'> Attacked by Graham Maclagan (egorkor) with large pipe (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [21:06:16]<font color='orange'> Attacked by Rayner Kanaga (perkeleperkeleperkele) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 4, 0, 0 | [21:07:13] <b>Ivan Bizon/diustin</b> shot <b>Andres Wilson/qqqjerichoppp</b> point blank with a <b>Canis .45-70</b>
+Death | Medbay | 0, 21, 0, 0 | [21:07:49]<font color='orange'> Attacked by Unknown (silentium) with brass knuckle (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Security Lobby | 0, 33, 0, 0 | [21:17:08] <font color='orange'>Has been thrown by Theodore Nickolson (epicjoe)</font>
+Death | The Quartermasters | 0, 1, 0, 0 | [21:17:24] <b>Ivan Bizon/diustin</b> shot <b>Unknown as (Arnold Herz)/odst97</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 0, 100, 0 | [21:19:45] <b>Ivan Bizon/diustin</b> shot <b>Preston Poehl/mrechoru</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 2.00004, 26, 0, 0 | [21:21:59] <b>Ivan Bizon/diustin</b> shot <b>Unknown as (Rum Waters)/qqqjerichoppp</b> point blank with a <b>the Handy MK2</b>
+Death | The Security Lobby | 0, 125.5, 73.5, 0 | [21:22:34] <font color='orange'>Has had their suit removed by Tetsudji Hisomu (panchoys)</font>
+Death | Engineering Construction Storage | 0, 27, 0, 0 | [21:07:12] <font color='red'>Attempted to remove Unknown's (drfenix) hat</font>
+Death | The Quartermasters | 0, 5, 0, 0 | [21:24:29] <b>Ivan Bizon/diustin</b> shot <b>Sam Stevens as (Unknown)/jolt96</b> point blank with a <b>the Handy MK2</b>
+Death | The Engineering Control | 29.2, 5, 0, 0 | [21:28:06] <b>Unknown/epicjoe</b> shot <b>Unknown/silentium</b> point blank with a <b>Hamlet SMG</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 11, 0, 0 | [21:29:42] <font color='orange'>Has been thrown by Unknown (epicjoe)</font>
+Death | The Engineering Control | 0, 50, 0, 0 | [21:29:05] <font color='orange'>Has had their right ear item removed by Archie Jyllian (microman8v)</font>
+Death | The Cafeteria | 0, 48, 17, 0 | [21:30:32] <b>Unknown/epicjoe</b> shot <b>Hector Barbarossa/assassin2033</b> with a <b>the Bullet</b>
+Death | The Cafeteria | 0, 1, 23, 0 | [21:32:06] <b>Unknown/epicjoe</b> shot <b>Max Damage/1cogwheel1</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 6, 0, 7 | [21:34:28]<font color='orange'> Attacked by Unknown (epicjoe) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 213.9, 0, 0 | [21:26:09] <font color='red'>Attempted to empty John Bolon's () pockets</font>
+Death | Engineering Construction Storage | 0, 127, 0, 0 | [21:28:04] <b>Unknown/epicjoe</b> shot <b>Unknown/kolaru2</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 2, 0, 0 | [21:39:02]<font color='orange'> Attacked by Unknown (epicjoe) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 7, 0, 0 | [21:40:56]<font color='orange'> Attacked by Rodger Wheeler (nameless216) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 66, 0, 0 | [21:41:47] <b>Unknown/panchoys</b> shot <b>Unknown/airenjon</b> point blank with a <b>the Handy MK2</b>
+Death | The Dormitories | 0, 117.717, 0, 0 | [21:42:03] <b>Unknown/panchoys</b> shot <b>Unknown/drfenix</b> point blank with a <b>the Nipper MK1</b>
+Death | The Engineering Control | 0, 0, 0, 0 | [21:41:17]<font color='orange'> Attacked by Rodger Wheeler (nameless216) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 28, 2, 0 | [21:43:29] <b>Unknown/silentium</b> shot <b>Rick Rainer/dragoner408</b> point blank with a <b>Canis .45-70</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [21:46:28] <b>Unknown/silentium</b> shot <b>Unknown/panchoys</b> point blank with a <b>the Handy MK2</b>
+Death | The Central Primary Hallway | 0, 7, 0, 0 | [21:50:48]<font color='orange'> Attacked by Unknown (silentium) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 201, 0, 0 | [21:47:05] <font color='red'>Attempted to remove Unknown's () belt item</font>

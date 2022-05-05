@@ -1,0 +1,35 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 22, 0, 0 | [22:01:02]<font color='orange'> Attacked by John Bolon (epicjoe) with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [22:01:52] <b>Trey Liam/randysandy</b> shot <b>Ivan Bizon/bohals</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Cafeteria | 0, 1, 0, 0 | [22:04:33]<font color='orange'> Attacked by Jerry Grande (nigilith) with brass knuckle (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:59:45]<font color='orange'> Attacked by John Bolon (epicjoe) with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 22, 0, 0 | [22:14:30] <b>Jerry Grande/nigilith</b> shot <b>Charlton Todd/windbrand</b> with a <b>the lead</b>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:14:57] <font color='orange'>Has been thrown by Trey Liam (randysandy)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [22:18:01] <b>Trey Liam/randysandy</b> shot <b>Jerry Grande/nigilith</b> with a <b>the Fire Bullet</b>
+Death | The Cafeteria | 0, 7, 10, 0 | [22:04:29] <font color='red'>Attempted to empty John Bolon's (epicjoe) pockets</font>
+Death | The Dormitories | 0, 6, 17, 0 | [22:26:43]<font color='orange'> Attacked by Unknown (gvardota) with sharpening (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 48, 94, 0 | [22:23:46]<font color='orange'> Attacked by Stud Walker (vassh) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Theatre | 0, 12, 0, 0 | [22:30:41]<font color='orange'> Attacked by Unknown (microman8v) with hammer (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 1, 5, 0, 0 | [22:42:39]<font color='orange'> Attacked by Unknown (dragoner408) with nailed bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 42, 0 | [22:42:30] <font color='orange'>Has had their hat removed by Terry Auman (bohals)</font>
+Death | The supply shuttle | 0, 1, 2.7, 0 | [22:39:18] <font color='red'>Attempted to remove Charlton Todd's () eyewear</font>
+Death | The Security Lobby | 0, 8, 0, 0 | [22:50:45]<font color='orange'> Attacked by Malcolm Lewis (lagius) with large pipe (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 28, 0, 0 | [22:55:58]<font color='orange'> Attacked by Malcolm Lewis (lagius) with large pipe (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [22:58:00] <b>Trey Liam/randysandy</b> shot <b>Alessa Towers/nigilith</b> with a <b>the Fire Bullet</b>
+Death | Engineering Construction Storage | 128.001, 56, 0, 0 | [23:00:17] <font color='orange'>Has had their uniform removed by Terry Auman (bohals)</font>
+Death | Engineering Construction Storage | 0, 39, 0, 0 | [23:01:20]<font color='orange'> Attacked by Noah Treeby (microman8v) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 0, 0, 0 | [23:06:35]<font color='orange'> Attacked by Unknown (12xilluks) with sharpening (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 51, 0, 0 | [23:16:17] <b>Unknown/panchoys</b> shot <b>Hiron Odel/nigilith</b> with a <b>the projectile</b>
+Death | Engineering Construction Storage | 0, 53, 33, 0 | [23:23:50] <font color='red'>Fed Unknown by Unknown (eggman1945) Reagents: [0x21003678]</font>
+Death | The Cafeteria | 0, 33, 0, 0 | [23:33:01] <b>Trey Liam/randysandy</b> shot <b>Unknown/woody112</b> with a <b>the lead</b>
+Death | The Cafeteria | 8.29997, 0, 0, 0 | [23:34:08] <b>Malcolm Lewis/lagius</b> shot <b>Trey Liam/randysandy</b> with a <b>the lead</b>
+Death | The Cafeteria | 0, 41, 0, 0 | [23:35:09]<font color='orange'> Attacked by Holden Tennant (1cogwheel1) with hatchet (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 1, 0, 0 | [23:38:35] <font color='orange'>Has had their hat removed by Unknown (panchoys)</font>
+Death | The Engineering Control | 322, 2, 0, 0 | [23:39:40] <b>Unknown/dragoner408</b> shot <b>Unknown/panchoys</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 0, 0, 0 | [23:50:40]<font color='orange'> Attacked by Unknown (chrisik) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>

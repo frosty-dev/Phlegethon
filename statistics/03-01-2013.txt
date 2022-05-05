@@ -1,0 +1,16 @@
+Death | The Fore Primary Hallway | 0, 200.865, 0, 0
+Explosion | The Fore Primary Hallway | 0, 0, 2, 0
+Explosion | The Fore Primary Hallway | 0, 0, 2, 0
+Explosion | The Fore Primary Hallway | 0, 0, 2, 0
+Death | The Fore Primary Hallway | 0, 202, 0, 0
+Death | The Port Primary Hallway | 0, 0, 0, 0 | [01:35:31]<font color='orange'> Attacked by human (catratcat) with sharpening (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | The Fore Primary Hallway | 0, 0, 2, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 0, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Kitchen | 0, 0, 0, 0 | [19:32:51] <font color='red'>Used the Nanoaugmentation Implaner (Superhuman Strength) (Superhuman Strength) to implant Malachi Howe (catratcat)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2

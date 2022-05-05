@@ -1,0 +1,7 @@
+"The Dormitories",21.7406,81.7934,0.00198949,0,293.183,25000
+"Engineering",21.7823,81.9583,0.00435887,0,293.77,67500
+"The Dormitories",21.8366,82.1472,0,0,293.15,15000
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,5000
+"The Security Lobby",21.8366,82.1472,0,0,293.15,55000
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500

@@ -1,0 +1,8 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 128, 85.6364, 0
+Death | The Engineering Control | 0, 54, 0, 0
+Death | The Central Primary Hallway | 0, 13, 0, 0 | [02:39:10]<font color='orange'> Attacked by Trey Liam (randysandy) with Nipper MK1 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Engineering Control | 0, 2, 0, 0 | [21:28:34] <b>William Reighner/catratcat</b> shot <b>the human/</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 1, 0, 0 | [21:31:13] <b>William Reighner/catratcat</b> shot <b>325/lotom</b> with a <b>the Fire Bullet</b>

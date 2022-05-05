@@ -1,0 +1,91 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 50, 33, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 0, 0, 0 | [21:08:19] <b>John Wallcroft/gazbax</b> shot <b>Keith Maxwell/shamanvoodoo11</b> with a <b>the Bullet</b>
+Death | The Cafeteria | 0, 42, 0, 0 | [21:08:20]<font color='orange'> Attacked by John Bolon (epicjoe) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 20, 0, 0 | [21:12:41]<font color='orange'> Attacked by Unknown (tima33) with hammer (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [21:12:43]<font color='orange'> Attacked by Buck Mcclagan (rigget) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 1, 0, 0 | [21:16:03]<font color='orange'> Attacked by Buck Mcclagan (rigget) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 15, 0, 0 | [21:16:37] <font color='orange'>Has been punched by Rudollf Schutze (armun)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:20:48]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 8, 0, 0 | [21:21:31]<font color='orange'> Attacked by Buck Mcclagan (rigget) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 142, 0, 0 | [21:22:11]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 28, 0, 0 | [21:22:20] <font color='red'>Attempted to remove Unknown's (ucnahez) belt item</font>
+Death | Engineering Construction Storage | 0, 34, 0, 0 | [21:26:00] <font color='orange'>Has had their pockets emptied by Kei Nihondzin (editorrus2)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [21:28:51]<font color='orange'> Attacked by Rabbie Gibbed (panchoys) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Theatre | 0, 5, 0, 0 | [21:32:19]<font color='orange'> Attacked by Buck Mcclagan (rigget) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | Medbay | 41, 155, 0, 0 | [21:33:54] <b>Enrique Begum/armun</b> shot <b>Oswald Stephenson/rubtsov</b> with a <b>syringegun</b> (lexorin (15),)
+Death | Engineering Construction Storage | 0, 4, 10, 0 | [21:26:00] <font color='red'>Attempted to empty Randy Powers's (leonido33) pockets</font>
+Death | Engineering Construction Storage | 0, 30, 0, 0 | [21:37:57] <font color='orange'>Has had their uniform removed by Morgan Liam (microman8v)</font>
+Death | Engineering Construction Storage | 0, 5, 0, 0 | [21:44:18]<font color='orange'> Attacked by Buck Mcclagan (rigget) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [21:44:28]<font color='orange'> Attacked by Buck Mcclagan (rigget) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Theatre | 0, 8, 25, 0 | [21:47:14]<font color='orange'> Attacked by Brian Owl Hoover (eggman1945) with Gas Tank (Sleeping Agent) (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 0, 0, 0 | [21:47:49]<font color='orange'> Attacked by Arnold Herz (odst97) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 32, 0 | [21:48:37]<font color='orange'> Attacked by Robin The Rat (panchoys) with stone (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 0, 0, 0 | [21:50:32] <b>Unknown/tima33</b> shot <b>Unknown/odst97</b> with a <b>the Bullet</b>
+Death | Engineering | 0, 173, 0, 0 | [21:48:47] <font color='orange'>Has been thrown by Unknown (tima33)</font>
+Death | The Theatre | 0, 85, 5, 0 | [21:56:13]<font color='orange'> Attacked by Yuki Nihondzin (editorrus) with Gas Tank (Sleeping Agent) (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 41, 37, 0 | [22:04:38] <font color='orange'>Has had their pockets emptied by Malcolm Ann (spood)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:06:27]<font color='orange'> Attacked by Austin Ali (theanabioz911) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Security Lobby | 0, 0, 0, 0 | [22:07:14]<font color='orange'> Attacked by Marcus Murray (chrisik) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [22:08:03] <b>Unknown/tima33</b> shot <b>Nick Thompson/moroz10</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 38, 0, 0 | [22:07:45] <b>Unknown/tima33</b> shot <b>Unknown/egorkor</b> with a <b>the Bullet</b>
+Death | The Security Lobby | 81.0002, 0, 0, 0 | [22:04:12] <b>Cyborg/epicjoe</b> shot <b>Unknown/redomine</b> with a <b>the Electrode</b>
+Death | The Security Lobby | 0, 0, 0, 0 | [22:04:19] <font color='orange'>Has been attacked with stun baton by Cyborg (epicjoe) (INTENT: HELP)</font>
+Explosion | The Escape Pod One | -1, 0, 2, 
+Death | The Escape Pod One | 0, 15, 0, 0 | [22:09:18]<font color='orange'> Attacked by Bradley Armstrong (komputar) with Handy MK2 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering | 0, 2, 0, 0 | [22:13:52]<font color='orange'> Attacked by John Bolon (epicjoe) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 13, 17, 0 | [22:16:16]<font color='orange'> Attacked by Santiago Wright (spood) with stone (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 5, 0, 0 | [22:18:01]<font color='orange'> Attacked by Bill Karlos (tima33) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 64, 0, 0 | [22:19:01] <font color='orange'>Has been thrown by John Bolon (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 91, 0, 0 | [22:18:42] <font color='orange'>Has been thrown by Bill Karlos (tima33)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [22:20:23]<font color='orange'> Attacked by Bill Karlos (tima33) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 30, 0, 0 | [22:25:45]<font color='orange'> Attacked by Kei Yuno Nihondzin (editorrus2) with bat (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Dormitories | 18.1001, 2, 0, 0 | [22:34:05]<font color='orange'> Attacked by Unknown (epicjoe) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:36:45]<font color='orange'> Attacked by Bill Karlos (tima33) with balisong knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | 1, 2, 3, 3
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Security Lobby | 0, 13, 0, 0 | [22:44:16]<font color='orange'> Attacked by Unknown (epicjoe) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Dormitories | -1, 0, 2, 
+Death | The Dormitories | 39, 20, 0, 0 | [22:45:59] <font color='orange'>Has been slashed by Bill Karlos (tima33)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [22:45:49] <font color='orange'>Has had their uniform removed by Bennett Altmann (spood)</font>
+Death | The Security Lobby | 0, 1, 0, 0 | [22:46:01]<font color='red'> Attacked Unknown (chachka) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 12, 0, 0 | [22:47:23] <b>John Wallcroft/gazbax</b> shot <b>Unknown as (Luka Maniotta)/editorrus2</b> point blank with a <b>Canis .45-70</b>
+Explosion | The Dormitories | 1, 2, 3, 3
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Engineering Control | 0, 0, 0, 0
+Death | The Security Lobby | 0, 28, 0, 0 | [22:48:40] <font color='orange'>Has been slashed by Brian Owl Hoover (eggman1945)</font>
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Engineering Control | 0, 32, 0, 0 | [22:33:45]<font color='red'> Attacked Buck Mccnelan (rigget) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [22:50:39] <font color='red'>Attempted to remove Unknown as (Luka Maniotta)'s () right ear item</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [22:51:40] <b>John Wallcroft/gazbax</b> shot <b>Unknown/panchoys</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 0, 17, 0 | [22:27:48] <font color='orange'>Has had their uniform removed by Unknown (mr1337fagget)</font>
+Death | The Engineering Control | 49.5, 11, 0, 0 | [22:50:59] <font color='red'>Threw Unknown (rzzone)</font>
+Explosion | The Centcom | -1, 0, 2, 
+Explosion | The Centcom | -1, 0, 2, 
+Explosion | The Centcom | -1, 0, 2, 
+Death | The Centcom | 16.3, 19, 0, 0 | [22:51:58] <font color='red'>Used the Confess Implanter (Confess) to implant Paul Orwin (zoomerik)</font>
+Death | The Centcom | 0, 0, 0, 0 | [22:53:49] <b>John Wallcroft/gazbax</b> shot <b>Unknown/mikdevochkin</b> with a <b>the Bullet</b>

@@ -1,0 +1,77 @@
+Death | The Library | 0, 1, 0, 0 | [21:54:23]<font color='orange'> Attacked by Elliot Lineman (sanu17) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 0, 0, 0 | [22:02:24] <b>Unknown/epicjoe</b> shot <b>Unknown as (Werner Diels)/neray</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [22:02:36] <b>Ace Myles/silentium</b> shot <b>Unknown as (Huepidor Blyat)/camer</b> point blank with a <b>Hamlet SMG</b>
+Death | Sewers | 0, 0, 30.6, 0 | [22:08:35] <b>Unknown/epicjoe</b> shot <b>Jean Creeping Things Guess/dafiop</b> with a <b>the lead</b>
+Death | Sewers | 0, 27, 32, 0 | [22:00:06] <font color='orange'>Has been fed Anti-toxins pill by Bruce Bratton (teretox) Reagents: [0x21002bf6]</font>
+Death | Sewers | 0, 67, 0, 0
+Death | The Central Primary Hallway | 0, 8, 0, 0 | [22:14:16] <b>Werner Diels/silentium</b> shot <b>Unknown as (George Michael)/camer</b> point blank with a <b>Springfield A7</b>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 35, 0, 0 | [22:20:35] <font color='orange'>Has been handcuffed (attempt) by Tyler News (ferriangardson)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 6, 43, 0 | [22:22:14] <b>Bruce Bratton/teretox</b> shot <b>Unknown/sanu17</b> with a <b>bow</b> ()
+Death | Sewers | 0, 1, 0, 0 | [22:23:46]<font color='orange'> Attacked by Bruce Bratton (teretox) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 102, 0, 0 | [22:23:41] <font color='red'>Attempted to empty Unknown's (techpriestwolfy) pockets</font>
+Explosion | Street | -1, -1, 2, 2
+Death | Sewers | 4.8, 0, 0, 0 | [22:29:07]<font color='orange'> Attacked by Bruno Mantana (rigget) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [22:29:43]<font color='orange'> Attacked by Werner Diels (silentium) with police baton (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [22:29:46]<font color='orange'> Attacked by Werner Diels (silentium) with police baton (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 2, 0, 0 | [22:32:57]<font color='orange'> Attacked by Huepidor Blyat (striker12345) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 5, 14, 0 | [22:33:54]<font color='orange'> Attacked by Bruno Mantana (rigget) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 18.8, 174, 0, 0 | [22:30:17] <font color='orange'>Has been punched by Rasmus Baum (dafiop)</font>
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Death | The Escape Pod One | 0, 0, 0, 0 | [22:35:14] <font color='red'>Attempted to empty Unknown as (Billy Idol)'s () pockets</font>
+Explosion | The Escape Pod One | -1, 0, 2, 
+Death | The Escape Pod One | 17.4, 4, 0, 0 | [22:34:00] <font color='red'>Attempted to remove Unknown's () left ear item</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 101.8, 0 | [22:47:28] <font color='red'>Disarmed Max Damage (1cogwheel1)</font>
+Death | Engineering | 0, 1, 0, 0 | [22:50:29]<font color='orange'> Attacked by Tyler News (ferriangardson) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 53.4, 0, 59.2, 0 | [23:00:33] <font color='red'>Attempted to empty Arlim Westland's () pockets</font>
+Death | Sewers | 0, 0, 0, 0 | [23:11:30] <font color='orange'>Has had their back item removed by Tyler News (ferriangardson)</font>
+Death | The Theatre | 0, 36, 134.399, 0 | [22:45:21] <font color='red'>Attempted to remove Swamp Snake's (camer) belt item</font>
+Death | Engineering | 0, 0, 0, 0 | [23:15:51] <b>John Bolon/epicjoe</b> shot <b>Unknown as (John Smith)/catratcat</b> point blank with a <b>the Handy MK2</b>
+Death | Engineering | 0, 27, 0, 0 | [23:15:46] <b>John Smith/catratcat</b> shot <b>Rasmus Baum/dafiop</b> with a <b>the Bullet</b>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 2, 14, 0 | [23:33:57]<font color='orange'> Attacked by Jean Creeping Things Guess (dafiop) with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 0, 0 | [23:34:11]<font color='orange'> Attacked by Jack (rizus) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 8, 0, 0 | [23:34:26]<font color='orange'> Attacked by Tyler News (ferriangardson) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [23:38:50] <b>Lief Chauvin/vovanhur</b> shot <b>Unknown/camer</b> point blank with a <b>Hamlet SMG</b>
+Death | Street | 0, 0, 0, 0 | [23:39:07] <b>Lief Chauvin/vovanhur</b> shot <b>Unknown/camer</b> point blank with a <b>Canis .45-70</b>
+Death | Street | 116.9, 2, 0, 0 | [23:39:22]<font color='orange'> Attacked by Jack (rizus) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, 0, 2, 
+Explosion | Sewers | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Explosion | Sewers | -1, 0, 2, 
+Death | Street | 0, 6, 7.4, 0 | [23:43:10] <b>Lief Chauvin/vovanhur</b> shot <b>Unknown/epicjoe</b> point blank with a <b>Nipper MK1</b>
+Explosion | Sewers | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 1, 0, 0 | [23:45:12]<font color='orange'> Attacked by Lief Chauvin (vovanhur) with Silenced Trencher MK2 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0
+Death | Sewers | 0, 1, 0, 0 | [23:47:19]<font color='orange'> Attacked by Lief Chauvin (vovanhur) with Silenced Trencher MK2 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 0, 0, 0 | [23:47:22]<font color='orange'> Attacked by Lief Chauvin (vovanhur) with Silenced Trencher MK2 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:49:10] <b>Lief Chauvin/vovanhur</b> shot <b>Unknown/camer</b> point blank with a <b>Canis .45-70</b>
+Death | Engineering | 0, 0, 0, 0 | [23:31:13] <font color='orange'>Has had their pockets emptied by Arlim Westland (arlim)</font>
+Death | Engineering | 0, 0, 0, 0 | [23:31:13] <font color='orange'>Has had their pockets emptied by Arlim Westland (arlim)</font>
+Death | Sewers | 0, 0, 175, 0 | [23:46:14] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Engineering | 0, 0, 0, 0 | [23:31:13] <font color='orange'>Has had their pockets emptied by Arlim Westland (arlim)</font>
+Death | The Kitchen | 0, 2, 0, 0 | [23:51:51]<font color='orange'> Attacked by Lief Chauvin (vovanhur) with knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 0, 0, 0 | [23:52:19]<font color='orange'> Attacked by Lief Chauvin (vovanhur) with knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:54:52]<font color='orange'> Attacked by Lief Chauvin (vovanhur) with knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Security Lobby | 0, 0, 0, 0 | [23:51:10] <font color='orange'>Has been punched by Unknown (silentium)</font>
+Death | Street | 0, 0, 0, 0 | [23:55:19]<font color='orange'> Attacked by Unknown (ferriangardson) with nailed bat (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 1, 0, 0 | [23:55:37]<font color='orange'> Attacked by Jack as (Weston Burkett) (rizus) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 2, 0, 0 | [23:55:47]<font color='orange'> Attacked by Jack as (Weston Burkett) (rizus) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 100, 0 | [23:56:45] <b>Lief Chauvin/vovanhur</b> shot <b>Unknown/hovenbeth</b> with a <b>the lead</b>
+Death | The supply shuttle | 0, 0, 0, 0 | [23:57:49] <b>Lief Chauvin/vovanhur</b> shot <b>Unknown/camer</b> with a <b>the Bullet</b>

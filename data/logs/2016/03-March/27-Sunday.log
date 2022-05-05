@@ -1,0 +1,36 @@
+
+
+Starting up. 16:04.29
+---------------------
+
+[16:04:29]ADMIN: Loading jobban_rank
+[16:04:29]ADMIN: jobban_keylist was empty
+[16:04:29]ADMIN: Updating jobbanfile!
+[16:04:29]ADMIN: Loading Banlist
+Reading donators.txt
+[16:06:10]ACCESS: Login: Silentium/(Silentium) from 127.0.0.1-9016090 || BYOND v509
+[16:06:10]ACCESS: Login: Silentium/(Silentium) from 127.0.0.1
+[16:06:44]ADMIN: Silentium has started the game.
+[16:06:45]ACCESS: Logout: *no client*/(Silentium)
+[16:06:45]ACCESS: Login: Silentium/(Ace Myles) from 127.0.0.1-9016090 || BYOND v509
+[16:08:20]ADMIN: Silentium/(Ace Myles) created a /obj/item/weapon/crafty/rifleframe
+[16:08:25]ADMIN: Silentium/(Ace Myles) created a /obj/item/weapon/craftspear
+[16:08:30]ADMIN: Silentium/(Ace Myles) created a /obj/item/weapon/crafty/knifeblade
+[16:08:34]ADMIN: Silentium/(Ace Myles) created a /obj/item/weapon/crafty/knifeblade
+[16:08:40]ADMIN: Silentium/(Ace Myles) created a /obj/item/weapon/gun/projectile/craftrifle
+[16:09:11]ADMIN: Silentium/(Ace Myles) created a /obj/item/weapon/fragnade
+[16:09:20]ADMIN: Silentium/(Ace Myles) deleted the weapon at (34,39,2)
+[16:15:59]ACCESS: Logout: Silentium/(Ace Myles)
+
+
+Starting up. 18:13.16
+---------------------
+
+[18:13:16]ADMIN: Loading jobban_rank
+[18:13:16]ADMIN: jobban_keylist was empty
+[18:13:16]ADMIN: Updating jobbanfile!
+[18:13:16]ADMIN: Loading Banlist
+Reading donators.txt
+[18:13:49]ACCESS: Login: Silentium/(Silentium) from 127.0.0.1-9016090 || BYOND v509
+[18:13:49]ACCESS: Login: Silentium/(Silentium) from 127.0.0.1
+[18:14:10]ACCESS: Logout: Silentium/(Silentium)

@@ -1,0 +1,34 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 7, 0, 0 | [00:08:52]<font color='orange'> Attacked by Unknown (gvardota) with bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Cafeteria | 0, 0, 111, 0 | [00:27:00] <font color='orange'>Has had their shoes removed by Unknown (mikdevochkin)</font>
+Death | The Dormitories | 0, 27, 107.2, 0
+Death | Engineering Construction Storage | 0, 159.5, 0, 0 | [00:31:34]<font color='orange'> Attacked by Unknown (gvardota) with bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [00:32:12]<font color='orange'> Attacked by Unknown (dezer) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 27, 119.8, 0 | [00:38:59] <font color='orange'>Has been disarmed by Edgar Mason (shtirlits)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Cafeteria | 0, 0, 0, 0 | [00:45:23] <font color='orange'>Has had their eyewear removed by Unknown (mikdevochkin)</font>
+Death | Medical Research | 0, 0, 0, 0 | [00:48:40]<font color='orange'> Attacked by Karston Greenawalt (gvardota) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 50, 0, 0
+Death | Engineering Construction Storage | 0, 25, 0, 0 | [00:57:28]<font color='orange'> Attacked by Unknown (mikdevochkin) with hatchet (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 46, 0, 0, 0 | [00:59:29] <b>Unknown/silentium</b> shot <b>Unknown as (John Walsh)/danteru</b> point blank with a <b>Sleuth DS</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 7, 0, 0 | [01:00:39]<font color='orange'> Attacked by Unknown (dezer) with scout (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 45, 53, 0 | [00:59:58] <font color='red'>Attempted to remove Unknown's (leonka2) shoes</font>
+Death | The Quartermasters | 0, 20, 0, 0 | [01:03:06]<font color='orange'> Attacked by Unknown (silentium) with balisong knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 27, 68.7001, 0 | [01:07:12] <font color='orange'>Has been thrown by Karston Greenawalt as (Jed Barnes) (gvardota)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [01:17:46] <font color='orange'>Has had their shoes removed by Unknown (mikdevochkin)</font>
+Death | The Theatre | 221, 5, 0, 0 | [01:19:00] <b>Karston Greenawalt as (Jed Barnes)/gvardota</b> shot <b>Some...creature?/jolt96</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 28, 0 | [01:18:51] <b>Romayne Ackerley/shtirlits</b> shot <b>Unknown as (Cassandra Rollie)/arlim</b> with a <b>bow</b> ()
+Death | The Central Primary Hallway | 0, 41, 2, 0 | [01:24:29] <b>Cassandra Rollie/dnivji</b> shot <b>Unknown as (Cassandra Rollie)/arlim</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 4, 0
+Death | The Escape Pod One | 259, 0, 0, 0 | [01:27:32] <b>John Walsh/silentium</b> shot <b>Some...creature?/jolt96</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 48, 0, 16 | [01:17:46] <font color='red'>Attempted to remove Scott Jenkins's (high3) shoes</font>
+Death | The Escape Pod One | 284, 0, 0, 0 | [01:28:16] <b>John Walsh/silentium</b> shot <b>Some...creature?/jolt96</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 37.5, 1, 0 | [01:26:42]<font color='red'> Attacked Some...creature? (jolt96) with nailed bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Escape Pod One | 228, 0, 0, 0 | [01:29:19] <b>John Walsh/silentium</b> shot <b>Some...creature?/jolt96</b> point blank with a <b>Hamlet SMG</b>
+Death | Engineering Construction Storage | 0, 0, 23, 0

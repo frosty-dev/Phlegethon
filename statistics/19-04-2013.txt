@@ -1,0 +1,12 @@
+Death | The Engineering Control | 7.7, 0, 0, 0 | [00:03:37] <b>Rabbie Gibbed/panchoys</b> shot <b>Unknown/miromade</b> point blank with a <b>Hamlet SMG</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Medical Research | 0, 21, 0, 0 | [00:07:09]<font color='orange'> Attacked by Rabbie Gibbed (panchoys) with Hamlet SMG (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 6, 0, 0 | [00:09:49]<font color='orange'> Attacked by Rabbie Gibbed (panchoys) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [00:13:29] <b>Rabbie Gibbed/panchoys</b> shot <b>Dallas Scott/miromade</b> point blank with a <b>Hamlet SMG</b>
+Death | The Engineering Control | 0, 5, 0, 0 | [00:15:20] <b>Unknown as (Rabbie Gibbed)/panchoys</b> shot <b>Zachariah Raub/gvardota</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 89, 26, 0 | [00:16:10]<font color='orange'> Attacked by Unknown as (Rabbie Gibbed) (panchoys) with Trencher MK2 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 1, 0, 0 | [00:30:13]<font color='orange'> Attacked by Zachariah Raub (gvardota) with bat (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 2, 0, 0 | [00:31:08]<font color='orange'> Attacked by Rabbie Gibbed (panchoys) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 7, 54, 0 | [00:33:05]<font color='orange'> Attacked by Zachariah Raub (gvardota) with bat (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 175, 0
+Death | Medical Research | 0, 48, 0, 0 | [00:34:14]<font color='orange'> Attacked by Zachariah Raub (gvardota) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>

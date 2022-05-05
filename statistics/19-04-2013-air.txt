@@ -1,0 +1,5 @@
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500
+"The Quartermasters",21.8366,82.1472,0,0,293.15,60000
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,2500
+"Medical Research",21.8366,82.1472,0,0,293.15,2500
+"The Escape Pod One",21.8366,82.1472,0,0,293.15,2500

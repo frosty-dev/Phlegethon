@@ -1,0 +1,80 @@
+Death | The Kitchen | 0, 5, 25, 0 | [00:04:23]<font color='orange'> Attacked by Unknown (buddey) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 298, 1, 0, 0 | [00:06:15] <b>Holden Tennant as (Tyler Mull)/1cogwheel1</b> shot <b>the necroid venator (916)/leonido33</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 0, 20, 0 | [23:53:00] <font color='orange'>Has been thrown by necroid venator (916) (leonido33)</font>
+Death | The Central Primary Hallway | 358, 0, 0, 0 | [00:12:23] <b>Unknown/bohals</b> shot <b>the necroid venator (248)/7monster7</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 20, 0, 40, 0.139884 | [00:15:44] <b>Holden Tennant as (Tyler Mull)/1cogwheel1</b> shot <b>the necroid loculus/panchoys</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 39, 0, 0 | [00:18:59]<font color='red'> Attacked necroid loculus (panchoys) with bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 33, 0, 0 | [00:19:02] <font color='orange'>Has been strangled (kill intent) by necroid venator (537) (leonido33)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Cafeteria | 0, 51, 0, 0 | [21:36:27] <font color='orange'>Has been punched by Holden Tennant (1cogwheel1)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 5, 0, 0.736348 | [21:39:14]<font color='orange'> Attacked by Werner Diels (neray) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Theatre | 0, 48, 57, 0 | [21:48:47] <font color='orange'>Has had their shoes removed by Carlos Catherina (chrisik)</font>
+Death | Engineering Construction Storage | 0, 134.91, 0, 0 | [21:51:39] <font color='orange'>Has had their left ear item removed by Gerardo Priebe (leonido33)</font>
+Death | The Quartermasters | 0, 31, 0, 0 | [21:33:42] <font color='orange'>Has been disarmed by Jordan Milne (inika)</font>
+Death | The Theatre | 0, 30, 75, 0 | [21:55:30] <b>Trey Liam/randysandy</b> shot <b>Carlos Catherina/chrisik</b> with a <b>bow</b> ()
+Death | The Cafeteria | 0, 0, 0, 0 | [22:02:20] <font color='orange'>Has had their shoes removed by Kane Perkins (lazaka)</font>
+Death | The Engineering Control | 0, 129, 0, 0 | [22:05:54] <b>Werner Diels/neray</b> shot <b>Trey Liam/randysandy</b> with a <b>the Fire Bullet</b>
+Death | The Cafeteria | 79, 0, 0, 0 | [22:09:24] <font color='orange'>Has had their mask removed by Holden Tennant (1cogwheel1)</font>
+Death | The Cafeteria | 8.99995, 7, 42, 0 | [22:10:47]<font color='orange'> Attacked by Brody Flickinger (titanoid) with hammer (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 7.4, 48, 0, 0 | [21:47:04] <font color='orange'>Has had their uniform removed by Claudius Keppel (gvardota)</font>
+Death | Engineering Construction Storage | 0, 43, 0, 0 | [21:59:07]<font color='orange'> Attacked by Graham Maclagan (egorkor) with camera bug (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 42, 0, 0
+Death | The Engineering Control | 0, 9, 0, 0 | [22:15:01]<font color='orange'> Attacked by Lanny Smith (inika) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 7.79995, 14, 0, 0 | [22:20:54]<font color='orange'> Attacked by Lanny Smith (inika) with Doubly (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 40, 24, 0
+Death | The Engineering Control | 0, 0, 0, 0 | [22:16:04] <font color='orange'>Has had their shoes removed by Lanny Smith (inika)</font>
+Death | Engineering Construction Storage | 0, 0, 31, 0 | [22:14:58] <font color='orange'>Has had their uniform removed by Leonard Clarke (zcv)</font>
+Death | Engineering Construction Storage | 0, 0, 3, 0 | [22:22:17]<font color='orange'> Attacked by Unknown (zcv) with nailed bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 35, 0, 0 | [22:28:24]<font color='orange'> Attacked by Teonix Aizenshtein (tizit) with hatchet (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 29, 0, 0 | [22:29:42]<font color='orange'> Attacked by Teonix Aizenshtein (tizit) with Bolt (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 45, 78, 0 | [22:23:09] <font color='red'>Attempted to remove Unknown's () hat</font>
+Death | Engineering Construction Storage | 0, 46, 16, 0 | [22:31:48] <font color='orange'>Has had their uniform removed by Teonix Aizenshtein (tizit)</font>
+Death | The Quartermasters | 0, 39, 16, 0 | [22:32:03] <font color='red'>Attempted to remove Unknown's () uniform</font>
+Death | Engineering Construction Storage | 0, 29, 0, 0 | [21:56:27] <font color='red'>Disarmed Carlos Catherina (chrisik)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 55.7, 28, 0, 0 | [22:38:37]<font color='orange'> Attacked by Jeffrey Aultman (microman8v) with hammer (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 48, 0, 0 | [22:40:52] <b>Dr. Samuel Plague/panchoys</b> shot <b>Unknown/egorkor</b> point blank with a <b>Canis .45-70</b>
+Death | Engineering Construction Storage | 0, 40, 21, 0 | [22:39:16] <font color='red'>Attempted to remove Lanny Smith's (inika) uniform</font>
+Death | The Escape Pod One | 0, 192.5, 0, 95 | [22:43:42] <b>Unknown as (Trey Liam)/randysandy</b> shot <b>Unknown as (Trey Liam)/randysandy</b> point blank with a <b>the Handy MK2</b>
+Death | The Cafeteria | 0, 0, 0, 0 | [22:44:24] <font color='orange'>Has had their mask removed by Samuel Adams (bohals)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:43:00] <b>Zane Stewart as (Graham Maclagan)/gvardota</b> shot <b>Gerardo Priebe/leonido33</b> with a <b>bow</b> ()
+Death | The Centcom | 0, 0, 0, 0 | [22:48:25] <b>Dr. Samuel Plague/panchoys</b> shot <b>Graham Maclagan/gvardota</b> with a <b>the Bullet</b>
+Death | The Cafeteria | 0, 2, 0, 0 | [22:48:33]<font color='orange'> Attacked by Samuel Adams (bohals) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Dormitories | 0, 30, 0, 0 | [22:54:04]<font color='orange'> Attacked by Aiden Cross (woody112) with balisong knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 43, 49, 0
+Death | The Dormitories | 0, 13, 0, 0 | [22:59:54]<font color='orange'> Attacked by Scotty Blackburn (catratcat) with nailed bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 42, 0, 0 | [23:06:43]<font color='orange'> Attacked by Zane Stewart (gvardota) with hatchet (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [23:09:19]<font color='orange'> Attacked by Ivan Bizon (bohals) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 40, 0, 0 | [23:09:40]<font color='orange'> Attacked by Ivan Bizon (bohals) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 42, 0, 0 | [23:09:43]<font color='orange'> Attacked by Ivan Bizon (bohals) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 4 | [23:10:48]<font color='orange'> Attacked by Ivan Bizon (bohals) with nailed bat (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Kitchen | 0, 0, 0, 0 | [23:15:46] <font color='orange'>Has been punched by Morgan James (lagius)</font>
+Death | Engineering Construction Storage | 0, 32, 0, 0 | [23:24:43]<font color='orange'> Attacked by Zane Stewart (gvardota) with chain (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [23:26:06]<font color='orange'> Attacked by Zane Stewart (gvardota) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 54, 57, 0 | [23:32:53]<font color='orange'> Attacked by Unknown (chachka) with crowbar (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 8, 0, 0 | [23:40:24]<font color='orange'> Attacked by Rick Rainer (dragoner408) with crowbar (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 0, 27, 0 | [23:39:55] <font color='orange'>Has had their gloves removed by Dr. Samuel Plague (panchoys)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 32, 0, 0 | [23:42:47] <font color='orange'>Has been thrown by Gerardo Priebe (leonido33)</font>
+Death | Engineering Construction Storage | 0, 11, 27, 12 | [23:46:07]<font color='orange'> Attacked by Keegan Marshall (niterial) with large pipe (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 14, 0, 0 | [23:47:58]<font color='orange'> Attacked by Ivan Bizon (bohals) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Medbay | 0, 5, 20.7, 0 | [23:53:57] <b>Zane Stewart/gvardota</b> shot <b>Morgan James/lagius</b> point blank with a <b>the Handy MK2</b>
+Death | The Engineering Control | 0, 21, 35, 0 | [23:59:38] <font color='orange'>Has had their pockets emptied by Zane Stewart as (Morgan James) (gvardota)</font>
+Death | The Engineering Control | 16, 0, 32, 0 | [23:59:53] <b>Zane Stewart as (Morgan James)/gvardota</b> shot <b>Unknown/pwwp</b> with a <b>the Bullet</b>

@@ -1,0 +1,99 @@
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Death | Sewers | 0, 0, 60.6, 0 | [15:21:03]<font color='orange'> Attacked by Unknown (ghoststalin) with hatchet (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 2, 0, 0 | [15:23:17]<font color='orange'> Attacked by Unknown (mishapepyaka) with bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 72, 2, 0, 0 | [15:24:52]<font color='orange'> Attacked by Unknown (ghoststalin) with large pipe (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 41, 0, 0 | [15:25:27]<font color='orange'> Attacked by Jayce Adams (andreybelow) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 0, 102.8, 0
+Death | The Central Primary Hallway | 0, 0, 0, 0
+Death | Street | 0, 160, 11, 0 | [15:25:55] <font color='orange'>Has had their belt item removed by Jayce Adams (andreybelow)</font>
+Death | Street | 0, 0, 0, 0
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 2.6, 1, 0, 0 | [15:29:41]<font color='orange'> Attacked by Patrick Power (ghoststalin) with chain (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 28, 0, 0 | [15:33:56]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with hammer (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 61, 0, 0 | [15:34:36]<font color='orange'> Attacked by Unknown as (Jayce Adams) (andreybelow) with scalpel (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [15:34:40] <b>Unknown/ghoststalin</b> shot <b>Unknown/difilex</b> with a <b>the lead</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [15:34:48] <b>Unknown/ghoststalin</b> shot <b>Unknown/difilex</b> with a <b>the lead</b>
+Death | The Central Primary Hallway | 0, 198.8, 0, 0 | [15:33:58]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with hammer (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [15:35:19]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with hammer (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Street | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [15:36:30]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with hammer (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 0, 4, 0 | [15:36:49] <b>Unknown/ghoststalin</b> shot <b>Unknown/difilex</b> with a <b>the lead</b>
+Death | The Central Primary Hallway | 0, 0, 130, 0 | [15:38:04] <b>Unknown/ghoststalin</b> shot <b>Unknown/difilex</b> point blank with a <b>Trencher MK2</b>
+Death | Street | 0, 0, 48, 0 | [15:38:17]<font color='orange'> Attacked by Atarabashi Nihondzin as (Dominic Rowley) (editorrus) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 135.4, 0
+Death | Street | 0, 0, 119.8, 0
+Death | Street | 0, 0, 175, 0
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 45, 0 | [16:00:30] <b>Kiara Chapman/alexix1989</b> shot <b>Russell Poehl/seel112</b> with a <b>the lead</b>
+Death | Sewers | 0, 0, 0, 0 | [16:00:31]<font color='orange'> Attacked by Unknown (editorrus) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 170, 0, 0 | [16:02:10] <font color='orange'>Has had their shoes removed by Jalen Tilton (apopheosis)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 76, 0, 0 | [16:06:19]<font color='orange'> Attacked by Ryker Jewell (immaspaceninja) with scout (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 37, 8.00002, 0 | [15:58:05] <font color='orange'>Has had their pockets emptied by Unknown (editorrus)</font>
+Death | Sewers | 0, 42, 0, 0 | [16:08:45]<font color='orange'> Attacked by Roger Alice (editorrus) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 19.2, 37, 0, 0 | [16:05:43] <font color='orange'>Has had their pockets emptied by Jackson Sidower (mishapepyaka)</font>
+Death | Sewers | 0, 36, 0, 0 | [16:06:20]<font color='red'> Attacked Jalen Tilton (apopheosis) with scout (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 189.7, 36.4001, 0 | [16:14:01] <font color='orange'>Has had their pockets emptied by Michael Shupe (andreybelow)</font>
+Death | Sewers | 0, 34, 0, 0 | [16:16:37] <font color='orange'>Has had their gloves removed by Orlando Boyer (mishapepyaka)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 175, 0 | [16:19:45]<font color='orange'> Attacked by Orlando Boyer (mishapepyaka) with chain (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 33, 0, 137.933
+Death | Street | 0, 33, 0, 0 | [16:20:19] <b>Michael Shupe/andreybelow</b> shot <b>/</b> with a <b>the lead</b>
+Death | The Cafeteria | 0, 0, 0, 0 | [16:21:13] <b>Michael Shupe/andreybelow</b> shot <b>Roger Alice/editorrus</b> with a <b>the Bullet</b>
+Death | Street | 0, 0, 71.4, 0 | [16:20:35] <b>Michael Shupe/andreybelow</b> shot <b>Unknown/difilex</b> with a <b>the lead</b>
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Cafeteria | 0, 0, 65, 0 | [16:20:43] <b>Michael Shupe/andreybelow</b> shot <b>Unknown/ghoststalin</b> with a <b>the lead</b>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 1, 19, 0 | [16:25:57] <b>Michael Shupe/andreybelow</b> shot <b>Lacey Adams/alexix1989</b> with a <b>the Bullet</b>
+Death | Street | 0, 32, 120, 0
+Death | Street | 0, 0, 175, 0
+Death | Sewers | 0, 2, 0, 0 | [16:53:59]<font color='orange'> Attacked by Ofaal Gubta (vovanhur) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 191, 109, 0
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | The Quartermasters | -1, -1, 2, 2
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 1, 0, 0 | [16:56:50]<font color='orange'> Attacked by Alex Wood (ghoststalin) with large pipe (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [16:55:00] <font color='red'>Used the Nanoaugmentation Implaner (Short-range Psionic Radar) (Short-range Psionic Radar) to implant Ofaal Gubta (vovanhur)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [17:00:09] <b>Alex Wood as (Cassandra Rollie)/ghoststalin</b> shot <b>Unknown/valentine1488</b> with a <b>the Bullet</b>
+Explosion | Street | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Street | -1, -1, 2, 2
+Death | Sewers | 0, 0, 0, 0 | [17:10:16] <b>Cassandra Rollie/ghoststalin</b> shot <b>Unknown/leeroyjenkns</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 0, 96.6, 0 | [17:08:34] <b>Cassandra Rollie/ghoststalin</b> shot <b>Oswald Shupe/bigrage</b> with a <b>the Bullet</b>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | Sewers | 0, 0, 107.7, 0 | [17:10:16] <b>Cassandra Rollie/ghoststalin</b> shot <b>Unknown/leeroyjenkns</b> with a <b>the Bullet</b>
+Explosion | Street | -1, 0, 2, 
+Death | Sewers | 0, 33, 0, 137.933
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Quartermasters | 151.6, 37, 0, 0 | [17:34:05] <font color='orange'>Has had their hat removed by Unknown (ghoststalin)</font>
+Explosion | Street | -1, -1, 2, 2
+Death | Sewers | 0, 0, 0, 0 | [17:38:12] <b>Unknown/ghoststalin</b> shot <b>Roland Hardy as (Alan Eggbert)/corporaldead</b> with a <b>the Bullet</b>
+Death | Street | 0, 0, 107.1, 0 | [17:38:12] <b>Unknown/ghoststalin</b> shot <b>Roland Hardy as (Alan Eggbert)/corporaldead</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 0, 107, 0 | [17:38:56] <font color='red'>Attempted to empty Alvin Pinney's (wajtswv) pockets</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 5, 18, 0 | [17:59:36]<font color='orange'> Attacked by Marion Pennington (corporaldead) with nailed bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 4, 0, 0 | [18:00:42] <b>Alan Eggbert/ghoststalin</b> shot <b>Cassandra Rollie/firefroge</b> with a <b>the Bullet</b>
+Death | Street | 50.6, 150.8, 0, 0
+Death | The Central Primary Hallway | 0, 0, 68.9, 0 | [18:01:57] <b>Cassandra Rollie/ghoststalin</b> shot <b>Unknown/</b> with a <b>bow</b> ()

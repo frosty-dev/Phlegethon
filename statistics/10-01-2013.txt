@@ -1,0 +1,19 @@
+Explosion |  | -1, 1, -1, 
+Explosion |  | -1, 1, -1, 
+Explosion |  | -1, 1, -1, 
+Death | Engineering Construction Storage | 0, 0, 615, 0
+Death | Engineering Construction Storage | 0, 0, 447, 0
+Death | Engineering Construction Storage | 0, 0, 536, 0 | [16:59:38] <b>Blake Price/catratcat</b> shot <b>the human/</b> with a <b>the lead</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 21, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 46, 0, 0 | [23:20:56] <font color='red'>Attempted to empty Blake Price's () pockets</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 0, 0, 0 | [23:30:06] <font color='orange'>Has had their back item removed by Blake Price (catratcat)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [23:41:20] <font color='orange'>Has had their pockets emptied by Misty Torhold as (Shane Hoover) (panchoys)</font>
+Death | Engineering Construction Storage | 0, 0, 9, 0 | [23:49:13] <font color='red'>Threw Unknown ()</font>
+Death | Medical Research | 0, 6, 0, 0 | [23:52:00]<font color='orange'> Attacked by Unknown (panchoys) with chain (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [23:54:59] <font color='orange'>Has been thrown by Unknown as (Shane Hoover) (panchoys)</font>

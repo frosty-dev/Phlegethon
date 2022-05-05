@@ -1,0 +1,44 @@
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 175, 0
+Death | Sewers | 0, 0, 175, 0
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Quartermasters | 0, 0, 88.7, 0 | [22:12:10] <font color='orange'>Has been punched by Unknown as (Alexis Bynum) (pahomlancer)</font>
+Death | Sewers | 0, 0, 175, 0
+Death | Sewers | 0, 0, 175, 0
+Death | Sewers | 0, 0, 175, 0
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 96.2, 0 | [22:42:22]<font color='orange'> Attacked by Alexandria Wright (alexix1989) with brick (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 97.4, 0 | [22:43:21] <font color='orange'>Has had their neck grabbed by Atarabashi Nihondzin (editorrus)</font>
+Death | Sewers | 0, 65, 29.9001, 0 | [22:42:04]<font color='orange'> Attacked by Rodrigo Beach (beyale) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 36, 36.9, 0 | [22:43:35]<font color='orange'> Attacked by Reynard Ewing (corporaldead) with scalpel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 100.9, 0 | [22:44:10]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 2, 0, 0 | [22:47:36]<font color='orange'> Attacked by Ace Myles (silentium) with hammer (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 1, 0, 0 | [22:49:52]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Cafeteria | 0, 1, 0, 0 | [23:03:49]<font color='orange'> Attacked by Unknown (ghoststalin) with chainsaw (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 12.7, 4, 24.2, 0 | [23:03:51]<font color='red'> Attacked Ace Myles (silentium) with chainsaw (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 157.4, 0 | [23:08:40]<font color='orange'> Attacked by Jaxon Lord (apopheosis) with scout (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 7, 0 | [23:10:25]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with chainsaw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 1, 58, 0 | [23:13:31]<font color='orange'> Attacked by Atarabashi Nihondzin as (Clark Harrow) (editorrus) with chainsaw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 2, 0, 0 | [23:14:40]<font color='orange'> Attacked by Atarabashi Nihondzin as (Clark Harrow) (editorrus) with chainsaw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 2, 0, 0 | [23:20:07]<font color='orange'> Attacked by Atarabashi Nihondzin as (Clark Harrow) (editorrus) with chainsaw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 0, 0 | [23:21:52]<font color='orange'> Attacked by Atarabashi Nihondzin as (Clark Harrow) (editorrus) with chainsaw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [23:22:52]<font color='orange'> Attacked by Atarabashi Nihondzin as (Clark Harrow) (editorrus) with chainsaw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 0, 0 | [23:23:50]<font color='orange'> Attacked by Cory Johnson (apopheosis) with chainsaw (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 34, 136.999, 22.7 | [22:40:30]<font color='orange'> Attacked by Reynard Ewing (corporaldead) with scalpel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Engineering | 0, 1, 0, 0 | [23:30:07]<font color='orange'> Attacked by Unknown (ghoststalin) with chainsaw (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [23:30:52]<font color='orange'> Attacked by Ace Myles (silentium) with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 16, 0 | [23:42:18]<font color='orange'> Attacked by Melvyn Turner (corporaldead) with chainsaw (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [23:42:35]<font color='orange'> Attacked by Sofia Haynes (alexix1989) with chainsaw (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 98, 0 | [23:41:14] <font color='orange'>Has been fed Candle`s Soup by Melvyn Turner (corporaldead) Reagents: [0x21004bef]</font>
+Death | Sewers | 0, 37, 87, 0 | [23:36:52]<font color='orange'> Attacked by Anne Reade (rudik) with nailed bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [23:46:27]<font color='orange'> Attacked by Sofia Haynes (alexix1989) with chainsaw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 129.5, 0 | [23:46:28]<font color='red'> Attacked Unknown (rudik) with chainsaw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 22, 56, 0 | [23:51:04] <font color='orange'>Has been punched by Tucker Hice (apopheosis)</font>
+Death | Street | 46.8, 0, 75.7001, 0 | [23:51:04] <font color='red'>Punched Unknown (dylanthenewgen)</font>

@@ -1,0 +1,154 @@
+Death | The Escape Pod One | 0, 5, 12.6, 0 | [00:01:39]<font color='orange'> Attacked by Unknown as (John Smith) (camer) with chainsaw (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [00:01:49]<font color='orange'> Attacked by Unknown as (John Smith) (camer) with chainsaw (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [00:02:13]<font color='orange'> Attacked by Arlim Westland (arlim) with chainsaw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:02:29]<font color='orange'> Attacked by Arlim Westland (arlim) with chainsaw (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | The Quartermasters | -1, -1, 2, 2
+Explosion | The Quartermasters | -1, 0, 2, 
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 2, 0, 0 | [16:21:34]<font color='orange'> Attacked by Conrad Nominox (diustin) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 100, 0
+Death | Sewers | 0, 39, 37, 0 | [16:20:30] <font color='orange'>Has had their pockets emptied by Conrad Nominox (diustin)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 0, 0 | [16:29:32]<font color='orange'> Attacked by Conrad Nominox (diustin) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 2, 11, 0 | [16:31:00]<font color='orange'> Attacked by Jim Hardy (hellbyte) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 53, 19.2, 0 | [16:34:17] <font color='orange'>Has had their gloves removed by John Bolon (epicjoe)</font>
+Death | The Cafeteria | 32.1, 0, 0, 0 | [16:35:28]<font color='orange'> Attacked by Leo Herz (odst97) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 38, 3, 100.6, 0 | [16:26:51]<font color='orange'> Attacked by Conrad Nominox (diustin) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Engineering | 0, 0, 0, 0 | [16:51:46]<font color='orange'> Attacked by Jack (rizus) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Dormitories | 0, 0, 0, 0 | [16:57:34]<font color='orange'> Attacked by Jack (rizus) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 2, 0, 0 | [16:57:43]<font color='orange'> Attacked by Jack (rizus) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 4, 0, 0 | [17:01:09]<font color='orange'> Attacked by Jack (rizus) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 1, 0, 0 | [17:08:01]<font color='orange'> Attacked by Unknown (rizus) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 0, 0 | [17:11:40]<font color='orange'> Attacked by Unknown (rizus) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 7, 0, 0 | [17:12:32]<font color='orange'> Attacked by Jack Trade (24twelve) with chain (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [17:15:33] <b>Ace Myles/silentium</b> shot <b>Buck Alice/ewgenie</b> with a <b>the Bullet</b>
+Explosion | The Cafeteria | -1, 0, 2, 
+Explosion | The Cafeteria | -1, 0, 2, 
+Explosion | The Cafeteria | -1, 0, 2, 
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Quartermasters | 0, 0, 0, 0 | [17:27:07] <b>Dalton Schmidt/jarlo</b> shot <b>Ace Myles/silentium</b> point blank with a <b>the Handy MK2</b>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 0, 0 | [17:30:14]<font color='orange'> Attacked by Unknown (rizus) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Kitchen | -1, 0, 2, 
+Explosion | The Kitchen | -1, 0, 2, 
+Death | Sewers | 0, 0, 175, 0
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 41, 0, 0 | [17:35:59] <b>Conrad Nominox/diustin</b> shot <b>Unknown/silentium</b> with a <b>the lead</b>
+Death | Street | 0, 1, 0, 0 | [17:25:26] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Street | 0, 4, 0, 0 | [17:39:12]<font color='orange'> Attacked by Unknown (rizus) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 5, 0, 0 | [17:40:10]<font color='orange'> Attacked by Dalton Hans (jarlo) with police baton (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 16, 0, 0 | [17:40:37] <b>Conrad Nominox/diustin</b> shot <b>Kolton Clewett/sdkmed</b> with a <b>the Bullet</b>
+Death | Medical Research | 15.8, 1, 8.6, 0 | [17:42:10]<font color='orange'> Attacked by Unknown (24twelve) with Broken Bottle (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 89, 6.00006, 0 | [17:40:58]<font color='orange'> Attacked by Dalton Hans (jarlo) with police baton (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 62.8002, 0 | [17:44:37] <b>Conrad Nominox/diustin</b> shot <b>Leo Herz/odst97</b> with a <b>the lead</b>
+Death | Sewers | 0, 0, 47.5001, 0 | [17:52:10] <font color='orange'>Has had their left ear item removed by John Peters (ewgenie)</font>
+Death | Street | 0, 0, 0, 0 | [17:52:51] <b>John Peters/ewgenie</b> shot <b>Mario Garrison/midas123</b> with a <b>the lead</b>
+Death | Medical Research | 123.2, 0, 0, 0 | [17:55:08] <b>Raymond Oppenheimer/vovanhur</b> shot <b>Unknown/kypa</b> point blank with a <b>Hamlet SMG</b>
+Death | Medical Research | 0, 0, 0, 0 | [17:55:04] <b>Raymond Oppenheimer/vovanhur</b> shot <b>Unknown/24twelve</b> point blank with a <b>Hamlet SMG</b>
+Death | The Central Primary Hallway | 0, 0, 10, 0 | [17:56:56] <b>John Peters/ewgenie</b> shot <b>Victor Drawn as (Dalton Hans)/miton99</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 41, 29.5, 0 | [17:57:33] <font color='orange'>Has had their belt item removed by Unknown (diustin)</font>
+Death | The Central Primary Hallway | 0, 1, 0, 0 | [17:59:41] <b>Raymond Oppenheimer/vovanhur</b> shot <b>John Peters/ewgenie</b> point blank with a <b>the Smith-W</b>
+Death | The Central Primary Hallway | 4.5, 0, 16, 0 | [18:00:41] <b>Unknown/diustin</b> shot <b>Rattle Snake/camer</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 14, 0, 0 | [18:00:22] <b>Hovenbeth Hels as (Leo Herz)/hovenbeth</b> shot <b>Raymond Oppenheimer/vovanhur</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 0, 0, 0 | [18:01:55] <b>Raymond Oppenheimer/vovanhur</b> shot <b>Unknown/smet19</b> point blank with a <b>Hamlet SMG</b>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Space | 0, 0, 0, 0 | [18:02:44] <b>Jack/rizus</b> shot <b>Raymond Oppenheimer/vovanhur</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 33, 0, 0 | [18:02:44] <b>Jack/rizus</b> shot <b>Raymond Oppenheimer/vovanhur</b> with a <b>the Bullet</b>
+Death | The Centcom | 102.7, 0, 0, 0 | [18:04:08] <font color='red'>Used the Confess Implanter (Confess) to implant Unknown (diustin)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 5, 0, 0 | [18:09:13]<font color='orange'> Attacked by Jack (rizus) with chain (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Cafeteria | 0, 3, 0, 0 | [18:10:05]<font color='orange'> Attacked by Zane Metzer (midas123) with chain (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 1, 0, 0 | [18:13:50]<font color='orange'> Attacked by Conrad Nominox (diustin) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 3, 0, 0 | [18:14:09]<font color='orange'> Attacked by Jack (rizus) with chain (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 8, 0, 0 | [18:16:07]<font color='orange'> Attacked by Caleb Keppel (pavel2010) with plasteel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 2, 0, 0 | [18:19:28] <b>Jules Winnfield/silentium</b> shot <b>Unknown as (Bruce Clewett)/jarlo</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 0, 73.2, 0 | [18:16:07]<font color='red'> Attacked Zane Metzer (midas123) with plasteel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 6, 0, 0 | [18:20:45]<font color='orange'> Attacked by Conrad Nominox (diustin) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 191, 58.6, 0 | [18:08:19] <font color='red'>Used the Nanoaugmentation Implaner (Short-range Psionic Radar) (Short-range Psionic Radar) to implant Bridget (kypa)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [18:20:53] <font color='red'>Attempted to remove Unknown's () hat</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [18:22:48] <font color='red'>Attempted to remove Unknown's () uniform</font>
+Death | Sewers | 27.1, 33, 0, 0 | [18:22:04] <font color='red'>Attempted to remove Unknown's () belt item</font>
+Death | Sewers | 0, 1, 0, 0 | [18:28:42]<font color='orange'> Attacked by Donald Bousum (vovanhur) with scalpel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 0, 0, 0 | [18:29:09] <b>Buck Alice/ewgenie</b> shot <b>Buck Alice/ewgenie</b> point blank with a <b>Sleuth DS</b>
+Death | The Centcom | 0, 0, 0, 0 | [18:29:08]<font color='orange'> Attacked by Adam Johnson (smet19) with Smith-W (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 4, 0, 0 | [18:29:22]<font color='orange'> Attacked by Donald Bousum (vovanhur) with scalpel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 4, 0, 0 | [18:34:37]<font color='orange'> Attacked by Conrad Nominox (diustin) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 35, 0, 0 | [18:34:16]<font color='orange'> Attacked by Conrad Nominox (diustin) with stone (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 103, 0, 0 | [18:39:09] <font color='orange'>Has had their back item removed by John Bolon (epicjoe)</font>
+Death | Street | 0, 5, 0, 0 | [18:40:43]<font color='orange'> Attacked by Conrad Nominox (diustin) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 1, 0, 0 | [18:42:00]<font color='orange'> Attacked by Rocco Tireman (jarlo) with bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 1, 0, 0 | [18:44:55]<font color='orange'> Attacked by Unknown (airenjon) with balisong knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 4, 0, 0 | [18:44:58]<font color='orange'> Attacked by Unknown (airenjon) with balisong knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 21.6, 60, 0, 0 | [18:44:46] <font color='orange'>Has had their right ear item removed by John Bolon (epicjoe)</font>
+Death | Sewers | 0, 1, 0, 0 | [18:54:47]<font color='orange'> Attacked by Adrian Carmack (qwertyo55) with Sleuth DS (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 70, 0, 0 | [18:55:27]<font color='orange'> Attacked by Brennan Pennington (vovanhur) with brass knuckle (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [18:58:49]<font color='orange'> Attacked by Conrad Nominox (diustin) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 44.8, 41, 0, 0 | [18:55:52]<font color='orange'> Attacked by Brennan Pennington (vovanhur) with scalpel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 13, 81.5, 0 | [19:04:05] <font color='red'>Attempted to remove Fat Cocksucker Pidor Rapist's (camer) suit</font>
+Death | The Dormitories | 0, 4, 8, 0 | [19:12:01]<font color='orange'> Attacked by Cassian Barrett (jarlo) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 7, 0, 0 | [19:11:48] <b>Conrad Nominox/diustin</b> shot <b>Flip Catherina/vovanhur</b> with a <b>the lead</b>
+Death | Sewers | 0, 7, 0, 0 | [19:15:37]<font color='orange'> Attacked by Conrad Nominox (diustin) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 175, 0 | [19:15:22]<font color='orange'> Attacked by Cassian Barrett as (Fat Cocksucker Pidor Rapist) (jarlo) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 2, 0, 0 | [19:21:31]<font color='orange'> Attacked by Adrian Carmack (qwertyo55) with Handy MK2 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 22.3, 2, 0, 0 | [19:22:54] <b>Adrian Carmack/qwertyo55</b> shot <b>Godwin Bell/rizus</b> point blank with a <b>the Handy MK2</b>
+Death | Street | 0, 5, 0, 0 | [19:28:51]<font color='orange'> Attacked by Fucking Silent Griefer  (camer) with crowbar (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 11, 50.4001, 0 | [19:29:05]<font color='orange'> Attacked by Unknown (ewgenie) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 3, 0, 0 | [19:33:00]<font color='orange'> Attacked by Fucking Silent Griefer  (camer) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, 0, 2, 
+Explosion | Sewers | -1, 0, 2, 
+Death | The Quartermasters | 0, 40, 0, 0
+Death | Sewers | 0, 2, 0, 0 | [19:39:34]<font color='orange'> Attacked by Robert Burns (nearbird) with hammer (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 138.1, 0, 110.1, 0 | [19:39:00] <font color='orange'>Has been fed Cup Ramen by Unknown (ewgenie) Reagents: [0x21003c86]</font>
+Death | The Kitchen | 0, 0, 0, 0 | [19:44:09] <b>Adrian Carmack/qwertyo55</b> shot <b>Unknown/ewgenie</b> point blank with a <b>Canis .45-70</b>
+Death | The Quartermasters | 0, 13, 19.2, 0 | [19:44:05] <b>Adrian Carmack/qwertyo55</b> shot <b>Adam Johnson as (Godwin Bell)/smet19</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 102.8, 35, 0, 0 | [19:44:16]<font color='orange'> Attacked by Damien Allen (vovanhur) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 5, 0, 0 | [19:45:29]<font color='orange'> Attacked by Damien Allen (vovanhur) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 4, 0, 0 | [19:46:48]<font color='orange'> Attacked by Robert Burns (nearbird) with hammer (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 20, 0, 0 | [19:48:38] <b>Chip Lester/hovenbeth</b> shot <b>Unknown/diustin</b> with a <b>the Bullet</b>
+Death | Street | 0, 2, 0, 0 | [19:56:56]<font color='orange'> Attacked by Jack (rizus) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [20:02:07]<font color='orange'> Attacked by Jack (rizus) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 0, 0 | [20:11:54] <b>Narg Tornhold/catratcat</b> shot <b>Adrian Carmack/qwertyo55</b> point blank with a <b>the Handy MK2</b>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 0, 0 | [20:14:58]<font color='orange'> Attacked by Jack (rizus) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 4, 0, 0 | [20:18:06] <b>Narg Tornhold as (Adrian Carmack)/catratcat</b> shot <b>Adam Johnson/smet19</b> with a <b>the Bullet</b>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 4, 7, 0 | [20:21:21]<font color='orange'> Attacked by Jack (rizus) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 0, 0, 0 | [20:23:24] <b>Rick Gator/camer</b> shot <b>Adam Johnson/ewgenie</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 0, 0, 0 | [20:24:59]<font color='orange'> Attacked by Jack (rizus) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Street | -1, 0, 2, 
+Death | Sewers | 0, 11, 0, 0 | [20:28:55]<font color='orange'> Attacked by Jack (rizus) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 21, 18, 0 | [20:29:06] <font color='red'>Attempted to remove Unknown as (Adrian Carmack)'s (catratcat) back item</font>
+Death | Sewers | 0, 35, 18.8, 0 | [20:28:20]<font color='orange'> Attacked by Jameson Summy (vovanhur) with nailed bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 97.8, 0 | [20:33:47]<font color='red'> Attacked Lorenzo Shere (diustin) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 100.8, 13, 30, 0 | [20:26:46] <font color='red'>Attempted to remove Jameson Summy's (vovanhur) left ear item</font>
+Explosion | The Quartermasters | -1, 0, 2, 
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 9, 34, 0 | [20:35:35] <b>Rick Gator as (Adam Johnson)/camer</b> shot <b>Lorenzo Shere/diustin</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 12, 28, 0 | [20:33:26] <font color='orange'>Has been fed Kelotane pill by Rick Gator as (Adam Johnson) (camer) Reagents: [0x21002cf7]</font>
+Death | Sewers | 40, 38, 24, 0 | [20:33:10] <font color='red'>Attempted to remove Robert Burns's () belt item</font>
+Death | The Escape Pod One | 0, 15, 22, 0
+Death | The Centcom | 206, 20, 0, 0 | [20:42:19] <b>Rick Gator as (Adam Johnson)/camer</b> shot <b>the baby metroid (637)/diustin</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 242, 20, 0, 0 | [20:42:41] <b>Rick Gator as (Adam Johnson)/camer</b> shot <b>the baby metroid (599)/</b> with a <b>the Bullet</b>

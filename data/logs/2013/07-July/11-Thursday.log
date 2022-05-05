@@ -1,0 +1,82 @@
+
+
+Starting up. 23:32.01
+---------------------
+
+[23:32:01]ADMIN: Loading jobban_rank
+[23:32:01]ADMIN: jobban_keylist was empty
+[23:32:01]ADMIN: Updating jobbanfile!
+[23:32:01]ADMIN: Loading Banlist
+Reading donators.txt
+[23:32:17]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[23:32:18]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[23:32:25]ADMIN: Catratcat has started the game.
+[23:32:25]ACCESS: Logout: *no client*/(Catratcat)
+[23:32:25]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[23:32:35]ADMIN: Catratcat/(Morgan Bickerson) jumped to 38,40,2 in Street
+[23:33:06]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[23:33:07]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[23:33:16]ADMIN: Catratcat/(Morgan Bickerson) jumped to 30,48,2 in the Kitchen
+[23:33:29]ADMIN: Catratcat/(Morgan Bickerson) jumped to 34,41,2 in Street
+[23:33:33]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked the human () with the kitchen knife.
+[23:33:37]ACCESS: Logout: *no client*/(Morgan Bickerson)
+[23:33:37]ACCESS: Login: catratcat/(human) from 127.0.0.1-3781439013 || BYOND v498
+[23:33:37]ADMIN: *no client*/(Morgan Bickerson) assumed direct control of the human.
+[23:33:50]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:33:54]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:33:55]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:33:58]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:34:00]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:34:01]ACCESS: Logout: *no client*/(human)
+[23:34:01]ACCESS: Login: catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[23:34:02]ADMIN: *no client*/(human) assumed direct control of Morgan Bickerson.
+[23:34:05]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked the human () with the kitchen knife.
+[23:34:06]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked the human () with the kitchen knife.
+[23:34:13]ADMIN: catratcat/(Morgan Bickerson) healed / revived *no client*/(human)
+[23:34:14]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked the human () with the kitchen knife.
+[23:34:15]EMOTE: human/ : <B>The human</B> snores.
+[23:34:15]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked the human () with the kitchen knife.
+[23:34:17]EMOTE: human/ : <B>The human</B> snores.
+[23:34:17]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked the human () with the kitchen knife.
+[23:34:18]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked the human () with the kitchen knife.
+[23:34:19]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked the human () with the kitchen knife.
+[23:34:20]EMOTE: human/ : <B>The human</B> screams!
+[23:34:21]EMOTE: human/ : <B>The human</B> screams!
+[23:34:22]ADMIN: catratcat/(Morgan Bickerson) healed / revived *no client*/(human)
+[23:34:25]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked Unknown () with the kitchen knife.
+[23:34:48]EMOTE: human/ : <B>The human</B> snores.
+[23:34:50]ACCESS: Logout: catratcat/(Morgan Bickerson)
+
+
+Starting up. 23:41.00
+---------------------
+
+[23:41:00]ADMIN: Loading jobban_rank
+[23:41:00]ADMIN: jobban_keylist was empty
+[23:41:00]ADMIN: Updating jobbanfile!
+[23:41:00]ADMIN: Loading Banlist
+Reading donators.txt
+[23:41:10]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[23:41:11]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[23:41:17]ADMIN: Catratcat has started the game.
+[23:41:17]ACCESS: Logout: *no client*/(Catratcat)
+[23:41:17]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[23:41:31]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked Morgan Bickerson (catratcat) with the kitchen knife.
+[23:41:35]ADMIN: Catratcat/(Morgan Bickerson) healed / revived Catratcat/(Morgan Bickerson)
+[23:41:37]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked Morgan Bickerson (catratcat) with the kitchen knife.
+[23:41:38]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked Morgan Bickerson (catratcat) with the kitchen knife.
+[23:41:39]EMOTE: Morgan Bickerson/Catratcat : <B>Morgan Bickerson</B> screams!
+[23:41:40]EMOTE: Morgan Bickerson/Catratcat : <B>Morgan Bickerson</B> screams!
+[23:41:43]ADMIN: Catratcat/(Morgan Bickerson) healed / revived Catratcat/(Morgan Bickerson)
+[23:41:48]ADMIN: ATTACK: Unknown as (Morgan Bickerson) (catratcat) attacked Unknown as (Morgan Bickerson) (catratcat) with the kitchen knife.
+[23:41:53]ADMIN: Catratcat/(Morgan Bickerson) healed / revived Catratcat/(Morgan Bickerson)
+[23:41:57]ADMIN: ATTACK: Unknown as (Morgan Bickerson) (catratcat) attacked Unknown as (Morgan Bickerson) (catratcat) with the kitchen knife.
+[23:41:58]ADMIN: ATTACK: Unknown as (Morgan Bickerson) (catratcat) attacked Unknown as (Morgan Bickerson) (catratcat) with the kitchen knife.
+[23:42:07]ADMIN: Catratcat/(Morgan Bickerson) healed / revived Catratcat/(Morgan Bickerson)
+[23:42:11]ADMIN: ATTACK: Unknown as (Morgan Bickerson) (catratcat) attacked Unknown as (Morgan Bickerson) (catratcat) with the kitchen knife.
+[23:42:13]ADMIN: ATTACK: Unknown as (Morgan Bickerson) (catratcat) attacked Unknown as (Morgan Bickerson) (catratcat) with the kitchen knife.
+[23:43:20]ADMIN: Catratcat/(Morgan Bickerson) healed / revived Catratcat/(Morgan Bickerson)
+[23:43:21]ADMIN: ATTACK: Unknown as (Morgan Bickerson) (catratcat) attacked Unknown as (Morgan Bickerson) (catratcat) with the screwdriver.
+[23:43:22]ADMIN: ATTACK: Unknown as (Morgan Bickerson) (catratcat) attacked Unknown as (Morgan Bickerson) (catratcat) with the screwdriver.
+[23:43:29]ADMIN: ATTACK: Unknown as (Morgan Bickerson) (catratcat) attacked Unknown as (Morgan Bickerson) (catratcat) with the screwdriver.
+[23:43:35]ACCESS: Logout: Catratcat/(Morgan Bickerson)

@@ -1,0 +1,6 @@
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 0, 0
+Death | Street | 0, 33, 0, 0
+Death | Street | 0, 33, 0, 0
+Explosion | Street | -1, 0, 2, 
+Death | Street | 0, 41, 65, 0 | [23:25:08]<font color='red'> Attacked Preston Poehl (mrechoru) with large pipe (INTENT: HELP) (DAMTYE: BRUTE)</font>

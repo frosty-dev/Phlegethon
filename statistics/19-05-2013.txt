@@ -1,0 +1,151 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 22, 15.1, 0
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [18:38:09] <b>Nikoma Koska/randysandy</b> shot <b>Alessa Towers/nigilith</b> with a <b>the Bullet</b>
+Death | Street | 0, 31, 0, 0 | [18:38:20]<font color='orange'> Attacked by Bill Karlos (tima33) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 11, 0, 0 | [18:38:41]<font color='orange'> Attacked by Nikoma Koska (randysandy) with Sleuth DS (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 1, 0, 0 | [18:38:58]<font color='orange'> Attacked by Nikoma Koska (randysandy) with Trencher MK2 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 18, 0, 0 | [18:46:33] <font color='orange'>Has had their pockets emptied by Bruno Mantana (rigget)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [18:47:22]<font color='orange'> Attacked by Bill Karlos (tima33) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [18:51:04] <b>Nikoma Koska/randysandy</b> shot <b>Jack Taylor/olidood</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 61, 0, 0 | [18:50:16] <b>Nikoma Koska/randysandy</b> shot <b>Bill Karlos/tima33</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 50, 0, 0
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [18:53:46] <b>Nikoma Koska/randysandy</b> shot <b>Unknown/rigget</b> with a <b>the Bullet</b>
+Death | Street | 0, 191, 15, 0 | [18:53:10] <font color='red'>Attempted to remove Unknown's () suit</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Street | 0, 2, 0, 0 | [18:56:11]<font color='orange'> Attacked by Conrad Nominox (diustin) with nailed bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [18:59:10] <b>Nikoma Koska/randysandy</b> shot <b>Conrad Nominox/diustin</b> with a <b>the Bullet</b>
+Death | The Cafeteria | 0, 0, 0, 0 | [19:00:41] <b>Nikoma Koska/randysandy</b> shot <b>Unknown/linnlarove</b> with a <b>the Fire Bullet</b>
+Death | The Cafeteria | 0, 28, 23.8, 0 | [19:00:28] <b>Nikoma Koska/randysandy</b> shot <b>Unknown/lemero</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [19:01:26]<font color='orange'> Attacked by Nikoma Koska (randysandy) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | Street | 0, 7, 0, 0 | [19:02:42]<font color='orange'> Attacked by Nikoma Koska (randysandy) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 33, 0, 0 | [19:02:51] <b>Nipus Pigra/marcusaga</b> shot <b>Atarabashi Nihondzin as (Daryl Dixon)/editorrus</b> with a <b>the Bullet</b>
+Explosion | The Quartermasters | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 2, 0, 0 | [19:12:54]<font color='orange'> Attacked by Bill Karlos (tima33) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 5, 0, 0 | [19:16:37]<font color='orange'> Attacked by Conrad Nominox (diustin) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Street | 0, 5, 0, 0 | [19:19:34]<font color='orange'> Attacked by Unknown (diustin) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 2, 0, 0 | [19:21:25]<font color='orange'> Attacked by Bill Karlos (tima33) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 115.4, 1, 0, 0 | [19:25:18] <b>Merle Dixon/lemero</b> shot <b>Unknown/diustin</b> with a <b>the Bullet</b>
+Death | Street | 0, 20, 0, 0 | [19:25:27] <b>Merle Dixon/lemero</b> shot <b>Unknown/rigget</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 1, 24.8, 0 | [19:25:41]<font color='orange'> Attacked by Unknown (tima33) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 6, 0, 0 | [19:31:52] <font color='orange'>Has been strangled (kill intent) by Nipus Pigra (camer)</font>
+Death | The Central Primary Hallway | 0, 0, 5, 0 | [19:31:52] <font color='red'>Strangled (kill intent) Unknown (tima33)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [19:35:31] <b>Merle Dixon/lemero</b> shot <b>Atarabashi Nihondzin/editorrus</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | Engineering | 0, 0, 175, 0 | [19:40:57] <font color='orange'>Has had their back item removed by Cassandra Rollie (dnivji)</font>
+Death | The Escape Pod One | 0, 1, 59.2002, 0 | [19:49:00] <b>Merle Dixon/lemero</b> shot <b>Kale Clarke/wayrover</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 18, 0, 0 | [19:48:53] <b>Kale Clarke/wayrover</b> shot <b>Cassandra Rollie/dnivji</b> with a <b>the Fire Bullet</b>
+Death | The Escape Pod One | 0, 0, 0, 0 | [19:55:18] <b>Merle Dixon/lemero</b> shot <b>Conrad Nominox/diustin</b> with a <b>the Bullet</b>
+Death | Street | 0, 0, 0, 0 | [19:56:53]<font color='orange'> Attacked by Bruno Mantana (rigget) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [20:05:53] <b>Bill Karlos/tima33</b> shot <b>Lex Murray/lemero</b> with a <b>the Bullet</b>
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 0, 0, 0 | [20:08:07]<font color='orange'> Attacked by Nipus Pigra (camer) with Trencher MK2 (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [20:08:10]<font color='orange'> Attacked by Cassandra Rollie (dnivji) with hatchet (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 22, 0, 0 | [20:09:45]<font color='orange'> Attacked by Unknown as (Cassandra Rollie) (dnivji) with hatchet (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 1, 0, 0 | [20:10:02] <b>Nipus Pigra/camer</b> shot <b>Unknown as (Cassandra Rollie)/dnivji</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 128.5, 0
+Explosion | The Escape Pod One | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 43, 23.2, 0
+Death | The Escape Pod One | 0, 13, 0, 0 | [20:18:33] <b>Nipus Pigra as (Cassandra Rollie)/camer</b> shot <b>Unknown as (Johnny Logue)/gadmans</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 2, 0, 0 | [20:20:30]<font color='orange'> Attacked by Jack Taylor (olidood) with nailed bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 106.1, 27, 14.8, 0 | [20:20:35]<font color='orange'> Attacked by Jack Taylor (olidood) with nailed bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Death | The Escape Pod One | 39.1, 117, 0, 0 | [20:23:25] <b>Nipus Pigra as (Cassandra Rollie)/camer</b> shot <b>Conrad Nominox/diustin</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 84, 0, 0 | [20:26:37] <b>Nipus Pigra as (Cassandra Rollie)/camer</b> shot <b>Unknown/olidood</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 7, 0, 0 | [20:31:25] <b>Cassandra Rollie/linnlarove</b> shot <b>Atarabashi Nihondzin/editorrus</b> with a <b>the lead</b>
+Death | The Escape Pod One | 0, 0, 0, 0 | [20:35:39] <b>Hiron Odel/nigilith</b> shot <b>Bill Karlos/tima33</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [20:36:10] <b>Hiron Odel/nigilith</b> shot <b>Nipus Pigra/camer</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 50.6, 2, 0, 0 | [20:44:42]<font color='orange'> Attacked by Kei Yuno Nihondzin (editorrus2) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Street | -1, 0, 2, 
+Death | Street | 0, 194, 18, 0
+Death | Engineering Construction Storage | 0, 0, 0, 0
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 11, 0, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Dormitories | 0, 0, 13, 0 | [20:52:06] <b>Kei Yuno Nihondzin as (Hiron Odel)/editorrus2</b> shot <b>Cassandra Rollie/linnlarove</b> with a <b>the Bullet</b>
+Death | The Kitchen | 0, 0, 42.0001, 0 | [20:56:44] <b>Bruno Mantana/rigget</b> shot <b>Lex Murray/lemero</b> with a <b>the Bullet</b>
+Death | The Kitchen | 0, 9, 164, 0 | [20:57:01] <font color='red'>Attempted to remove Unknown's (lemero) suit</font>
+Explosion | Street | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [21:02:13] <b>Unknown/tima33</b> shot <b>Daniel Daytona/scituzer2</b> with a <b>the Bullet</b>
+Death | The Kitchen | 0, 5, 165, 0 | [21:02:46] <font color='red'>Attempted to remove Nipus Pigra's () suit</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [21:04:13] <b>Bruno Mantana/rigget</b> shot <b>Leo Herz/odst97</b> with a <b>the explosive bolt</b>
+Explosion | The Escape Pod One | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 198.5, 10, 0
+Death | The Escape Pod One | 0, 0, 87, 0 | [21:07:06] <b>Bruno Mantana/rigget</b> shot <b>Unknown/tima33</b> with a <b>the explosive bolt</b>
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | The Escape Pod One | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 95, 0, 0 | [21:10:28] <b>Bruno Mantana/rigget</b> shot <b>Daryl Dixon/dnivji</b> with a <b>the explosive bolt</b>
+Death | The Escape Pod One | 36.2, 0, 44, 0 | [21:14:53] <b>Bruno Mantana/rigget</b> shot <b>Unknown/airenjon</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Dormitories | 0, 5, 0, 0 | [21:23:25]<font color='orange'> Attacked by Unknown (tima33) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 4, 0, 0 | [21:25:45]<font color='orange'> Attacked by John Bolon (epicjoe) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 0, 0, 0 | [21:28:38]<font color='orange'> Attacked by John Bolon (epicjoe) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 38, 0, 0
+Death | The Dormitories | 0, 1, 0, 0 | [21:32:07]<font color='orange'> Attacked by Unknown (tima33) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion |  | -1, 0, 2, 
+Explosion |  | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Street | 0, 12, 0, 0 | [21:43:11]<font color='orange'> Attacked by Unknown (airenjon) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 5, 0, 0 | [21:43:24]<font color='orange'> Attacked by Unknown (airenjon) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Street | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Death | Engineering Construction Storage | 16.15, 53, 20.8, 0 | [21:44:18]<font color='orange'> Attacked by Unknown (airenjon) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 38, 33.8001, 0
+Death | Engineering Construction Storage | 3.59998, 5, 0, 0 | [21:45:58]<font color='orange'> Attacked by Unknown (airenjon) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 4, 0, 0 | [21:47:13]<font color='orange'> Attacked by Stephen King (randysandy) with hammer (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 71.5, 39, 0, 0 | [21:47:01]<font color='orange'> Attacked by Douglas Pierce (spielmann34) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 0, 27.8, 0
+Death | Engineering Construction Storage | 0, 1, 0, 0 | [21:49:19]<font color='orange'> Attacked by Zane Burkett (editorrus4) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 98, 5, 0
+Death | The Escape Pod One | 77.2, 37, 30.1, 0 | [22:00:23] <font color='orange'>Has been disarmed by Stephen King (randysandy)</font>
+Death | Engineering Construction Storage | 0, 4, 24, 0 | [22:01:20]<font color='orange'> Attacked by Rick Rainer (dragoner408) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 41, 8, 0 | [21:49:00] <font color='red'>Attempted to remove Jimmy Rider's (nearbird) left ear item</font>
+Death | The Central Primary Hallway | 0, 8, 0, 0 | [22:03:48] <b>Rendi Soset HUI/camer</b> shot <b>Stephen King/randysandy</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 34, 0, 0 | [22:02:32] <font color='red'>Attempted to remove Unknown's () back item</font>
+Death | The Quartermasters | 0, 7, 27, 0 | [22:02:56]<font color='red'> Attacked Unknown (editorrus3) with hatchet (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 69, 0, 0 | [22:10:13] <b>Rendi Soset HUI/camer</b> shot <b>Unknown/airenjon</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 4, 0, 0 | [22:16:24]<font color='orange'> Attacked by Alice Curtis (spielmann34) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 5, 25, 0 | [22:21:38]<font color='orange'> Attacked by Alice Curtis (spielmann34) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 111, 0, 0 | [22:39:03] <font color='orange'>Has had their pockets emptied by Mary Wild (anarlianna)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:40:22] <b>Mary Wild/anarlianna</b> shot <b>Rick Rainer/dragoner408</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 1, 0, 0 | [22:40:39]<font color='orange'> Attacked by Mary Wild (anarlianna) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [22:50:10] <b>Jeb Coates/gvardota</b> shot <b>Unknown/airenjon</b> with a <b>the lead</b>
+Death | The Central Primary Hallway | 32, 0, 3.8, 0 | [22:50:28] <b>Jeb Coates/gvardota</b> shot <b>Unknown as (Leo Herz)/editorrus</b> with a <b>the Bullet</b>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 2, 0, 0 | [22:53:54] <b>Kei Yuno Nihondzin/editorrus2</b> shot <b>Jeb Coates/gvardota</b> point blank with a <b>Nipper MK1</b>
+Death | Street | 0, 7, 100, 0 | [22:56:11]<font color='orange'> Attacked by Kei Yuno Nihondzin (editorrus2) with Trencher MK2 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [23:04:01] <b>Kei Yuno Nihondzin/editorrus2</b> shot <b>Unknown/airenjon</b> with a <b>the Bullet</b>
+Death | Street | 0, 0, 0, 0 | [23:04:57] <b>Kei Yuno Nihondzin/editorrus2</b> shot <b>Rick Rainer/dragoner408</b> with a <b>the lead</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [23:09:25] <b>Kei Yuno Nihondzin/editorrus2</b> shot <b>Unknown as (John Thomas)/linnlarove</b> with a <b>the lead</b>
+Death | The Escape Pod One | 0, 0, 0, 0 | [23:15:09]<font color='orange'> Attacked by Kei Yuno Nihondzin (editorrus2) with Trencher MK2 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 1, 0, 0 | [23:17:20] <b>Amano Yukiteru/airenjon</b> shot <b>Axel Beedell/anarlianna96</b> with a <b>the Bullet</b>

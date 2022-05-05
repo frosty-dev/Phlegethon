@@ -1,0 +1,23 @@
+
+
+Starting up. 17:24.48
+---------------------
+
+[17:24:48]ADMIN: Loading jobban_rank
+[17:24:48]ADMIN: jobban_keylist was empty
+[17:24:48]ADMIN: Updating jobbanfile!
+[17:24:48]ADMIN: Loading Banlist
+Reading donators.txt
+[17:24:53]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-2406761028 || BYOND v498
+[17:24:53]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[17:25:06]ADMIN: Catratcat has started the game.
+[17:25:06]ACCESS: Logout: *no client*/(Catratcat)
+[17:25:06]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-2406761028 || BYOND v498
+[17:25:49]GAME: Catratcat/(Morgan Bickerson) has changed the security level to blue.
+[17:26:02]ADMIN: Catratcat/(Morgan Bickerson) admin-called the emergency shuttle.
+[17:27:29]ADMIN: Catratcat/(Morgan Bickerson) used secret check_antagonist
+[17:28:03]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[17:28:37]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked the human () with Nipper MK1.
+[17:41:05]ADMIN: Catratcat/(Morgan Bickerson) admin-recalled the emergency shuttle.
+[17:41:14]ADMIN: Catratcat/(Morgan Bickerson) admin-called the emergency shuttle.
+[17:41:19]ACCESS: Logout: Catratcat/(Morgan Bickerson)

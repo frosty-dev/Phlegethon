@@ -1,0 +1,57 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 191.2, 27, 0 | [21:14:26] <b>Samuel/panchoys</b> shot <b>Baldric Gentelman Gibson/eggman1945</b> with a <b>bow</b> (chloralhydrate (1),stoxin (2),plasma (2),)
+Death | Engineering Construction Storage | 0, 88, 76, 0 | [21:16:16] <font color='orange'>Has been thrown by Samuel (panchoys)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 136.604, 14, 0 | [21:17:10] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Engineering Construction Storage | 0, 133, 35, 0 | [21:23:31] <font color='orange'>Has been thrown by Samuel (panchoys)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 172, 20, 0 | [21:37:26] <b>Samuel/panchoys</b> shot <b>Tristen Parkinson/2feycot</b> with a <b>bow</b> (lexorin (3),acid (2),)
+Death | Engineering | 0, 183.1, 73, 0 | [21:47:12] <font color='orange'>Has had their pockets emptied by Samuel (panchoys)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 2, 52, 0 | [21:53:21]<font color='orange'> Attacked by Oliver Queen (woody112) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering | 0, 92, 0, 0 | [21:58:19] <font color='orange'>Has had their back item removed by Unknown (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 148.2, 0, 0 | [21:58:22] <font color='red'>Attempted to remove Tristen Parkinson's () right ear item</font>
+Death | Engineering Construction Storage | 0, 49, 0, 0 | [21:53:22]<font color='red'> Attacked Unknown (jolt96) with knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 192.555, 54, 0
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [22:18:35]<font color='orange'> Attacked by Unknown as (Irvine Picard) (eggman1945) with scout (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 40, 0, 0 | [21:59:44] <font color='red'>Attempted to remove Kenneth Richter's (volak) hat</font>
+Death | The Quartermasters | 0, 138, 14, 0 | [22:22:16]<font color='orange'> Attacked by Unknown as (Rick Rainer) (dragoner408) with scalpel (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 7, 0, 0 | [22:25:11]<font color='orange'> Attacked by Unknown as (Randy Powers) (eggman1945) with scout (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 61, 84, 9 | [22:27:08] <b>Unknown/panchoys</b> shot <b>Unknown as (Rick Rainer)/dragoner408</b> with a <b>bow</b> (mutagen (3),radium (2),)
+Death | The Central Primary Hallway | 0, 14, 58, 0 | [22:28:34]<font color='orange'> Attacked by Arnie Baker (jolt96) with large pipe (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 14, 0, 0 | [22:39:00] <font color='orange'>Has been thrown by John DeFoe (jolt96)</font>
+Death | The Library | 0, 4, 0, 0 | [22:39:49]<font color='orange'> Attacked by John DeFoe (jolt96) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 51, 0
+Death | The Library | 0, 0, 0, 0 | [22:39:56]<font color='orange'> Attacked by John DeFoe (jolt96) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Library | 0, 7, 0, 0 | [22:42:35]<font color='orange'> Attacked by John DeFoe (jolt96) with balisong knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Library | 0, 2, 0, 0 | [22:44:02]<font color='orange'> Attacked by John DeFoe (jolt96) with hatchet (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 5, 0, 0 | [22:45:01]<font color='orange'> Attacked by Tony Stark (woody112) with hatchet (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | The Engineering Control | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 38, 0, 0 | [23:02:39] <font color='orange'>Has been thrown by Unknown (epicjoe)</font>
+Death | Medbay | 0, 58, 0, 0 | [23:14:11] <font color='orange'>Has been thrown by Unknown (epicjoe)</font>
+Death | The Central Primary Hallway | 0, 40, 0, 0 | [23:18:13] <font color='orange'>Has had their back item removed by Unknown (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 47, 0, 0 | [23:01:47] <font color='orange'>Has been thrown by Unknown (epicjoe)</font>
+Death | The Central Primary Hallway | 0, 40, 0, 0 | [23:21:14] <b>Terry Kelley/epicjoe</b> shot <b>Unknown/jolt96</b> point blank with a <b>the Handy MK2</b>
+Death | The Central Primary Hallway | 0, 36, 13, 0 | [23:21:26] <b>Finn Palmer/susimus</b> shot <b>Terry Kelley/epicjoe</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 6, 2, 41.9519 | [23:22:13] <b>Finn Palmer/susimus</b> shot <b>Unknown/woody112</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 6, 0, 0 | [23:23:53] <b>Finn Palmer/susimus</b> shot <b>Unknown as (Alberto Buttersworth)/airenjon</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 59, 0, 0 | [23:25:50] <font color='orange'>Has had their back item removed by Leon James (pwwp)</font>
+Death | The Centcom | 0, 1, 0, 0 | [23:33:36] <b>Finn Palmer/susimus</b> shot <b>Unknown/airenjon</b> with a <b>the lead</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Security Lobby | 0, 21, 0, 0 | [23:46:48]<font color='orange'> Attacked by John Bolon (epicjoe) with hatchet (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, 1, 2, 3
+Death | Engineering Construction Storage | 0, 1, 44, 0
+Death | Engineering | 0, 62, 24, 0 | [23:52:23] <font color='orange'>Has been thrown by John Bolon (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 20, 34, 0 | [23:55:41]<font color='orange'> Attacked by Finn Palmer (susimus) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [23:56:34]<font color='orange'> Attacked by Finn Palmer (susimus) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 23, 0, 0 | [23:57:48] <b>Unknown/epicjoe</b> shot <b>Finn Palmer/susimus</b> with a <b>the Bullet</b>

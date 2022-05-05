@@ -1,0 +1,9 @@
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Kitchen | -1, 0, 2, 
+Explosion | The Kitchen | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 2, 0, 0 | [22:10:46] <b>Cletus Moore/catratcat</b> shot <b>the human/</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 3, 0, 0 | [23:37:26] <b>Cletus Moore/catratcat</b> shot <b>the human/</b> with a <b>the Bullet</b>

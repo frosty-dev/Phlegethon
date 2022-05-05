@@ -1,0 +1,10 @@
+Death | Engineering Construction Storage | 0, 43, 0, 0
+Death | The Engineering Control | 23.5, 35, 11, 0 | [00:01:12]<font color='orange'> Attacked by Unknown as (Morgan James) (bohals) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 5, 0, 0 | [00:05:20]<font color='orange'> Attacked by Rick Rainer (dragoner408) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 56, 0, 0 | [00:00:51] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Engineering Construction Storage | 0, 54, 0, 0 | [00:02:00] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Engineering Construction Storage | 0, 44, 0, 0 | [00:07:51]<font color='orange'> Attacked by Unknown (catratcat) with sharpening (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 12, 0, 0 | [00:08:33]<font color='orange'> Attacked by Unknown (catratcat) with sharpening (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 48, 41, 0 | [00:09:31] <font color='orange'>Has had their pockets emptied by Unknown (catratcat)</font>
+Death | Space | 79.2, 0, 0, 0 | [00:19:06] <font color='orange'>Has been fed Anti-toxins pill by Gerardo Priebe (leonido33) Reagents: [0x2100373f]</font>
+Death | The Centcom | 0, 6, 0, 0 | [00:23:23]<font color='orange'> Attacked by Gerardo Priebe (leonido33) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>

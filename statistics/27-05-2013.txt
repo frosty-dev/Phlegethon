@@ -1,0 +1,22 @@
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Security Lobby | 0, 1, 0, 0 | [00:05:23]<font color='orange'> Attacked by Richard Hunter (dnivji) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 4, 0, 0 | [00:06:57]<font color='orange'> Attacked by Richard Hunter (dnivji) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 1, 0, 0 | [00:08:04]<font color='orange'> Attacked by Ace Myles (silentium) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 0, 0 | [00:09:25] <font color='red'>Fed Unknown by Unknown (odst97) Reagents: [0x210033c7]</font>
+Explosion | Street | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 0, 0 | [00:14:39]<font color='orange'> Attacked by Mary Wild (anarlianna) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 124, 0, 0 | [00:15:13] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Death | Sewers | 0, 12, 0, 0 | [00:22:17]<font color='orange'> Attacked by Wyatt Roberts (gvardota) with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 28, 73.8, 0
+Death | Street | 0, 4, 0, 0 | [00:26:53]<font color='orange'> Attacked by Wyatt Roberts (gvardota) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0.099998, 26, 0, 0
+Death | Sewers | 0, 61, 16, 0 | [00:52:55] <font color='orange'>Has had their pockets emptied by Ace Gunrunner (silentium)</font>
+Death | The Central Primary Hallway | 0, 0, 117.399, 0 | [00:59:29] <b>Ace Gunrunner/silentium</b> shot <b>/linnlarove</b> with a <b>the Fire Bullet</b>
+Death | The Kitchen | 0, 0, 0, 0 | [01:00:17] <b>Wyatt Roberts/gvardota</b> shot <b>Wilhelm Sundberg /airenjon</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 95.2, 1, 0, 0 | [01:11:59] <b>Wyatt Roberts/gvardota</b> shot <b>Unknown/silentium</b> with a <b>the Bullet</b>
+Death | The Centcom | 0, 1, 0, 0 | [01:14:59] <b>Unknown/silentium</b> shot <b>Unknown as (Wyatt Roberts)/gvardota</b> point blank with a <b>Canis .45-70</b>
+Explosion | The Centcom | 1, 2, 3, 3

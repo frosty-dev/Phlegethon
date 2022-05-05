@@ -1,0 +1,19 @@
+Death | The Central Primary Hallway | 0, 26, 175, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Medical Research | 0, 7, 0, 0 | [23:26:40]<font color='orange'> Attacked by Albert Xill (12xilluks) with bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 6, 0, 0 | [23:30:14]<font color='orange'> Attacked by Unknown (chachka) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 5, 0, 0 | [23:41:25]<font color='orange'> Attacked by Trey Liam (randysandy) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | Engineering Construction Storage | 117.2, 27, 53.7001, 0 | [23:42:01] <font color='orange'>Has had their pockets emptied by Hiron Odel (nigilith)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 2, 0, 0 | [23:51:31] <b>Holden Tennant/1cogwheel1</b> shot <b>Unknown/nigilith</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 26, 91.4, 0 | [23:45:06]<font color='orange'> Attacked by Hiron Odel (nigilith) with brass knuckle (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 30, 0, 0 | [23:52:58]<font color='orange'> Attacked by Rick Rainer (dragoner408) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 30.7, 35, 0, 0 | [23:54:41] <b>John Steinman/silentium</b> shot <b>Unknown/randysandy</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 19, 43, 0 | [23:56:50] <font color='orange'>Has been thrown by Gerardo Priebe (leonido33)</font>
+Death | Medical Research | 0, 25, 12.5, 0 | [23:58:07]<font color='orange'> Attacked by Rick Rainer (dragoner408) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 26, 100, 0 | [23:59:32] <font color='orange'>Has had their eyewear removed by Gerardo Priebe as (Dr. Samuel Arkhens) (leonido33)</font>

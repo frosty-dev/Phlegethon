@@ -1,0 +1,26 @@
+"The Security Lobby",21.8366,82.1472,0,0,293.15,2500
+"Engineering Construction Storage",21.8366,82.1472,0,0,293.15,5000
+"Space",21.8366,82.1473,0,0,293.15,1.2e+006
+"The Dormitories",21.8366,82.1472,0,0,293.15,17500
+"Medical Research",21.8366,82.1472,0,0,293.15,2500
+"Medical Research",21.8366,82.1472,0,0,293.15,135000
+"Medical Research",21.8366,82.1472,0,0,293.15,95000
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500
+"The Dormitories",21.8366,82.1472,0,0,293.15,22500
+"Engineering",21.8366,82.1472,0,0,293.15,102500
+"The Escape Pod One",21.8366,82.1472,0,0,293.15,2500
+"The Quartermasters",21.8366,82.1472,0,0,293.15,5000
+"The Quartermasters",21.8366,82.1472,0,0,293.15,22500
+"The Security Lobby",21.8366,82.1472,0,0,293.15,2500
+"The Theatre",21.8366,82.1472,0,0,293.15,32500
+"Engineering Construction Storage",21.8324,82.1316,6.40999e-005,0,293.15,8.7925e+006
+"The Central Primary Hallway",21.8147,82.0655,0.000246654,0,293.152,52500
+"The Escape Pod One",21.8366,82.1472,0,0,293.15,2500
+"The Centcom Living Quarters",3.46021e-005,3.46021e-005,0,0,293.15,722500
+"The Quartermasters",21.8366,82.1472,0,0,293.15,7500
+"Medical Research",21.8366,82.1472,0,0,293.15,5000
+"The Central Primary Hallway",21.8366,82.1472,0,0,293.15,5000
+"Medbay",19.9209,74.9402,0.000164746,0,293.186,22500
+"The Security Lobby",21.8366,82.1472,0,0,293.15,2500
+"Medical Research",21.8366,82.1472,0,0,293.15,2500
+"The Dormitories",20.4457,76.9148,0.00037174,0.0007548,293.407,20000

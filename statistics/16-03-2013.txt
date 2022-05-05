@@ -1,0 +1,150 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Medbay | 0, 145, 0, 0 | [19:13:08] <font color='orange'>Has had their pockets emptied by Brian Owl Hoover (eggman1945)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [19:20:26] <b>Adrian Russell/vect</b> shot <b>Unknown/epicjoe</b> point blank with a <b>the Handy MK2</b>
+Death | The Engineering Control | 10, 0, 0, 0 | [19:24:34] <b>Adrian Russell/vect</b> shot <b>Holden Tennant/1cogwheel1</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 76, 0, 0 | [19:22:33] <font color='orange'>Has been disarmed by Unknown (spartan235)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Medical Research | 0, 0, 0, 0 | [19:28:04] <font color='orange'>Has been punched by Adrian Russell (vect)</font>
+Death | Medical Research | 0, 14, 0, 0 | [19:28:02] <font color='orange'>Has had their uniform removed by Adrian Russell (vect)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [19:31:06] <font color='orange'>Has had their right ear item removed by Brian Owl Hoover (eggman1945)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [19:38:04] <font color='orange'>Has had their mask removed by Brian Owl Hoover (eggman1945)</font>
+Death | The Cafeteria | 97.8, 0, 0, 0 | [19:38:04] <font color='red'>Attempted to remove Unknown's (rigget) mask</font>
+Death | The Engineering Control | 0, 193.2, 14, 0 | [19:39:24] <b>Adrian Russell/vect</b> shot <b>Goodwin Northey/chachka</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 102, 12, 0 | [19:39:31] <font color='orange'>Has had their uniform removed by Zane Baxter (epicjoe)</font>
+Death | The Cafeteria | 19, 6, 0, 0 | [19:41:36]<font color='orange'> Attacked by Jack Losos (rigget) with sharpening (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The supply shuttle | 0, 201, 0, 0 | [19:41:51] <font color='orange'>Has been thrown by Emerson Bould (1cogwheel1)</font>
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [19:48:19]<font color='orange'> Attacked by Jack Losos (rigget) with nailed bat (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 13, 0, 0 | [19:51:18]<font color='orange'> Attacked by Locul Ust (thelocust) with police baton (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 46, 29, 0 | [19:53:57] <font color='orange'>Has had their uniform removed by Goodwin Northey (chachka)</font>
+Death | The Quartermasters | 0, 34, 27, 0 | [19:53:47] <font color='orange'>Has had their pockets emptied by Zane Baxter (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 28, 175, 0 | [19:52:56]<font color='orange'> Attacked by Jack Losos (rigget) with nailed bat (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 2, 0, 0 | [19:59:56]<font color='orange'> Attacked by Frankie Philips (demonbykov) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 6, 0, 0 | [19:59:56]<font color='orange'> Attacked by Jack Losos as (Arnold Herz) (rigget) with nailed bat (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 25, 0, 0 | [19:59:31] <b>Frankie Philips/demonbykov</b> shot <b>Helmut Grauhaarig/zazaby</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Quartermasters | 0, 31, 94.8001, 0 | [20:07:45] <font color='orange'>Has been attacked with police baton by Adrian Russell (vect)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [20:10:04]<font color='orange'> Attacked by Dominick Duncan (racta) with shard (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 28, 0, 0 | [20:10:55] <b>Locul Ust/thelocust</b> shot <b>Unknown/volk0n</b> point blank with a <b>the Handy MK2</b>
+Death | Engineering Construction Storage | 0, 126.8, 99.6, 0 | [20:12:59] <b>Adrian Russell/vect</b> shot <b>Zane Baxter/epicjoe</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 90.5, 0, 100, 0 | [20:04:43] <font color='red'>Disarmed Jack Losos as (Arnold Herz) (rigget)</font>
+Death | Engineering Construction Storage | 0, 49, 0, 0 | [20:15:55] <font color='orange'>Has had their back item removed by Johnny Harshman (spartan235)</font>
+Death | Engineering Construction Storage | 0, 76, 0, 0
+Death | Medical Research | 0, 33, 0, 0 | [20:17:31]<font color='orange'> Attacked by Locul Ust (thelocust) with police baton (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 7, 0, 0 | [20:19:44]<font color='orange'> Attacked by Cass Rollin (dnivji) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [20:19:56] <b>Adrian Russell/vect</b> shot <b>Unknown as (Adrian Russell)/ralphhesher</b> with a <b>the Bullet</b>
+Death | Medical Research | 0, 109, 0, 0 | [20:19:09]<font color='orange'> Attacked by Werner Diels (neray) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [20:22:41]<font color='orange'> Attacked by Dominick Duncan (racta) with shard (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 9, 0, 0 | [20:24:06] <b>Adrian Russell/vect</b> shot <b>Danny Ann/vania149</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 0, 0, 0 | [20:26:54] <b>Unknown/rigget</b> shot <b>Unknown/spartan235</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 15, 8, 0, 0 | [20:27:21] <b>Unknown/rigget</b> shot <b>Adrian Russell/vect</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Escape Pod One | 0, 26, 175, 0 | [20:30:47] <font color='orange'>Has had their hat removed by Unknown (airenjon)</font>
+Death | The Central Primary Hallway | 0, 0, 13, 0 | [20:31:43] <b>Locul Ust/thelocust</b> shot <b>Unknown/racta</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 13, 0, 0 | [20:32:28]<font color='orange'> Attacked by Locul Ust (thelocust) with police baton (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 9.10002, 55, 39, 0 | [20:28:15] <font color='orange'>Has been attacked with police baton by Locul Ust (thelocust)</font>
+Death | The Central Primary Hallway | 0, 130, 0, 0 | [20:30:49] <font color='orange'>Has been handcuffed (attempt) by Cass Rollin (dnivji)</font>
+Death | The Cafeteria | 0, 23, 0, 0 | [20:33:51] <font color='orange'>Has been disarmed by Unknown (rigget)</font>
+Death | The Escape Pod One | 0, 1, 0, 0 | [20:34:34] <b>Locul Ust/thelocust</b> shot <b>Mick Roman/dezer</b> point blank with a <b>the Handy MK2</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 32, 101.8, 0 | [20:43:48] <font color='orange'>Has been punched by Conrad Nominox (diustin)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 7, 0, 0 | [20:46:45]<font color='orange'> Attacked by Bruno Mantana (rigget) with sharpening (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | The Engineering Control | 0, 0, 0, 0 | [20:48:03]<font color='orange'> Attacked by Bruno Mantana (rigget) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 57, 47, 0 | [20:48:17]<font color='orange'> Attacked by John Bolon (epicjoe) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 5, 0, 0 | [20:53:01]<font color='orange'> Attacked by John Bolon (epicjoe) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [20:54:37]<font color='orange'> Attacked by Unknown (1cogwheel1) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | The Cafeteria | 37.1, 6, 0, 0 | [20:59:18]<font color='orange'> Attacked by Hees Kolbasko (lemero) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 0, 0, 0
+Death | The Library | 0, 0, 0, 0 | [21:01:06]<font color='orange'> Attacked by Bruno Mantana (rigget) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Medbay | 0, 0, 0, 0 | [21:04:44]<font color='orange'> Attacked by Bruno Mantana (rigget) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Medbay | 0, 0, 0, 0 | [21:05:09]<font color='orange'> Attacked by Bruno Mantana (rigget) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 8, 0 | [21:09:45]<font color='orange'> Attacked by Bruno Mantana (rigget) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 125, 175, 0
+Death | Engineering | 73, 47, 0, 0 | [21:23:46] <font color='orange'>Has had their pockets emptied by Unknown (gvardota)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [21:26:20]<font color='orange'> Attacked by Maxwell Prevatt (ocelot1) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [21:26:47]<font color='orange'> Attacked by Hees Kolbasko (lemero) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [21:30:25]<font color='orange'> Attacked by Hees Kolbasko (lemero) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 125.2, 91.6001, 0 | [21:29:10] <font color='orange'>Has had their left ear item removed by Hees Kolbasko (lemero)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [21:34:41] <b>Mark Bower/dnivji</b> shot <b>Unknown/gvardota</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [21:18:42] <font color='red'>Fed Unknown by Unknown (racta) Reagents: [0x210038d3]</font>
+Death | The Escape Pod One | 0, 2, 0, 0 | [21:38:34] <b>Unknown/thelocust</b> shot <b>Luis Murray/vect</b> point blank with a <b>Trencher MK2</b>
+Death | The Escape Pod One | 0, 19, 0, 0 | [21:40:02] <b>Jenny Doe/danteru</b> shot <b>Unknown/dnivji</b> point blank with a <b>the Handy MK2</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [21:40:19]<font color='orange'> Attacked by Braden Bunten (dezer) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 1, 0, 0 | [21:40:25] <b>Luis Murray/thelocust</b> shot <b>Anna Slut/zazaby</b> point blank with a <b>Sleuth DS</b>
+Death | The Escape Pod One | 0, 0, 0, 0 | [21:41:02] <b>Luis Murray/thelocust</b> shot <b>Jenny Doe/danteru</b> with a <b>the Bullet</b>
+Death | The Kitchen | 0, 6, 8, 0 | [21:41:44]<font color='orange'> Attacked by Braden Bunten (dezer) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 77, 0, 0 | [21:48:15] <font color='orange'>Has had their pockets emptied by Zachariah Raub (gvardota)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering | 0, 0, 1, 0 | [21:51:19]<font color='orange'> Attacked by John Bolon (epicjoe) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 142.8, 0, 0 | [21:57:10]<font color='orange'> Attacked by Richard Hunter (dnivji) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 44, 157, 0 | [21:58:41] <font color='orange'>Has had their shoes removed by Unknown (epicjoe)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [22:02:54] <b>Richard Hunter/dnivji</b> shot <b>Bruno Mantana/rigget</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 6, 0, 0 | [22:05:02]<font color='orange'> Attacked by Unknown (catratcat) with hammer (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 1, 0, 0 | [22:08:12] <b>Braden Bunten/dezer</b> shot <b>Unknown/epicjoe</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 2, 0, 0 | [22:08:31]<font color='orange'> Attacked by Booker Dewitt (rigget) with sharpening (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 128, 105.5, 0 | [22:09:01] <font color='orange'>Has been handcuffed (attempt) by Keagan Stern (vect)</font>
+Death | The Engineering Control | 0, 8, 50, 0 | [22:11:35]<font color='orange'> Attacked by Karston Greenawalt (gvardota) with bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 8, 25, 0 | [22:11:52]<font color='orange'> Attacked by Unknown (catratcat) with hammer (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [22:15:25]<font color='orange'> Attacked by Gabriel Hook (thelocust) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 9, 11, 0 | [22:17:37]<font color='orange'> Attacked by Gabriel Hook (thelocust) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 49, 50, 0 | [22:00:15] <font color='orange'>Has had their belt item removed by Richard Hunter (dnivji)</font>
+Death | The Cafeteria | 0, 28, 22, 0 | [22:20:01]<font color='orange'> Attacked by Gabriel Hook (thelocust) with hammer (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 54, 0, 0 | [22:22:22]<font color='orange'> Attacked by Booker Dewitt (rigget) with sharpening (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [22:26:42] <b>Keagan Stern/vect</b> shot <b>Unknown/lemero</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 118, 84, 0 | [22:25:47]<font color='orange'> Attacked by Gogi Van (volk0n) with nailed bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Theatre | 0, 128, 0, 0 | [22:34:11] <font color='orange'>Has had their pockets emptied by Booker Dewitt (rigget)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [22:37:52] <b>Braden Bunten/dezer</b> shot <b>Unknown/catratcat</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | Medical Research | 0, 26, 175, 0 | [22:39:20] <font color='orange'>Has had their pockets emptied by Karston Greenawalt (gvardota)</font>
+Death | Engineering Construction Storage | 0, 36, 96, 0 | [22:39:21] <font color='orange'>Has been thrown by Colin Collins (1cogwheel1)</font>
+Death | The Theatre | 28, 40, 0, 0 | [22:44:00]<font color='orange'> Attacked by Jonny Marlo (lemero) with crowbar (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 21, 124, 0 | [22:48:53] <b>Booker DeWitt/eggman1945</b> shot <b>Silas Kifer/chuckjopis</b> with a <b>bow</b> (radium (4),acid (1),)
+Death | The Theatre | 0, 0, 0, 0 | [22:50:20]<font color='orange'> Attacked by Richard Hunter (dnivji) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 46, 37, 0 | [22:52:55] <font color='orange'>Has been fed Muffin by Brian Owl Hoover (eggman1945) Reagents: [0x210033b4]</font>
+Death | The Quartermasters | 23, 0, 12, 0 | [22:54:01] <font color='orange'>Has been fed Duke Purple Tea by Keagan Stern (vect) Reagents: [0x210036cd]</font>
+Death | The Quartermasters | 0, 35, 0, 0 | [22:56:13] <font color='orange'>Has been fed Duke Purple Tea by Keagan Stern (vect) Reagents: [0x210036cd]</font>
+Death | The Dormitories | 0, 127.3, 0, 0 | [22:57:13]<font color='orange'> Attacked by Karston Greenawalt (gvardota) with bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 88, 48, 0, 1.36364 | [22:54:58] <font color='orange'>Has been fed Duke Purple Tea by Keagan Stern (vect) Reagents: [0x210036cd]</font>
+Death | The Quartermasters | 4, 0, 0, 0 | [23:04:07] <b>Snoop Dogg/wolfpank</b> shot <b>Unknown/gvardota</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 24.2, 48, 0, 0 | [22:45:20] <font color='orange'>Has been punched by Tristen Randolph (vovanhur)</font>
+Death | The Engineering Control | 0, 18, 27, 0 | [23:06:11] <font color='orange'>Has had their left ear item removed by Brian Owl Hoover (eggman1945)</font>
+Death | The Engineering Control | 0, 13, 0, 0 | [23:07:12]<font color='orange'> Attacked by Jed Barnes (danteru) with Handy MK2 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [23:10:00]<font color='orange'> Attacked by Gabriel Collins (midas123) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 7, 0, 0 | [23:20:39]<font color='orange'> Attacked by Jed Barnes (danteru) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 35, 0, 0 | [23:20:11]<font color='orange'> Attacked by Quinton Mikhaylov (vovanhur) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 26, 175, 0
+Death | Engineering | 0, 0, 0, 0 | [23:25:26] <b>Unknown/dnivji</b> shot <b>Quinton Mikhaylov as (Eli Gorko)/vovanhur</b> with a <b>the Bullet</b>
+Death | Engineering | 0, 12, 0, 0 | [23:26:44]<font color='orange'> Attacked by Unknown (dnivji) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [23:30:20]<font color='orange'> Attacked by Snoop Dogg (dnivji) with fire extinguisher (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [23:32:11] <b>Snoop Dogg/dnivji</b> shot <b>Kade Hayhurst/midas123</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Security Lobby | 29, 6, 0, 0 | [23:49:38]<font color='orange'> Attacked by Unknown (woody112) with brass knuckle (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 161.9, 79.2, 0 | [23:48:10]<font color='orange'> Attacked by Carl Dawkins (vovanhur) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Medbay | 0, 0, 0, 0 | [23:52:43] <b>Ian Marks as (Kade Hayhurst)/lemero</b> shot <b>Unknown/vovanhur</b> with a <b>the Fire Bullet</b>
+Death | Engineering Construction Storage | 0, 0, 30, 0 | [23:53:15] <font color='orange'>Has had their uniform removed by Unknown (airenjon)</font>
+Death | The Kitchen | 0, 0, 100, 0 | [23:59:19] <b>Sheriff Zip Gunn as (Bradley Armstrong)/camer</b> shot <b>Unknown/woody112</b> with a <b>the Bullet</b>

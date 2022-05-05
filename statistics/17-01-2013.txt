@@ -1,0 +1,16 @@
+Death | Engineering Construction Storage | 0, 7, 17, 0 | [00:00:39]<font color='orange'> Attacked by Rick Rainer (dragoner408) with hatchet (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 42, 0, 0 | [00:01:20] <font color='orange'>Has had their pockets emptied by Unknown (panchoys)</font>
+Death | Engineering Construction Storage | 0, 52, 0, 0 | [23:59:58] <font color='red'>Attempted to remove Unknown's () mask</font>
+Death | Engineering Construction Storage | 0, 47, 17, 0 | [00:04:02]<font color='orange'> Attacked by Hayden Woodward (deihard) with stone (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 32, 0, 0 | [00:04:36] <font color='orange'>Has had their eyewear removed by Unknown (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 1, 0, 0 | [00:05:53]<font color='orange'> Attacked by Rick Rainer (dragoner408) with hatchet (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 4, 27, 0, 0 | [00:06:48] <font color='orange'>Has been thrown by Unknown (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [00:06:47] <font color='orange'>Has had their pockets emptied by Jack Greece (danteru)</font>
+Death | The Engineering Control | 0, 21, 0, 67 | [00:08:10] <font color='orange'>Has had their suit removed by Luis Briner (fiodoss)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:09:00] <b>Unknown/fiodoss</b> shot <b>Unknown/dragoner408</b> with a <b>the Fire Bullet</b>
+Death | The Central Primary Hallway | 0, 13, 0, 0 | [00:09:35]<font color='orange'> Attacked by Jack Greece (danteru) with L-Ferus .50 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [00:13:04] <b>Jack Greece/danteru</b> shot <b>Johnny Poler as (Dakota Curry)/buddey</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:13:38]<font color='red'> Attacked Ray Magnum (dustworm) with L-Ferus .50 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 17, 0, 0 | [00:13:51] <b>Jack Greece/danteru</b> shot <b>Unknown as (Albert Xill)/12xilluks</b> point blank with a <b>the Handy MK2</b>
+Death | Engineering Construction Storage | 0, 60, 5, 0 | [00:11:11] <font color='red'>Attempted to remove Unknown's () uniform</font>
+Death | The Escape Pod One | 2.7, 34, 0, 0 | [00:13:49] <b>Jack Greece/danteru</b> shot <b>Unknown as (Urist Zahodethal)/marcusaga</b> with a <b>the Bullet</b>

@@ -1,0 +1,242 @@
+Death | Street | 0, 0, 0, 0 | [02:09:04] <b>Cletus Moore/catratcat</b> shot <b>the human/</b> with a <b>the Bullet</b>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 5, 0, 0 | [18:24:56]<font color='orange'> Attacked by Conrad Nominox (diustin) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 175, 0 | [18:32:24] <font color='orange'>Has had their shoes removed by Lucas Hegarty (dontero)</font>
+Death | The Security Lobby | 0, 0, 149.8, 0 | [18:33:10] <font color='orange'>Has had their pockets emptied by Daryl Dixon (dnivji)</font>
+Death | Street | 0, 1, 0, 0 | [18:36:34]<font color='orange'> Attacked by Jadon Greenwood (gnidr) with scout (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 68.3, 0 | [18:36:37]<font color='red'> Attacked Unknown (miroar) with scout (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 107.1, 0 | [18:35:35] <font color='orange'>Has been punched by Leo Herz as (Max Stamos) (odst97)</font>
+Death | Sewers | 0, 6, 0, 0 | [18:40:19]<font color='orange'> Attacked by Keith Maxwell (shamanvoodoo11) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 5, 0, 0 | [18:41:36]<font color='orange'> Attacked by Ace Myles (silentium) with knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 90.6, 5, 0, 0 | [18:44:01]<font color='orange'> Attacked by Ace Myles (silentium) with knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 175, 0
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 24, 35, 26.2, 0 | [18:42:51] <font color='orange'>Has had their belt item removed by Steven Todd (disconected)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 0, 0 | [18:55:50] <b>Conrad Nominox/diustin</b> shot <b>Joye Fischer/leoperd</b> with a <b>the lead</b>
+Death | Sewers | 0, 0, 10, 0 | [18:56:58]<font color='orange'> Attacked by Unknown (rigget) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 3, 0, 0 | [18:57:03] <b>Conrad Nominox/diustin</b> shot <b>Anderson Kanaga/jarlo</b> with a <b>the lead</b>
+Explosion | Street | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Explosion | Sewers | -1, 0, 2, 
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Street | -1, 0, 2, 
+Death | Sewers | 2, 0, 92.4, 0 | [19:02:49] <font color='red'>Attempted to remove Unknown's (rigget) gloves</font>
+Death | Engineering | 0, 0, 0, 0 | [19:06:59] <b>Conrad Nominox/diustin</b> shot <b>Nipus Pigra/camer</b> with a <b>the lead</b>
+Death | Street | 0, 69, 0, 0 | [19:06:47] <b>Conrad Nominox/diustin</b> shot <b>Unknown/disconected</b> with a <b>the lead</b>
+Death | Sewers | 88.8, 0, 0, 0 | [19:06:28]<font color='red'> Attacked Lucas Hegarty () with shard (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 10, 0, 0 | [19:09:22] <b>Conrad Nominox/diustin</b> shot <b>Johnny Logue/gadmans</b> with a <b>the Bullet</b>
+Death | Street | 0, 0, 0, 0 | [19:10:07] <b>Conrad Nominox/diustin</b> shot <b>Unknown/olidood</b> with a <b>the Bullet</b>
+Death | Street | 0, 5, 0, 0 | [19:11:28]<font color='orange'> Attacked by Samyil Thompson (miroar) with nailed bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [19:12:22] <b>Conrad Nominox/diustin</b> shot <b>Unknown as (Joye Fischer)/jarlo</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 0, 104, 0 | [19:14:12] <b>Ian Coldworn/shamanvoodoo11</b> shot <b>Brody Bennett/gnidr</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 0, 55, 0 | [19:15:51] <font color='red'>Punched Ian Coldworn (shamanvoodoo11)</font>
+Death | Sewers | 0, 35, 20, 0 | [19:15:51] <font color='orange'>Has been punched by Samyil Thompson (miroar)</font>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Escape Pod One | 0, 10, 0, 0 | [19:21:46] <b>Conrad Nominox/diustin</b> shot <b>Unknown as (Max Stamos)/wayrover</b> with a <b>the Bullet</b>
+Explosion | The Central Primary Hallway | -1, -1, 2, 2
+Death | Sewers | 0, 35, 18.4, 0
+Death | Space | 0, 0, 0, 0 | [19:23:25] <b>Unknown/camer</b> shot <b>Daryl Dixon/dnivji</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 1, 0, 0 | [19:23:35] <b>Conrad Nominox/diustin</b> shot <b>Unknown/dnivji</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 0, 0, 0 | [19:24:48]<font color='orange'> Attacked by Piper Osterwise (leoperd) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 1, 0, 0 | [19:29:05]<font color='orange'> Attacked by Jack Taylor (olidood) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 49, 10, 0
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | The Quartermasters | -1, 0, 2, 
+Explosion | The Quartermasters | -1, 0, 2, 
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 0, 0, 0 | [19:32:27] <b>Ivan Gorit/randysandy</b> shot <b>Alexa Ulery/leoperd</b> with a <b>the Fire Bullet</b>
+Death | The Quartermasters | 0, 28, 18.2, 0 | [19:32:27] <b>Ivan Gorit/randysandy</b> shot <b>Alexa Ulery/leoperd</b> with a <b>the Fire Bullet</b>
+Death | Street | 0, 7, 26.8, 0 | [19:33:36]<font color='orange'> Attacked by Unknown (epicjoe) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 0, 0 | [19:35:30] <b>Monza/nyuu99</b> shot <b>Nipus Pigra/camer</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 0, 0, 0 | [19:42:18]<font color='orange'> Attacked by Monza as (Nipus Pigra) (nyuu99) with sharpening (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 99.2, 0, 0, 0 | [19:43:26] <b>Monza as (Nipus Pigra)/nyuu99</b> shot <b>Jack Taylor/olidood</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 1, 0, 0 | [19:43:49]<font color='orange'> Attacked by Monza as (Nipus Pigra) (nyuu99) with sharpening (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 28, 25.8, 0 | [19:45:41] <font color='orange'>Has had their ID removed by Unknown (epicjoe)</font>
+Death | Sewers | 0, 6, 0, 0 | [19:46:35]<font color='orange'> Attacked by Conrad Nominox (diustin) with brick (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Medbay | 0, 0, 78.5, 0
+Death | Sewers | 0, 3, 0, 0 | [19:48:42]<font color='orange'> Attacked by Conrad Nominox (diustin) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Engineering | 0, 3, 0, 0 | [19:53:04]<font color='orange'> Attacked by Nipus Pigra (epicjoe) with balisong knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 12, 0, 0 | [19:56:51]<font color='orange'> Attacked by Melvyn Sybilla (wayrover) with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 1, 41.6001, 0 | [19:58:03]<font color='orange'> Attacked by Unknown (ocelot1) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 2, 0, 0 | [20:02:09]<font color='orange'> Attacked by Unknown (miroar) with kitchen knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 4, 0, 0 | [20:02:36] <b>Tom Boum/dnivji</b> shot <b>Unknown as (Homus Reeves)/camer</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [20:02:43] <b>Unknown/silentium</b> shot <b>Unknown as (Tom Boum)/dnivji</b> point blank with a <b>Hamlet SMG</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [20:03:07] <b>Unknown/randysandy</b> shot <b>Unknown/silentium</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 41, 18.6, 0 | [20:02:51] <b>Unknown/silentium</b> shot <b>Unknown as (Zane Stafford)/jarlo</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 100, 35, 33.2001, 0 | [20:02:45] <b>Unknown/silentium</b> shot <b>Unknown/dragoner408</b> point blank with a <b>Hamlet SMG</b>
+Death | The Cafeteria | 1, 0, 0, 0
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [20:04:41] <b>Unknown/randysandy</b> shot <b>Nipus Pigra/epicjoe</b> with a <b>the Bullet</b>
+Death | Street | 0, 0, 104.6, 0 | [20:04:57] <font color='red'>Attempted to remove Emanuel Williamson's () uniform</font>
+Death | The Escape Pod One | 0, 2, 32.6001, 0 | [20:06:09] <b>Melvyn Sybilla/wayrover</b> shot <b>Unknown/miroar</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 0, 0, 0 | [20:06:20] <b>Melvyn Sybilla/wayrover</b> shot <b>Unknown/ocelot1</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0
+Explosion | The Escape Pod One | -1, 0, 2, 
+Death | The Escape Pod One | 0, 6, 0, 0 | [20:10:27] <b>Nipus Pigra/epicjoe</b> shot <b>Melvyn Sybilla/wayrover</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 8, 0, 0 | [20:16:25]<font color='orange'> Attacked by Daryl Dixon (dnivji) with Trencher MK2 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 1, 0, 0 | [20:20:02]<font color='orange'> Attacked by Samyil Thompson (miroar) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 2, 7, 0 | [20:22:11]<font color='orange'> Attacked by Bill Karlos (tima33) with shard (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 0, 0 | [20:24:19]<font color='orange'> Attacked by Danton (nyuu99) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [20:24:32]<font color='orange'> Attacked by Danton (nyuu99) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 5, 0, 0 | [20:24:52]<font color='orange'> Attacked by Daryl Dixon (dnivji) with hammer (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 1, 0, 0 | [20:26:44]<font color='orange'> Attacked by Danton (nyuu99) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 8, 0, 0 | [20:26:47]<font color='orange'> Attacked by Danton (nyuu99) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 5, 0, 0 | [20:28:09]<font color='orange'> Attacked by Danton (nyuu99) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [20:29:03] <b>Daryl Dixon/dnivji</b> shot <b>Johnny Logue/gadmans</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 0, 0, 0 | [20:33:00]<font color='orange'> Attacked by Danton (nyuu99) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 0, 0 | [20:34:19]<font color='orange'> Attacked by Danton (nyuu99) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 5, 0, 0 | [20:34:44]<font color='orange'> Attacked by Alex Edwards (epicjoe) with chain (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 100, 0
+Death | Engineering | 0, 6, 0, 0 | [20:38:44]<font color='orange'> Attacked by Danton (nyuu99) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [20:39:54]<font color='orange'> Attacked by Danton (nyuu99) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 4, 0, 0 | [20:41:13]<font color='orange'> Attacked by Danton (nyuu99) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 31.3001, 7, 0, 0 | [20:42:39] <b>Alex Edwards/epicjoe</b> shot <b>Danton/nyuu99</b> point blank with a <b>Swamper 12g</b>
+Death | The Dormitories | 0, 1, 0, 0 | [20:42:51]<font color='orange'> Attacked by Unknown (randysandy) with hatchet (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 21, 0, 0 | [20:43:25]<font color='orange'> Attacked by Unknown (randysandy) with hatchet (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 29.7, 0, 0, 0 | [20:44:40]<font color='orange'> Attacked by Archie Moore (olidood) with scout (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 82.3, 0 | [20:49:08]<font color='orange'> Attacked by Flip Zalack (wayrover) with Rick Rainer's head (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 0, 0, 0 | [20:54:29]<font color='orange'> Attacked by Unknown (olidood) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 5, 0, 0 | [20:55:59]<font color='orange'> Attacked by Unknown (tima33) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 1, 26.2, 0 | [21:13:44]<font color='orange'> Attacked by Unknown (olidood) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 156.5, 0, 0 | [21:15:37]<font color='orange'> Attacked by Graeme Eliza (epicjoe) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 34, 20.4, 0 | [21:15:47] <font color='orange'>Has been fed banana by Rick Rainer (dragoner408) Reagents: [0x210032e6]</font>
+Death | The Cafeteria | 0, 4, 0, 0 | [21:19:13]<font color='orange'> Attacked by Bruno Mantana (rigget) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 34, 0, 0, 0 | [21:19:15]<font color='red'> Attacked Unknown (silentium) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [21:19:14]<font color='red'> Attacked Unknown (silentium) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Street | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Death | Street | 0, 0, 0, 0
+Death | Street | 40.6, 0, 46.6, 0 | [21:19:18] <font color='red'>Attempted to remove Unknown's () uniform</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 5, 0, 0 | [21:29:32] <b>Unknown/tima33</b> shot <b>Daryl Dixon/dnivji</b> with a <b>the Bullet</b>
+Death | Street | 0, 0, 0, 0 | [21:29:47] <b>Graeme Eliza/epicjoe</b> shot <b>Lex Murray/lemero</b> with a <b>the Bullet</b>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 0, 0, 0
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [21:38:06] <b>Unknown/tima33</b> shot <b>Unknown/camer</b> with a <b>the Fire Bullet</b>
+Death | The Escape Pod One | 0, 7, 0, 0 | [21:40:16]<font color='orange'> Attacked by Samyil Thompson (wayrover) with knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 4, 0, 0 | [21:40:29] <b>Samyil Thompson/wayrover</b> shot <b>Unknown/epicjoe</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 0, 100.3, 0 | [21:41:34] <font color='orange'>Has had their belt item removed by Alessa Towers (nigilith)</font>
+Death | The Escape Pod One | 0, 35, 30.8, 0 | [21:41:31] <font color='orange'>Has had their back item removed by Samyil Thompson (wayrover)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Security Lobby | 0, 1, 0, 0 | [21:55:32]<font color='orange'> Attacked by Mary Wild (dnivji) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 20, 0, 0 | [21:55:38]<font color='orange'> Attacked by Mary Wild (dnivji) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Security Lobby | 0, 25, 0, 0 | [21:55:43]<font color='orange'> Attacked by Mary Wild (dnivji) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 5, 0, 0 | [22:00:21]<font color='orange'> Attacked by Mary Wild (dnivji) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 8, 0, 0 | [22:00:48]<font color='orange'> Attacked by Mary Wild (dnivji) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 3, 0, 0 | [22:01:17] <b>Alex Murray/lemero</b> shot <b>Unknown/gvardota</b> with a <b>the Bullet</b>
+Death | Street | 0, 0, 0, 0 | [22:01:22] <b>Jake Timers/epicjoe</b> shot <b>Mary Wild/dnivji</b> with a <b>the Bullet</b>
+Explosion | The Kitchen | -1, 0, 2, 
+Death | Street | 0, 13, 0, 0 | [22:03:39]<font color='orange'> Attacked by Alex Murray (wayrover) with scalpel (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [22:04:43] <b>Jake Timers/epicjoe</b> shot <b> as (Mary Wild)/linnlarove</b> with a <b>the Bullet</b>
+Death | Street | 0, 39, 0, 0
+Death | The Cafeteria | 0, 0, 57.1, 0 | [22:05:39] <font color='orange'>Has had their back item removed by Alex Murray (lemero)</font>
+Death | Street | 0, 1, 0, 0 | [22:14:45]<font color='orange'> Attacked by Jennifer Riggle as (Mary Wild) (anarlianna) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 14, 0, 0 | [22:14:49]<font color='orange'> Attacked by Jennifer Riggle as (Mary Wild) (anarlianna) with fire extinguisher (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 0, 0 | [22:18:46] <b>Dick Winters/camer</b> shot <b>Jennifer Riggle as (Mary Wild)/anarlianna</b> with a <b>the Bullet</b>
+Death | Engineering | 0, 7, 80, 0
+Death | Sewers | 52.6, 2, 180, 0 | [22:10:18] <font color='red'>Attempted to remove Unknown's () shoes</font>
+Death | Sewers | 52.6, 2, 180, 0 | [22:10:18] <font color='red'>Attempted to remove Unknown's () shoes</font>
+Explosion | The Quartermasters | -1, 0, 2, 
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 0, 0, 0 | [22:29:16]<font color='orange'> Attacked by Unknown (tima33) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 19, 0, 0 | [22:29:19]<font color='orange'> Attacked by Unknown (tima33) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Quartermasters | 0, 9, 0, 0 | [22:33:02]<font color='orange'> Attacked by Unknown (tima33) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [22:36:37]<font color='orange'> Attacked by Buck Mccnelan (rigget) with police baton (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [22:38:21]<font color='orange'> Attacked by Alex Murray (tima33) with police baton (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 0, 25, 0, 48 | [22:48:10] <font color='orange'>Has had their back item removed by Buck Mccnelan (rigget)</font>
+Death | The Cafeteria | 0, 0, 0, 0 | [22:50:11] <b>Alex Murray/tima33</b> shot <b>Hiron Odel/nigilith</b> with a <b>the lead</b>
+Death | Street | 27.1, 0, 0, 0 | [22:50:29] <b>Buck Mccnelan/rigget</b> shot <b>Unknown/hendor</b> with a <b>the Bullet</b>
+Death | The Cafeteria | 0, 18, 0, 0 | [22:50:34] <b>Buck Mccnelan/rigget</b> shot <b>Unknown as (Nipus Pigra)/camer</b> with a <b>the Bullet</b>
+Death | The Cafeteria | 52.6, 21, 0, 0 | [22:51:04]<font color='orange'> Attacked by Alex Murray (tima33) with police baton (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 34, 0, 0 | [22:51:25] <b>Buck Mccnelan/rigget</b> shot <b>Denholm Howe/epicjoe</b> with a <b>the Bullet</b>
+Death | Street | 0, 28, 1.4, 0 | [22:52:09] <b>Buck Mccnelan/rigget</b> shot <b>Richard Hunter/anarlianna</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 35, 36.4001, 0 | [22:48:26] <font color='orange'>Has had their pockets emptied by Hiron Odel (nigilith)</font>
+Death | The Escape Pod One | 0, 0, 0, 0 | [23:00:01] <b>Alex Murray/tima33</b> shot <b>Unknown/silentium</b> point blank with a <b>the Smith-W</b>
+Death | The Escape Pod One | 0, 21, 1, 0 | [23:01:03] <font color='orange'>Has had their gloves removed by Richardd Hunter (dnivji)</font>
+Death | The Escape Pod One | 0, 2, 3, 0 | [23:01:04]<font color='orange'> Attacked by Samyil Thompson as (Nipus Pigra) (miroar) with knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 2, 180, 0 | [23:01:49] <font color='red'>Attempted to remove Unknown's () belt item</font>
+Death | The Escape Pod One | 0, 5, 165, 0 | [23:02:19] <font color='red'>Attempted to remove Alex Murray's (tima33) hat</font>
+Death | The Escape Pod One | 0, 6, 180, 0 | [23:02:19] <font color='red'>Attempted to remove Alex Murray's (tima33) hat</font>
+Death | The Escape Pod One | 0, 2, 180, 0 | [23:01:49] <font color='red'>Attempted to remove Unknown's () belt item</font>
+Death | The Escape Pod One | 0, 6, 0, 0 | [23:03:29]<font color='orange'> Attacked by Zachariah Raub as (Dick Winters) (gvardota) with Springfield A7 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 0, 0, 175, 0
+Death | The Centcom | 0, 1, 0, 0 | [23:11:54]<font color='orange'> Attacked by Unknown (nigilith) with bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 9, 0, 0 | [23:16:14]<font color='orange'> Attacked by Bruno Mantana (rigget) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 6, 0, 0 | [23:16:18]<font color='orange'> Attacked by Bruno Mantana (rigget) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 102, 48, 0
+Death | Street | 0, 34, 15, 0
+Death | The Security Lobby | 0, 1, 0, 0 | [23:22:16]<font color='orange'> Attacked by Unknown (epicjoe) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Cafeteria | 0, 0, 100, 0 | [23:26:20] <font color='orange'>Has had their uniform removed by Ace Gunrunner (silentium)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Street | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Explosion | Sewers | -1, 0, 2, 
+Explosion | Sewers | -1, 0, 2, 
+Death | Street | 0, 33, 7.40002, 0 | [23:31:57] <b>Rick Frost/dnivji</b> shot <b>Unknown/epicjoe</b> with a <b>the Bullet</b>
+Death | Street | 0, 0, 91.1, 0 | [23:27:21]<font color='red'> Attacked Unknown (anarlianna) with Gas Tank (Sleeping Agent) (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Street | -1, 0, 2, 
+Explosion | Sewers | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Death | The Kitchen | 0, 0, 0, 0 | [23:33:53] <b>Alessa Towers/nigilith</b> shot <b>Rick Frost/dnivji</b> with a <b>the Bullet</b>
+Explosion | The Kitchen | -1, 0, 2, 
+Explosion | The Kitchen | -1, 0, 2, 
+Explosion | The Kitchen | -1, 0, 2, 
+Explosion | The Kitchen | -1, 0, 2, 
+Explosion | The Kitchen | -1, 0, 2, 
+Death | The Kitchen | 0, 0, 0, 0 | [23:33:53] <b>Alessa Towers/nigilith</b> shot <b>Rick Frost/dnivji</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 0, 175, 0
+Explosion | Sewers | -1, 0, 2, 
+Death | Sewers | 0, 0, 0, 0 | [23:33:29] <b>Elijah Shaw/robotehnik</b> shot <b>Zachariah Raub/gvardota</b> with a <b>the Bullet</b>
+Death | Street | 0, 0, 0, 0 | [23:35:45]<font color='orange'> Attacked by Unknown (earthwormj1m) with nailed bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 73.4, 0, 0, 0 | [23:35:36] <font color='orange'>Has had their belt item removed by Nipus Pigra (camer)</font>
+Death | Street | 0, 0, 0, 0 | [23:36:37] <b>Unknown as (Braiden Kiefer)/vovanhur</b> shot <b>Unknown as (Nipus Pigra)/camer</b> point blank with a <b>Garand M1</b>
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 1, 0, 0 | [23:39:06]<font color='orange'> Attacked by Unknown as (Braiden Kiefer) (vovanhur) with Hamlet SMG (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 1, 36, 0 | [23:40:51]<font color='orange'> Attacked by Samyil Thompson (miroar) with nailed bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 14.4, 0, 0, 0 | [23:42:43]<font color='orange'> Attacked by Barney Mikles (camer) with Garand M1 (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 87, 7, 0, 0 | [23:43:01]<font color='orange'> Attacked by Barney Mikles (camer) with Garand M1 (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 33, 47.2001, 0 | [23:40:48]<font color='orange'> Attacked by Dane Morgan (windbrand) with syringe gun (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 4, 0, 0 | [23:52:22]<font color='orange'> Attacked by Elijah Shaw (gvardota) with Handy MK2 (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [23:52:44] <b>Ace Gunrunner/silentium</b> shot <b>Unknown/gadmans</b> point blank with a <b>Winch M1887</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | Sewers | 0, 0, 0, 0 | [23:53:24] <b>Unknown/earthwormj1m</b> shot <b>Ace Gunrunner/silentium</b> with a <b>the Bullet</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [23:55:15]<font color='orange'> Attacked by Barney Mikles (camer) with Handy MK2 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 0, 0, 0 | [23:56:37] <b>Ivan Croft/vovanhur</b> shot <b>Barney Mikles/camer</b> point blank with a <b>Canis .45-70</b>
+Death | The Kitchen | 0, 2, 0, 0 | [23:57:00]<font color='orange'> Attacked by Ivan Croft (vovanhur) with Garand M1 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Kitchen | 0, 145, 0, 0 | [23:56:07] <b>Barney Mikles/camer</b> shot <b>Rick Rainer/dragoner408</b> with a <b>the Bullet</b>
+Explosion | Sewers | -1, -1, 2, 2

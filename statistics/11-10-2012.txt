@@ -1,0 +1,4 @@
+Explosion | The Central Primary Hallway | -1, -1, 1, -1
+Explosion | The Central Primary Hallway | -1, -1, 1, -1
+Explosion | The Central Primary Hallway | -1, -1, 1, -1
+Explosion | The Central Primary Hallway | -1, -1, 1, -1

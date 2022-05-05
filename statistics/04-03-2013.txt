@@ -1,0 +1,75 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 8, 0, 0 | [20:50:49]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with shard (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 26, 175, 0
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [20:48:28] <font color='orange'>Has had their hat removed by Kenneth Blackheart as (Ruben Roby) (aleistercrowley)</font>
+Death | The Engineering Control | 0, 5, 0, 0 | [20:55:04]<font color='orange'> Attacked by Alessa Towers (nigilith) with scalpel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 19, 42, 0 | [20:57:43] <font color='orange'>Has had their pockets emptied by Raymond McRay (raymar)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 46, 0, 0 | [20:58:34] <font color='orange'>Has had their back item removed by Atarabashi Nihondzin as (Ruben Roby) (editorrus)</font>
+Death | The Cafeteria | 0, 4, 0, 0 | [20:59:01]<font color='orange'> Attacked by Rabbie Gibbed (panchoys) with butcher's cleaver (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [21:01:02]<font color='orange'> Attacked by Brian Owl Hoover (eggman1945) with sharpening (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 10, 0, 16, 0 | [21:01:59] <font color='red'>Attempted to remove Kenneth Blackheart's () uniform</font>
+Death |  | 0, 0, 0, 0
+Death | Engineering Construction Storage | 0, 87, 118, 0 | [21:00:27] <font color='orange'>Has been punched by Nicolas Maclagan (luzfierce)</font>
+Death | Engineering Construction Storage | 0, 39, 18, 0 | [21:04:58] <font color='orange'>Has had their pockets emptied by Unknown (nigilith)</font>
+Death | Engineering Construction Storage | 0, 55, 0, 0 | [21:06:29] <font color='orange'>Has had their pockets emptied by Unknown (nigilith)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 6, 0, 0 | [21:09:00]<font color='orange'> Attacked by Rabbie Gibbed (panchoys) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Cafeteria | 0, 1, 0, 0 | [21:14:35]<font color='orange'> Attacked by Rabbie Gibbed (panchoys) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 1, 0, 0 | [21:19:51]<font color='orange'> Attacked by Karston Greenawalt (gvardota) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 27, 35.6, 0 | [21:19:02] <font color='orange'>Has been thrown by John Bolon (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 29, 73.3999, 0 | [21:17:57] <font color='orange'>Has had their uniform removed by Nil Frozen (navedan)</font>
+Death | The Cafeteria | 0, 21, 0, 0 | [21:24:06] <font color='orange'>Has had their hat removed by Unknown (epicjoe)</font>
+Death | Engineering Construction Storage | 0, 13, 0, 0 | [21:28:44]<font color='orange'> Attacked by Nil Frozen (navedan) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 6, 18, 0 | [21:39:28]<font color='orange'> Attacked by Unknown (wren666666) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 199, 0, 0 | [21:38:43] <b>Rattle Snake/camer</b> shot <b>Nil Frozen/navedan</b> with a <b>syringegun</b> (lexorin (15),)
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 2, 28, 0 | [21:41:17]<font color='orange'> Attacked by Werner Diels (neray) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 6, 27, 0 | [21:42:02]<font color='orange'> Attacked by Unknown (neray) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Nick Jacobs | 52, 19, 0, 0 | [21:44:46]<font color='orange'> Attacked by Hunter Jesse (epicjoe) with bat (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 32, 0, 0 | [21:48:10]<font color='orange'> Attacked by Brian Owl Hoover (eggman1945) with sharpening (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 14, 0, 0 | [21:50:24]<font color='orange'> Attacked by Unknown (neray) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | The Quartermasters | -1, -1, 2, 2
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 1, 0, 0 | [21:55:39] <b>Brendan Marshall/bohals</b> shot <b>Unknown/chachka</b> point blank with a <b>Hamlet SMG</b>
+Death | The Engineering Control | 36.3, 9, 0, 0 | [21:55:41]<font color='orange'> Attacked by Unknown (neray) with hammer (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 6, 54, 0 | [21:58:39]<font color='orange'> Attacked by Wilhelm Sundberg  (airenjon) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 28, 88.5, 0 | [21:53:29] <b>Unknown/neray</b> shot <b>Alessa Towers/nigilith</b> with a <b>bow</b> ()
+Death | Engineering Construction Storage | 0, 51, 0, 0 | [22:01:55] <font color='orange'>Has been thrown by Kei Nihondzin (editorrus)</font>
+Death | The Engineering Control | 0, 1, 0, 24 | [22:04:14]<font color='orange'> Attacked by Werner Diels (neray) with nailed bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 12, 0, 0 | [22:08:40]<font color='orange'> Attacked by Kobe Burns (luzfierce) with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 48, 28.1, 0 | [22:15:20] <font color='orange'>Has had their pockets emptied by Karston Greenawalt (gvardota)</font>
+Death | The Cafeteria | 0, 6, 17, 0 | [22:20:08]<font color='orange'> Attacked by Dominic Woodworth (aleistercrowley) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 49, 0, 0 | [22:20:23] <b>Unknown/neray</b> shot <b>Karston Greenawalt/gvardota</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 5, 0, 0 | [22:22:41]<font color='orange'> Attacked by Unknown (epicjoe) with nailed bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 122.2, 33, 0, 0 | [22:24:43] <b>Unknown/epicjoe</b> shot <b>Unknown as (Bear Vodka)/camer</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 126.2, 59.4, 0 | [22:25:32]<font color='orange'> Attacked by Courier Spirit (ferdinander) with Canis .45-70 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 57, 0, 0 | [22:24:55] <b>Brendan Marshall/bohals</b> shot <b>Unknown/neray</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 0, 0, 0 | [22:27:00] <b>Brendan Marshall/bohals</b> shot <b>Jerry Grande/nigilith</b> with a <b>the Bullet</b>
+Explosion | Medical Research | -1, -1, 2, 2
+Death | Engineering | 56.6, 27, 111.9, 32.2 | [22:14:13] <font color='red'>Threw Unknown ()</font>
+Death | Engineering Construction Storage | 0, 29, 50.2, 0 | [22:29:32] <font color='red'>Attempted to empty Unknown's (omnium) pockets</font>
+Death | The Cafeteria | 0, 26, 152, 0 | [22:30:02]<font color='orange'> Attacked by Braden Bunten (dezer) with left leg (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 10.2, 2, 0, 0 | [22:35:12]<font color='orange'> Attacked by Ashton Anderson (redomine) with circular saw (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 57.6, 26, 109.4, 0 | [22:37:07] <font color='orange'>Has been thrown by Known Winters (neray)</font>
+Explosion | The Engineering Control | -1, -1, 2, 2
+Death | The Quartermasters | 0, 0, 100, 0 | [22:38:16]<font color='orange'> Attacked by Brendan Marshall (bohals) with circular saw (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 1, 0, 0 | [22:42:30] <b>Courier Spirit/ferdinander</b> shot <b>Sony White/nigilith</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 9, 0, 0 | [22:42:42] <b>Brendan Marshall/bohals</b> shot <b>James Bauer/silentium</b> point blank with a <b>the Tomcat SMG</b>
+Death | The Engineering Control | 0, 42, 0, 0 | [22:42:13] <font color='orange'>Has had their pockets emptied by Ashton Anderson (redomine)</font>
+Death | The Engineering Control | 5, 0, 0, 0 | [22:43:47] <b>Known Winters/neray</b> shot <b>Courier Spirit/ferdinander</b> point blank with a <b>the Handy MK2</b>
+Death | The Engineering Control | 0, 0, 0, 0 | [22:44:19] <b>Brendan Marshall/bohals</b> shot <b>Frank Terrible/chrisik</b> with a <b>the Bullet</b>
+Death | Engineering | 0, 2, 0, 0 | [22:45:09] <b>Brendan Marshall/bohals</b> shot <b>Ford Gas/epicjoe</b> point blank with a <b>the Tomcat SMG</b>
+Death | The Engineering Control | 0, 1, 0, 0 | [22:47:20] <b>Brendan Marshall/bohals</b> shot <b>Known Winters/neray</b> point blank with a <b>the Tomcat SMG</b>
+Death | Engineering Construction Storage | 0, 23, 133.8, 0 | [22:36:29] <font color='orange'>Has been thrown by Known Winters (neray)</font>
+Death | The Engineering Control | 0, 14, 0, 0 | [22:49:57]<font color='orange'> Attacked by Tom Gribble (aleistercrowley) with Handy MK2 (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 25, 0, 0 | [22:51:31] <font color='orange'>Has had their ID removed by Ashton Anderson (redomine)</font>
+Death | The Engineering Control | 0, 5, 0, 0 | [22:53:32]<font color='orange'> Attacked by Tom Gribble (aleistercrowley) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 26.1, 19, 0, 0 | [22:53:26]<font color='orange'> Attacked by Courier Spirit (ferdinander) with hatchet (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 6, 0, 0 | [22:57:15]<font color='orange'> Attacked by Tom Gribble (aleistercrowley) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>

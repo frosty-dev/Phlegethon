@@ -1,0 +1,379 @@
+
+
+Starting up. 01:06.48
+---------------------
+
+[01:06:48]ADMIN: Loading jobban_rank
+[01:06:48]ADMIN: jobban_keylist was empty
+[01:06:48]ADMIN: Updating jobbanfile!
+[01:06:48]ADMIN: Loading Banlist
+Reading donators.txt
+[01:07:56]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[01:07:56]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[01:08:08]ADMIN: Catratcat has started the game.
+[01:08:09]ACCESS: Logout: *no client*/(Catratcat)
+[01:08:09]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[01:08:35]ADMIN: Catratcat/(Morgan Bickerson) jumped to 41,41,2 in Street
+[01:08:43]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot Morgan Bickerson (catratcat) point blank with the Handy MK2.
+[01:08:44]EMOTE: Morgan Bickerson/Catratcat : <B>Morgan Bickerson</B> screams!
+[01:08:45]EMOTE: Morgan Bickerson/Catratcat : <B>Morgan Bickerson</B> screams!
+[01:08:51]EMOTE: Morgan Bickerson/Catratcat : <B>Morgan Bickerson</B> stops breathing...
+[01:08:55]ADMIN: Catratcat/(Morgan Bickerson) dealt -120 amount of brute damage to Morgan Bickerson 
+[01:09:00]EMOTE: Morgan Bickerson/Catratcat : <B>Morgan Bickerson</B> breathes.
+[01:09:57]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[01:10:06]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[01:10:07]EMOTE: human/ : <B>The human</B> screams!
+[01:10:29]ACCESS: Logout: Catratcat/(Morgan Bickerson)
+
+
+Starting up. 01:19.41
+---------------------
+
+[01:19:41]ADMIN: Loading jobban_rank
+[01:19:41]ADMIN: jobban_keylist was empty
+[01:19:41]ADMIN: Updating jobbanfile!
+[01:19:41]ADMIN: Loading Banlist
+Reading donators.txt
+[01:20:03]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[01:20:03]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[01:20:10]ACCESS: Logout: Catratcat/(Catratcat)
+[01:20:10]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[01:20:10]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[01:20:21]ADMIN: Catratcat has started the game.
+[01:20:21]ACCESS: Logout: *no client*/(Catratcat)
+[01:20:21]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[01:20:33]ADMIN: Catratcat/(Morgan Bickerson) jumped to 42,41,2 in Street
+[01:20:41]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[01:20:43]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[01:20:44]EMOTE: human/ : <B>The human</B> screams!
+[01:20:54]ADMIN: Catratcat/(Morgan Bickerson) healed / revived *no client*/(human)
+[01:20:59]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[01:21:01]EMOTE: human/ : <B>The human</B> screams!
+[01:21:05]ACCESS: Logout: *no client*/(Morgan Bickerson)
+[01:21:05]ACCESS: Login: catratcat/(human) from 127.0.0.1-3781439013 || BYOND v498
+[01:21:05]ADMIN: *no client*/(Morgan Bickerson) assumed direct control of the human.
+[01:21:29]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[01:21:32]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[01:21:38]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[01:21:49]ACCESS: Logout: catratcat/(human)
+
+
+Starting up. 02:10.34
+---------------------
+
+[02:10:34]ADMIN: Loading jobban_rank
+[02:10:34]ADMIN: jobban_keylist was empty
+[02:10:34]ADMIN: Updating jobbanfile!
+[02:10:34]ADMIN: Loading Banlist
+Reading donators.txt
+[02:10:37]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[02:10:37]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[02:10:49]ADMIN: Catratcat has started the game.
+[02:10:49]ACCESS: Logout: *no client*/(Catratcat)
+[02:10:49]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[02:11:02]ADMIN: Catratcat/(Morgan Bickerson) jumped to 41,40,2 in Street
+[02:11:09]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[02:11:13]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[02:11:15]EMOTE: human/ : <B>The human</B> screams!
+[02:11:46]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[02:11:47]EMOTE: human/ : <B>The human</B> screams!
+[02:11:50]EMOTE: human/ : <B>The human</B> stops breathing...
+[02:12:03]ACCESS: Logout: Catratcat/(Morgan Bickerson)
+
+
+Starting up. 02:17.54
+---------------------
+
+[02:17:54]ADMIN: Loading jobban_rank
+[02:17:54]ADMIN: jobban_keylist was empty
+[02:17:54]ADMIN: Updating jobbanfile!
+[02:17:54]ADMIN: Loading Banlist
+Reading donators.txt
+[02:18:31]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[02:18:31]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[02:18:37]ADMIN: Catratcat has started the game.
+[02:18:38]ACCESS: Logout: *no client*/(Catratcat)
+[02:18:38]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[02:18:47]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[02:18:56]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[02:18:58]EMOTE: human/ : <B>The human</B> screams!
+[02:19:34]EMOTE: human/ : <B>The human</B> is having trouble keeping their eyes open.
+[02:20:06]ADMIN: Catratcat/(Morgan Bickerson) created a /obj/item/weapon/scalpel
+[02:20:10]ADMIN: ATTACK: Morgan Bickerson (catratcat) attacked the human () with the scalpel.
+[02:20:10]EMOTE: human/ : <B>The human</B> screams!
+[02:20:11]EMOTE: human/ : <B>The human</B> screams!
+[02:20:40]ACCESS: Logout: Catratcat/(Morgan Bickerson)
+
+
+Starting up. 02:25.29
+---------------------
+
+[02:25:29]ADMIN: Loading jobban_rank
+[02:25:29]ADMIN: jobban_keylist was empty
+[02:25:29]ADMIN: Updating jobbanfile!
+[02:25:29]ADMIN: Loading Banlist
+Reading donators.txt
+[02:25:38]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[02:25:38]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[02:25:50]ADMIN: Catratcat has started the game.
+[02:25:50]ACCESS: Logout: *no client*/(Catratcat)
+[02:25:50]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[02:26:05]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[02:26:12]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[02:26:14]EMOTE: human/ : <B>The human</B> screams!
+[02:26:49]EMOTE: human/ : <B>The human</B> is having trouble keeping their eyes open.
+[02:27:09]ACCESS: Logout: Catratcat/(Morgan Bickerson)
+
+
+Starting up. 02:32.21
+---------------------
+
+[02:32:21]ADMIN: Loading jobban_rank
+[02:32:21]ADMIN: jobban_keylist was empty
+[02:32:21]ADMIN: Updating jobbanfile!
+[02:32:21]ADMIN: Loading Banlist
+Reading donators.txt
+[02:32:31]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[02:32:31]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[02:32:40]ADMIN: Catratcat has started the game.
+[02:32:41]ACCESS: Logout: *no client*/(Catratcat)
+[02:32:41]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[02:32:50]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[02:32:58]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[02:32:59]EMOTE: human/ : <B>The human</B> screams!
+[02:33:35]EMOTE: human/ : <B>The human</B> is having trouble keeping their eyes open.
+[02:33:51]ADMIN: Catratcat/(Morgan Bickerson) healed / revived *no client*/(human)
+[02:33:52]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[02:33:54]EMOTE: human/ : <B>The human</B> screams!
+[02:34:10]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[02:34:12]EMOTE: human/ : <B>The human</B> screams!
+[02:34:12]EMOTE: human/ : <B>The human</B> collapses!
+[02:34:28]ACCESS: Logout: *no client*/(Morgan Bickerson)
+[02:34:28]ACCESS: Login: catratcat/(human) from 127.0.0.1-3781439013 || BYOND v498
+[02:34:28]ADMIN: *no client*/(Morgan Bickerson) assumed direct control of the human.
+[02:34:39]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[02:34:48]ADMIN: catratcat/(human) healed / revived catratcat/(human)
+[02:34:49]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[02:34:54]ADMIN: ATTACK: the human (catratcat) shot Morgan Bickerson () with the Bullet.
+[02:34:56]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> screams!
+[02:34:56]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[02:34:57]ACCESS: Logout: *no client*/(human)
+[02:34:57]ACCESS: Login: catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[02:34:57]ADMIN: *no client*/(human) assumed direct control of Morgan Bickerson.
+[02:35:00]EMOTE: human/ : <B>The human</B> snores.
+[02:35:04]EMOTE: human/ : <B>The human</B> snores.
+[02:35:10]EMOTE: human/ : <B>The human</B> snores.
+[02:35:31]EMOTE: human/ : <B>The human</B> snores.
+[02:35:32]EMOTE: Morgan Bickerson/catratcat : <B>Morgan Bickerson</B> is having trouble keeping their eyes open.
+[02:35:34]EMOTE: human/ : <B>The human</B> snores.
+[02:35:48]EMOTE: human/ : <B>The human</B> snores.
+[02:35:56]EMOTE: human/ : <B>The human</B> snores.
+[02:35:57]ACCESS: Logout: catratcat/(Morgan Bickerson)
+
+
+Starting up. 02:39.16
+---------------------
+
+[02:39:16]ADMIN: Loading jobban_rank
+[02:39:16]ADMIN: jobban_keylist was empty
+[02:39:16]ADMIN: Updating jobbanfile!
+[02:39:16]ADMIN: Loading Banlist
+Reading donators.txt
+[02:39:20]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[02:39:20]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[02:39:31]ADMIN: Catratcat has started the game.
+[02:39:32]ACCESS: Logout: *no client*/(Catratcat)
+[02:39:32]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[02:39:42]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[02:39:50]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[02:39:52]EMOTE: human/ : <B>The human</B> screams!
+[02:40:28]EMOTE: human/ : <B>The human</B> is having trouble keeping their eyes open.
+[02:40:28]ACCESS: Logout: Catratcat/(Morgan Bickerson)
+
+
+Starting up. 02:47.48
+---------------------
+
+[02:47:48]ADMIN: Loading jobban_rank
+[02:47:48]ADMIN: jobban_keylist was empty
+[02:47:48]ADMIN: Updating jobbanfile!
+[02:47:48]ADMIN: Loading Banlist
+Reading donators.txt
+[02:48:52]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[02:48:52]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[02:49:00]ADMIN: Catratcat has started the game.
+[02:49:01]ACCESS: Logout: *no client*/(Catratcat)
+[02:49:01]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[02:49:15]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[02:49:23]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[02:49:25]EMOTE: human/ : <B>The human</B> screams!
+[02:50:01]EMOTE: human/ : <B>The human</B> is having trouble keeping their eyes open.
+[02:50:11]ACCESS: Logout: Catratcat/(Morgan Bickerson)
+
+
+Starting up. 02:54.05
+---------------------
+
+[02:54:05]ADMIN: Loading jobban_rank
+[02:54:05]ADMIN: jobban_keylist was empty
+[02:54:05]ADMIN: Updating jobbanfile!
+[02:54:05]ADMIN: Loading Banlist
+Reading donators.txt
+[02:54:34]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[02:54:34]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[02:54:43]ADMIN: Catratcat has started the game.
+[02:54:44]ACCESS: Logout: *no client*/(Catratcat)
+[02:54:44]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[02:54:54]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[02:54:55]ADMIN: Catratcat/(Morgan Bickerson) has denied the shuttle to be called.
+[02:55:03]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[02:55:05]EMOTE: human/ : <B>The human</B> screams!
+[02:55:41]EMOTE: human/ : <B>The human</B> is having trouble keeping their eyes open.
+[02:56:01]ACCESS: Logout: Catratcat/(Morgan Bickerson)
+
+
+Starting up. 03:06.24
+---------------------
+
+[03:06:24]ADMIN: Loading jobban_rank
+[03:06:24]ADMIN: jobban_keylist was empty
+[03:06:24]ADMIN: Updating jobbanfile!
+[03:06:24]ADMIN: Loading Banlist
+Reading donators.txt
+[03:06:45]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[03:06:45]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[03:06:52]ADMIN: Catratcat has started the game.
+[03:06:55]ADMIN: Catratcat has started the game.
+[03:06:56]ACCESS: Logout: *no client*/(Catratcat)
+[03:06:56]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[03:07:04]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[03:07:13]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[03:07:15]EMOTE: human/ : <B>The human</B> screams!
+[03:07:51]EMOTE: human/ : <B>The human</B> is having trouble keeping their eyes open.
+[03:07:56]ACCESS: Logout: Catratcat/(Morgan Bickerson)
+
+
+Starting up. 03:14.36
+---------------------
+
+[03:14:36]ADMIN: Loading jobban_rank
+[03:14:36]ADMIN: jobban_keylist was empty
+[03:14:36]ADMIN: Updating jobbanfile!
+[03:14:36]ADMIN: Loading Banlist
+Reading donators.txt
+[03:15:10]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[03:15:10]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[03:15:19]ADMIN: Catratcat has started the game.
+[03:15:19]ACCESS: Logout: *no client*/(Catratcat)
+[03:15:19]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[03:15:32]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[03:15:42]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[03:15:43]EMOTE: human/ : <B>The human</B> screams!
+[03:16:19]EMOTE: human/ : <B>The human</B> is having trouble keeping their eyes open.
+[03:16:20]ACCESS: Logout: Catratcat/(Morgan Bickerson)
+
+
+Starting up. 22:40.38
+---------------------
+
+[22:40:38]ADMIN: Loading jobban_rank
+[22:40:38]ADMIN: jobban_keylist was empty
+[22:40:38]ADMIN: Updating jobbanfile!
+[22:40:38]ADMIN: Loading Banlist
+Reading donators.txt
+[22:40:53]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[22:40:53]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[22:41:00]ADMIN: Catratcat has started the game.
+[22:41:00]ACCESS: Logout: *no client*/(Catratcat)
+[22:41:00]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[22:41:11]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[22:41:23]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[22:41:51]ADMIN: Catratcat/(Morgan Bickerson) deleted the Bullet at (43,47,2)
+[22:41:52]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[22:41:57]ACCESS: Logout: *no client*/(Morgan Bickerson)
+[22:41:57]ACCESS: Login: catratcat/(human) from 127.0.0.1-3781439013 || BYOND v498
+[22:41:57]ADMIN: *no client*/(Morgan Bickerson) assumed direct control of the human.
+[22:42:05]ADMIN: catratcat/(human) deleted the Bullet at (43,45,2)
+[22:42:21]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:42:24]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:42:33]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:42:56]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:43:01]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:43:26]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:43:27]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:43:41]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:43:56]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:44:19]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:44:25]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:44:39]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:44:47]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:44:48]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:44:54]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:45:18]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:45:58]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[22:46:16]EMOTE: human/catratcat : <B>The human</B> stops breathing...
+[22:46:22]ACCESS: Logout: catratcat/(human)
+
+
+Starting up. 23:18.11
+---------------------
+
+[23:18:11]ADMIN: Loading jobban_rank
+[23:18:11]ADMIN: jobban_keylist was empty
+[23:18:11]ADMIN: Updating jobbanfile!
+[23:18:11]ADMIN: Loading Banlist
+Reading donators.txt
+[23:18:15]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1-3781439013 || BYOND v498
+[23:18:15]ACCESS: Login: Catratcat/(Catratcat) from 127.0.0.1
+[23:18:26]ADMIN: Catratcat has started the game.
+[23:18:26]ACCESS: Logout: *no client*/(Catratcat)
+[23:18:26]ACCESS: Login: Catratcat/(Morgan Bickerson) from 127.0.0.1-3781439013 || BYOND v498
+[23:18:35]ADMIN: Catratcat/(Morgan Bickerson) created a /mob/living/carbon/human
+[23:18:51]ADMIN: Catratcat/(Morgan Bickerson) changed the equipment of Catratcat/(Morgan Bickerson) to metropolis police.
+[23:19:00]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[23:19:09]ADMIN: ATTACK: Morgan Bickerson (catratcat) shot the human () with the Bullet.
+[23:19:21]ACCESS: Logout: *no client*/(Morgan Bickerson)
+[23:19:21]ACCESS: Login: catratcat/(human) from 127.0.0.1-3781439013 || BYOND v498
+[23:19:21]ADMIN: *no client*/(Morgan Bickerson) assumed direct control of the human.
+[23:19:21]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:19:40]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:19:41]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:19:48]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:20:06]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:20:24]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:20:26]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:20:30]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:20:34]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:20:44]ADMIN: catratcat/(human) jumped to 41,42,2 in Street
+[23:20:56]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:20:57]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:20:58]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:21:09]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:21:46]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:22:32]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:22:35]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:22:50]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:22:52]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:22:53]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:23:11]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:23:14]EMOTE: human/catratcat : <B>The human</B> screams!
+[23:23:20]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:23:43]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:23:48]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:23:51]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:23:55]ADMIN: catratcat/(human) dealt -60 amount of brute damage to the human 
+[23:23:59]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:24:04]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:24:23]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:24:47]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:25:07]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:25:09]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:25:20]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:25:23]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:26:13]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:26:25]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[23:26:36]ACCESS: Logout: catratcat/(human)
+[00:16:09]ACCESS: Login: Catratcat/(human) from 127.0.0.1-3781439013 || BYOND v498
+[00:16:10]ACCESS: Login: Catratcat/(human) from 127.0.0.1
+[00:16:14]EMOTE: Morgan Bickerson/ : <B>Morgan Bickerson</B> snores.
+[00:16:19]ACCESS: Logout: Catratcat/(human)

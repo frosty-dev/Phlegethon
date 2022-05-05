@@ -1,0 +1,29 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [00:11:33]<font color='orange'> Attacked by Arnie Baker (jolt96) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 0, 7, 0 | [00:10:20] <font color='orange'>Has had their pockets emptied by Samuel (panchoys)</font>
+Explosion | The Engineering Control | -1, -1, 1, 2
+Death | Engineering Construction Storage | 0, 170.6, 13, 0 | [00:22:56] <font color='orange'>Has been thrown by Unknown (epicjoe)</font>
+Death | The Kitchen | 0, 5, 44, 0 | [00:24:58] <b>Unknown/epicjoe</b> shot <b>Unknown as (Fenton Baskett)/eggman1945</b> point blank with a <b>the Handy MK2</b>
+Death | The Kitchen | 0, 55, 0, 0 | [00:24:25] <font color='orange'>Has had their back item removed by Unknown (epicjoe)</font>
+Death | The Quartermasters | 0, 23, 0, 0 | [00:25:55] <b>Unknown/epicjoe</b> shot <b>Unknown as (Urist Zahodethal)/marcusaga</b> point blank with a <b>the Handy MK2</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 32, 0, 0 | [00:15:06] <font color='orange'>Has had their shoes removed by Fenton Baskett (eggman1945)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 20, 100, 0 | [00:36:28] <font color='orange'>Has had their hat removed by Trip Hussain (teethy)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Medical Research | 0, 148.9, 0, 0 | [00:40:01]<font color='orange'> Attacked by Fenton Baskett (epicjoe) with L-Ferus .50 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 56, 40, 0 | [00:36:28] <font color='red'>Attempted to remove Unknown's (jolt96) hat</font>
+Death | The Kitchen | 0, 6, 0, 0 | [00:41:47] <b>Fenton Baskett/epicjoe</b> shot <b>Urist Zahodethal/dragoner408</b> point blank with a <b>the Handy MK2</b>
+Death | The Quartermasters | 0, 26, 0, 0 | [00:42:31] <font color='orange'>Has had their belt item removed by Fenton Baskett (epicjoe)</font>
+Death | The Central Primary Hallway | 0, 11, 13, 0 | [00:43:44] <b>Fenton Baskett/epicjoe</b> shot <b>Unknown/jolt96</b> point blank with a <b>the Handy MK2</b>
+Death | The Kitchen | 0, 25, 0, 0 | [00:43:36] <b>Fenton Baskett/epicjoe</b> shot <b>Unknown/dragoner408</b> point blank with a <b>the Handy MK2</b>
+Death | The Central Primary Hallway | 0, 5, 51, 0 | [00:48:09] <b>Unknown/jolt96</b> shot <b>Brian Owl Hoover/eggman1945</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 33, 0, 0 | [00:48:37]<font color='orange'> Attacked by Fenton Baskett (epicjoe) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 33, 0, 0 | [00:48:38]<font color='orange'> Attacked by Fenton Baskett (epicjoe) with scalpel (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 42, 0, 0
+Death | The Central Primary Hallway | 0, 5, 0, 0 | [00:53:15] <b>Fenton Baskett/epicjoe</b> shot <b>Unknown/jolt96</b> with a <b>the Bullet</b>

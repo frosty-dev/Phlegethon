@@ -1,0 +1,2 @@
+Death | The Quartermasters | 0, 77, 0, 0 | [23:33:32]<font color='orange'> Attacked by Morgan Bickerson (catratcat) with screwdriver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 144, 0, 0 | [23:51:32]<font color='orange'> Attacked by Morgan Bickerson (catratcat) with hammer (INTENT: HELP) (DAMTYE: BRUTE)</font>

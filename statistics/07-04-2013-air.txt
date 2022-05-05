@@ -1,0 +1,13 @@
+"The Cafeteria",21.8366,82.1472,0,0,293.15,250000
+"The Dormitories",21.8366,82.1472,0,0,293.15,15000
+"The Theatre",21.8366,82.1472,0,0,293.15,5000
+"The Dormitories",21.8366,82.1472,0,0,293.15,2500
+"The Quartermasters",21.8366,82.1472,0,0,293.15,2500
+"The Escape Pod One",21.8366,82.1472,0,0,293.15,5000
+"The Security Lobby",21.8366,82.1472,0,0,293.15,12500
+"The Escape Pod One",21.8366,82.1472,0,0,293.15,2500
+"The Quartermasters",21.8366,82.1472,0,0,293.15,2500
+"Engineering Construction Storage",21.8366,82.1472,0,0,293.15,2500
+"The Security Lobby",21.8366,82.1472,0,0,293.15,2500
+"The Quartermasters",21.8366,82.1472,0,0,293.15,5000
+"The Escape Pod One",21.8366,82.1472,0,0,293.15,2500

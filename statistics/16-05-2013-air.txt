@@ -1,0 +1,11 @@
+"Medical Research",21.8366,82.1472,0,0,293.15,5000
+"Engineering Construction Storage",21.8366,82.1472,0,0,293.15,2500
+"The Quartermasters",21.8366,82.1472,0,0,293.15,2500
+"The Security Lobby",21.8366,82.1472,0,0,293.15,2500
+"The Quartermasters",21.8101,82.0476,0,0,293.15,127500
+"Engineering Construction Storage",21.8366,82.1472,0,0,293.15,2500
+"Medbay",21.8366,82.1472,0,0,293.15,5000
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500
+"The Centcom Living Quarters",3.46021e-005,3.46021e-005,0,0,293.15,722500
+"The Quartermasters",21.8366,82.1472,0,0,293.15,5000
+"The Dormitories",21.8366,82.1472,0,0,293.15,82500

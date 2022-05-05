@@ -1,0 +1,36 @@
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 6, 0, 0 | [18:00:23]<font color='orange'> Attacked by Scotty Scott (vovanhur) with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Library | 0, 138, 0, 0 | [18:06:08] <font color='orange'>Has had their neck grabbed by Fitz Pritchard (jinrairecon)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 171.9, 0 | [18:03:31] <font color='red'>Attempted to empty Unknown's () pockets</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Dormitories | 0, 4, 0, 0 | [18:11:40]<font color='orange'> Attacked by Unknown (linnlarove) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 41, 0, 0
+Death | Sewers | 0, 0, 80.4, 0 | [18:14:37]<font color='orange'> Attacked by Johnny Bicknell (lacsuos) with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 4, 0, 0 | [18:17:15]<font color='orange'> Attacked by Unknown (linnlarove) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 0, 0, 0
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 81, 0, 0 | [18:27:48] <b>Unknown/encocz</b> shot <b>Unknown/catratcat</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 171.3, 0, 0 | [18:30:32]<font color='orange'> Attacked by Vinny Mason (lacsuos) with stone (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 14, 17.8, 0 | [18:32:13]<font color='orange'> Attacked by Kharn (alienreaper) with large pipe (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 5, 0, 0 | [18:33:40]<font color='orange'> Attacked by Unknown (linnlarove) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 99, 0, 0 | [18:26:46] <font color='red'>Attempted to remove Richard Hunter's (dnivji) back item</font>
+Death | The Cafeteria | 0, 1, 0, 0 | [18:34:45]<font color='orange'> Attacked by Unknown (linnlarove) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [18:39:16] <b>Unknown/linnlarove</b> shot <b>Unknown/zazaby</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 56.9, 6, 19, 0 | [18:40:51]<font color='orange'> Attacked by Unknown (linnlarove) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 19.2, 41, 6, 0 | [18:46:27] <font color='orange'>Has had their left ear item removed by Scotty Scott (vovanhur)</font>
+Death | The Escape Pod One | 0, 0, 26, 0 | [18:49:52]<font color='orange'> Attacked by Scotty Scott (vovanhur) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Street | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | Street | 0, 0, 0, 0

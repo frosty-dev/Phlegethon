@@ -1,0 +1,54 @@
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 1, 0, 0
+Death | The Security Lobby | 0, 1, 0, 0 | [21:53:36]<font color='orange'> Attacked by Corey Heckendora (redomine) with nailed bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 3, 0, 0 | [21:57:18]<font color='orange'> Attacked by John Bolon (epicjoe) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Dormitories | 53.1, 34, 0, 0 | [21:58:03] <font color='orange'>Has had their pockets emptied by Unknown (gvardota)</font>
+Death | Engineering Construction Storage | 0, 84, 0, 0 | [21:58:50] <font color='orange'>Has had their pockets emptied by Corey Heckendora (redomine)</font>
+Death | The Security Lobby | 0, 0, 0, 0 | [22:01:58] <b>John Bolon/epicjoe</b> shot <b>Unknown/redomine</b> point blank with a <b>the Handy MK2</b>
+Death | The Cafeteria | 0, 11, 0, 0 | [22:05:01]<font color='orange'> Attacked by Brian Owl Hoover (eggman1945) with sharpening (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 0, 0, 0 | [22:04:54] <font color='orange'>Has had their shoes removed by Rick Smith as (Graham Maclagan) (tima33)</font>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [22:09:35] <font color='orange'>Has been punched by Unknown (airenjon)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [22:11:42] <b>John Bolon/epicjoe</b> shot <b>Unknown/airenjon</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 10, 0, 0 | [22:31:50]<font color='orange'> Attacked by Brian Owl Hoover (eggman1945) with sharpening (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 0, 0, 0 | [22:33:00] <font color='orange'>Has had their left ear item removed by Rick Smith as (Graham Maclagan) (tima33)</font>
+Death | The Cafeteria | 0, 125.5, 125.6, 0 | [22:30:21] <font color='orange'>Has been thrown by John Bolon (epicjoe)</font>
+Death | Engineering Construction Storage | 53.8, 41, 3, 0 | [22:31:41]<font color='red'> Attacked Unknown (epicjoe) with bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 162.1, 16, 0 | [22:34:05] <b>Take Adams/diustin</b> shot <b>Brian Owl Hoover/eggman1945</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 50, 0, 0 | [22:00:48] <font color='orange'>Has had their uniform removed by Unknown (airenjon)</font>
+Death | Engineering Construction Storage | 0, 50, 3, 0
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | Medical Research | 34.2, 8, 0, 30 | [23:00:50]<font color='orange'> Attacked by Mike Mizanin (abakan) with bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Theatre | 0, 7, 0, 0 | [23:01:26] <b>Lea Moretta/epicjoe</b> shot <b>Unknown/panchoys</b> point blank with a <b>the Tomcat SMG</b>
+Death | Engineering Construction Storage | 0, 2, 2.4, 0 | [23:04:00]<font color='orange'> Attacked by Ron Stewart (arlim) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 6, 0, 0 | [23:05:10] <b>Unknown/gvardota</b> shot <b>Unknown as (Stan Hoover)/eggman1945</b> point blank with a <b>Nipper MK1</b>
+Death | Engineering Construction Storage | 0, 47, 105, 0
+Death | Engineering Construction Storage | 0, 2, 0, 0 | [23:15:36]<font color='orange'> Attacked by Paul Torhold (panchoys) with kitchen knife (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 13.5, 7, 0, 14 | [23:18:01]<font color='orange'> Attacked by Brian Owl Hoover as (Take Adams) (eggman1945) with butcher's cleaver (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Cafeteria | 0, 27, 130.3, 0 | [23:20:04] <font color='orange'>Has had their pockets emptied by Lea Moretta (panchoys)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [23:26:50] <b>Holden Tennant/1cogwheel1</b> shot <b>Brian Owl Hoover as (Take Adams)/eggman1945</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [23:26:50] <b>Ron Stewart/arlim</b> shot <b>Unknown/dezer</b> with a <b>the Fire Bullet</b>
+Death | The Engineering Control | 0, 110, 0, 0 | [23:26:12] <b>John Winters/mikdevochkin</b> shot <b>Unknown/fiodoss</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 125, 114.9, 0 | [23:15:17] <font color='orange'>Has been thrown by Paul Torhold (panchoys)</font>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 40, 0, 0 | [23:30:00] <b>Werner Diels/gvardota</b> shot <b>John Winters/mikdevochkin</b> point blank with a <b>Hamlet SMG</b>
+Death | The Central Primary Hallway | 0, 35, 0, 0 | [23:30:05] <b>Werner Diels/gvardota</b> shot <b>Tom Jones/oleolegka</b> point blank with a <b>Hamlet SMG</b>
+Death | The Central Primary Hallway | 0, 1, 0, 0 | [23:30:21] <b>Werner Diels/gvardota</b> shot <b>Lea Moretta/epicjoe</b> point blank with a <b>the Tomcat SMG</b>
+Death | The Central Primary Hallway | 0, 125, 0, 0 | [23:29:43] <b>Lea Moretta/epicjoe</b> shot <b>Mike Mizanin/abakan</b> point blank with a <b>the Tomcat SMG</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Cafeteria | 0, 0, 0, 0 | [23:46:13] <b>Unknown/epicjoe</b> shot <b>ArvenRaven Greem/arlim</b> point blank with a <b>the Handy MK2</b>
+Death | The Cafeteria | 0, 0, 0, 0 | [23:47:00] <b>ArvenRaven Greem/epicjoe</b> shot <b>Jasper Scott/mikdevochkin</b> point blank with a <b>the Handy MK2</b>
+Explosion | The Library | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 16, 0, 0 | [23:53:17] <font color='orange'>Has had their hat removed by Unknown (dezer)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2

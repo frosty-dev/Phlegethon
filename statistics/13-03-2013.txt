@@ -1,0 +1,20 @@
+Death | The Central Primary Hallway | 0, 5, 0, 0 | [00:00:34]<font color='red'> Attacked Unknown (thelocust) with Handy MK2 (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Kitchen | 0, 6, 0, 0 | [00:15:28]<font color='orange'> Attacked by Zip Gunn (camer) with Nipper MK1 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Kitchen | 0, 57, 0, 0 | [00:15:28]<font color='red'> Attacked Ivan Bizon (bohals) with Nipper MK1 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 6, 0, 0 | [00:28:09]<font color='orange'> Attacked by John Bolon (epicjoe) with hammer (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [00:36:50] <b>John Bolon/epicjoe</b> shot <b>Joshua Kifer/chachka</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [00:37:10]<font color='orange'> Attacked by Johnny Cooper (silentium) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [00:37:14] <b>John Bolon/epicjoe</b> shot <b>Unknown/gvardota</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Engineering Control | 0, 0, 0, 0 | [00:43:52] <b>John Bolon as (Block Boberts)/epicjoe</b> shot <b>Unknown/dezer</b> with a <b>the Bullet</b>
+Death | The Engineering Control | 0, 69, 0, 0 | [00:46:25] <font color='orange'>Has had their eyewear removed by John Bolon as (Block Boberts) (epicjoe)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [00:49:38] <b>John Bolon as (Block Boberts)/epicjoe</b> shot <b>Unknown as (Mister Squidish)/dezer</b> point blank with a <b>Sleuth DS</b>
+Death | The Engineering Control | 0, 21, 0, 0 | [00:51:08] <font color='orange'>Has had their pockets emptied by John Bolon as (Block Boberts) (epicjoe)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [00:52:14] <b>John Bolon as (Block Boberts)/epicjoe</b> shot <b>Unknown as (Johnny Cooper)/silentium</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Explosion | The Central Primary Hallway | -1, -1, 2, 2
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The supply shuttle | 0, 14, 21, 0 | [00:56:51] <b>Ivan Bizon/camer</b> shot <b>Trey Liam/doublerandysandy</b> with a <b>the lead</b>
+Death | The Engineering Control | 0, 0, 0, 0 | [00:59:34] <b>Johnny Cooper/silentium</b> shot <b>Unknown as (Block Boberts)/epicjoe</b> point blank with a <b>the Handy MK2</b>
+Death | The Central Primary Hallway | 72, 0, 18, 0 | [01:03:08] <b>Ivan Bizon/camer</b> shot <b>Unknown/gvardota</b> with a <b>the lead</b>

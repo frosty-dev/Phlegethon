@@ -1,0 +1,6 @@
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500
+"The Engineering Control",21.8366,82.1472,0,0,293.15,2500
+"Medical Research",21.8366,82.1472,0,0,293.15,135000
+"The Dormitories",21.8366,82.1472,0,0,293.15,15000
+"The Cafeteria",21.8366,82.1472,0,0,293.15,250000
+"The Escape Pod One",21.8366,82.1472,0,0,293.15,2500

@@ -1,0 +1,43 @@
+Explosion | Medbay | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Engineering Control | 0, 0, 0, 0 | [22:16:09] <b>Cletus Moore/catratcat</b> shot <b>the human/</b> with a <b>the explosive bolt</b>
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Engineering Control | 0, 0, 0, 0 | [22:16:45] <b>Cletus Moore/catratcat</b> shot <b>the human/</b> with a <b>the explosive bolt</b>
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Engineering Control | 0, 39, 0, 0 | [22:16:20] <b>Cletus Moore/catratcat</b> shot <b>the human/</b> with a <b>the explosive bolt</b>
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Engineering Control | 0, 39, 0, 0 | [22:17:42] <b>Cletus Moore/catratcat</b> shot <b>the human/</b> with a <b>the explosive bolt</b>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Kitchen | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Engineering Control | 0, 15, 0, 0 | [23:14:00] <b>Paul Orwin/zoomerik</b> shot <b>the human/</b> with a <b>the explosive bolt</b>
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Engineering Control | 0, 0, 0, 0 | [23:14:29] <b>Cletus Moore/catratcat</b> shot <b>the human/</b> with a <b>the explosive bolt</b>
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Engineering Control | 0, 0, 0, 0 | [23:15:39] <b>Paul Orwin/zoomerik</b> shot <b>the human/</b> with a <b>the explosive bolt</b>
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Kitchen | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [23:22:34] <b>Paul Orwin/zoomerik</b> shot <b>Cletus Moore/catratcat</b> with a <b>the explosive bolt</b>
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Explosion | Engineering | -1, 0, 2, 
+Explosion | Engineering | -1, 0, 2, 
+Explosion | Engineering | -1, 0, 2, 
+Death | Engineering | 0, 0, 0, 0 | [23:29:51] <b>Noah Webb/suntie</b> shot <b>Unknown/zoomerik</b> with a <b>the Bullet</b>

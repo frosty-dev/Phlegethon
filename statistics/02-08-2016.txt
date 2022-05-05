@@ -1,0 +1,30 @@
+Death | Sewers | 0, 2, 0, 0 | [11:22:21]<font color='orange'> Attacked by Carl Atkinson (apopheosis) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 30.6, 0, 92.7999, 0 | [11:33:00]<font color='orange'> Attacked by Unknown (chrisik) with hammer (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Dormitories | 45.2, 33, 0, 0 | [11:29:17]<font color='red'> Attacked Unknown () with scout (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 0, 0, 0 | [11:33:00]<font color='red'> Attacked Carl Atkinson (apopheosis) with hammer (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 71, 0, 0 | [11:46:32]<font color='orange'> Attacked by Jude King (apopheosis) with kitchen knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | The Quartermasters | -1, 0, 2, 
+Death | The Quartermasters | 0, 110, 46.2, 0 | [11:46:35] <font color='orange'>Has been handcuffed (attempt) by Atarabashi Nihondzin (editorrus)</font>
+Death | Street | 0, 0, 100, 0
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, 0, 2, 
+Explosion | Street | -1, 0, 2, 
+Death | Sewers | 0, 24, 0, 0 | [12:03:16]<font color='orange'> Attacked by Unknown (aidff) with wirecutters (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 2, 0, 0 | [12:04:10]<font color='orange'> Attacked by Unknown (apopheosis) with circular saw (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 181.2, 0, 0 | [12:06:34]<font color='orange'> Attacked by Holden Isemann (palputin) with metal rods (INTENT: GRAB) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 24, 0, 146.318
+Death | Sewers | 0, 35, 0, 0 | [12:09:30]<font color='orange'> Attacked by Garri Papetuhen (aidff) with shard (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 33, 0, 137.934
+Death | The Dormitories | 17.8, 0, 0, 0 | [12:19:57] <b>Unknown/apopheosis</b> shot <b>Garri Papetuhen/aidff</b> with a <b>the Fire Bullet</b>
+Death | Street | 24.8, 21, 16, 0 | [12:17:39]<font color='red'> Attacked Garri Papetuhen (aidff) with makeshift hatchet (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 35, 40.8001, 0 | [12:24:58] <font color='orange'>Has been fed Bicaridine pill by Atarabashi Nihondzin as (Zackary Losey) (editorrus) Reagents: [0x21004cd0]</font>
+Death | The Escape Pod One | 0, 0, 27.2, 0 | [12:40:39] <b>Atarabashi Nihondzin as (Zackary Losey)/editorrus</b> shot <b>Atarabashi Nihondzin as (Zackary Losey)/editorrus</b> point blank with a <b>Sleuth DS</b>

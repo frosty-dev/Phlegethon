@@ -1,0 +1,106 @@
+Death | The Quartermasters | 0, 54, 0, 0 | [00:02:33]<font color='orange'> Attacked by Jed Barnes (danteru) with Trencher MK2 (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [00:06:58]<font color='orange'> Attacked by Unknown (dnivji) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | Engineering Construction Storage | -1, 0, 2, 
+Death | Engineering Construction Storage | 0, 12, 0, 0 | [00:12:00]<font color='orange'> Attacked by Bunt Broten (dezer) with fire extinguisher (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Engineering Control | 0, 0, 0, 0 | [00:12:11]<font color='orange'> Attacked by Unknown (dnivji) with butcher's cleaver (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering Construction Storage | 0, 41, 0, 0 | [00:12:48] <font color='orange'>Has had their ID removed by Bunt Broten (dezer)</font>
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Central Primary Hallway | 400, 0, 0, 0 | [00:17:50] <b>Bunt Broten as (Hugo Hirleman)/dezer</b> shot <b>the necroid venator (963)/epicjoe</b> with a <b>the Bullet</b>
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Explosion | The Engineering Control | -1, 0, 2, 
+Death | The Engineering Control | 486, 0, 0, 312 | [00:18:04] <b>Bunt Broten as (Hugo Hirleman)/dezer</b> shot <b>the necroid venator (680)/1cogwheel1</b> with a <b>the Bullet</b>
+Explosion | Engineering Construction Storage | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:25:51] <b>Oblucheny/epicjoe</b> shot <b>Unknown as (Hugo Hirleman)/dezer</b> point blank with a <b>Hamlet SMG</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:25:58] <b>Oblucheny/epicjoe</b> shot <b>Unknown/gvardota</b> with a <b>the Bullet</b>
+Death | Engineering Construction Storage | 0, 0, 0, 0 | [00:27:04] <b>Unknown/dnivji</b> shot <b>Unknown/oleolegka</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 0, 6, 0 | [00:31:37] <b>the monkey (989)/chachka</b> shot <b>Unknown/dnivji</b> with a <b>the Bullet</b>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:03]<font color='orange'> Attacked by Unknown (chrisik) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:04]<font color='orange'> Attacked by Unknown (chrisik) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:05]<font color='orange'> Attacked by Unknown (chrisik) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:07]<font color='orange'> Attacked by Unknown (chrisik) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:07]<font color='orange'> Attacked by Unknown (chrisik) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Centcom | 0, 4, 0, 0 | [00:35:09]<font color='orange'> Attacked by Unknown (chrisik) with knife (INTENT: DISARM) (DAMTYE: BRUTE)</font>

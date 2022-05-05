@@ -1,0 +1,76 @@
+Explosion | Sewers | -1, -1, 2, 2
+Death | Engineering | 0, 0, 0, 0 | [13:38:29]<font color='orange'> Attacked by Manuel Mcintosh (apopheosis) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 36, 0, 0 | [13:41:16]<font color='orange'> Attacked by Alex Wood (ghoststalin) with nailed bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 0, 0 | [13:47:40] <b>Manuel Mcintosh/apopheosis</b> shot <b>Adrian Shaw/seel112</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 11, 0, 0 | [13:48:30]<font color='orange'> Attacked by Alex Wood (ghoststalin) with nailed bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [13:50:17]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with fire extinguisher (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [13:54:03] <b>Manuel Mcintosh/apopheosis</b> shot <b>Jaden Vader/invaser777</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 0, 49, 0
+Death | The Quartermasters | 0, 0, 111.4, 0 | [13:49:09] <font color='red'>Attempted to remove Unknown's (drvod) left ear item</font>
+Death | Street | 0, 0, 87.5, 0 | [13:54:12] <font color='red'>Attempted to empty Jaden Vader's (invaser777) pockets</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 0, 0 | [14:00:50]<font color='orange'> Attacked by Corey Wible (invaser777) with stone (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 2, 0, 0 | [14:02:13]<font color='orange'> Attacked by Corey Wible (invaser777) with stone (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 33, 0, 138.033
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 2, 0, 0 | [14:04:14]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with makeshift hatchet (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Medical Research | 0, 0, 0, 0 | [14:05:50]<font color='orange'> Attacked by Alex Wood as (Lorde Fryer) (ghoststalin) with nailed bat (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 33, 0, 138.057
+Death | Sewers | 0, 1, 0, 0 | [14:06:50]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with brass knuckle (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 43, 0, 0 | [14:08:11] <font color='orange'>Has been punched by Elliott Johnson as (Charlie Raub) (neonmaniac)</font>
+Death | Street | 0, 10, 0, 0 | [14:10:58]<font color='orange'> Attacked by Corey Wible (invaser777) with knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Engineering | 0, 0, 0, 0 | [14:11:31] <b>Alex Wood as (Lorde Fryer)/ghoststalin</b> shot <b>Evan Anderson/wajtswv</b> with a <b>the Bullet</b>
+Death | Street | 0, 0, 92.8, 0 | [14:11:20] <font color='red'>Attempted to remove Unknown's () hat</font>
+Death | Engineering | 0, 0, 0, 0 | [14:13:55] <b>Alex Wood as (Lorde Fryer)/ghoststalin</b> shot <b>Unknown/apopheosis</b> with a <b>the lead</b>
+Death | Engineering | 0, 2, 0, 0 | [14:14:21]<font color='orange'> Attacked by Alex Wood as (Lorde Fryer) (ghoststalin) with nailed bat (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 0, 0 | [14:16:19] <b>Alex Wood as (Lorde Fryer)/ghoststalin</b> shot <b>Allen Hawkins/grib123</b> with a <b>the lead</b>
+Death | Sewers | 0, 33, 0, 137.936
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Street | -1, 0, 2, 
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 3, 0, 0 | [14:19:46]<font color='orange'> Attacked by Brayan Shaner (wajtswv) with brick (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | The Quartermasters | 0, 0, 0, 0 | [14:21:07] <b>Lorde Fryer/ghoststalin</b> shot <b>Roman Thorley/leeroyjenkns</b> with a <b>the lead</b>
+Death | The Quartermasters | 28.5, 0, 40.4001, 0 | [14:21:14] <b>Lorde Fryer/ghoststalin</b> shot <b>Gratian Earl/truncated</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 34, 40, 0 | [14:18:39] <font color='red'>Attempted to remove Unknown's (invaser777) back item</font>
+Explosion | The Quartermasters | -1, 0, 2, 
+Explosion | The Quartermasters | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Death | The Quartermasters | 0, 1, 0, 0 | [14:24:13]<font color='orange'> Attacked by Lorde Fryer (ghoststalin) with chainsaw (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [14:26:05]<font color='orange'> Attacked by Lorde Fryer (ghoststalin) with chainsaw (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Death | Street | 0, 0, 129.9, 0 | [14:26:23] <font color='orange'>Has been punched by Elliott Callison (torsmerty)</font>
+Death | Sewers | 0, 34, 0, 136.205
+Death | Sewers | 0, 0, 105.7, 0
+Death | The Escape Pod One | 0, 0, 0, 0 | [14:29:43] <b>Lorde Fryer/ghoststalin</b> shot <b>Unknown/grib123</b> with a <b>the Bullet</b>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 1, 0, 0 | [14:35:08]<font color='orange'> Attacked by Atarabashi Nihondzin (editorrus) with bat (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 1, 0, 0 | [14:36:39] <b>Alex Wood/ghoststalin</b> shot <b>Felix Yeskey/apopheosis</b> with a <b>the lead</b>
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [14:37:10] <b>Alex Wood/ghoststalin</b> shot <b>Unknown/editorrus</b> with a <b>the Fire Bullet</b>
+Death | The Quartermasters | 0, 0, 0, 0 | [14:38:54] <b>Alex Wood as (Felix Yeskey)/ghoststalin</b> shot <b>Unknown/leeroyjenkns</b> with a <b>the lead</b>
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Cafeteria | 0, 0, 19, 0 | [14:54:31] <b>Unknown as (Felix Yeskey)/ghoststalin</b> shot <b>Unknown/editorrus</b> with a <b>the Bullet</b>
+Death | Street | 0, 0, 89.35, 0
+Death | Engineering | 85.3, 20, 0, 0 | [14:58:25]<font color='orange'> Attacked by Jacob Woodward (apopheosis) with brick (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | The Kitchen | -1, 0, 2, 
+Death | Sewers | 0, 0, 0, 0 | [14:54:31] <b>Unknown as (Felix Yeskey)/ghoststalin</b> shot <b>Unknown/editorrus</b> with a <b>the Bullet</b>
+Explosion | Street | -1, 0, 2, 
+Death | Space | 0, 0, 0, 0 | [14:56:14] <font color='red'>Attempted to remove Unknown as (Felix Yeskey)'s () ID</font>
+Death | Street | 0, 0, 0, 0
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Escape Pod One | 0, 1, 0, 0 | [15:08:45]<font color='orange'> Attacked by Jacob Woodward as (Robert Ratcat) (apopheosis) with Hamlet SMG (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Escape Pod One | 18.25, 1, 2, 0 | [15:09:01] <b>Jacob Woodward as (Robert Ratcat)/apopheosis</b> shot <b>Unknown/alexix1989</b> with a <b>the Bullet</b>
+Death | Space | 0, 0, 0, 0
+Death | Street | 0, 0, 59, 0
+Death | Sewers | 0, 27, 37.6, 0
+Death | The Escape Pod One | 0, 0, 0, 0
+Death | The Escape Pod One | 21, 0, 1, 0 | [15:09:01] <b>Jacob Woodward as (Robert Ratcat)/apopheosis</b> shot <b>Unknown/alexix1989</b> with a <b>the Bullet</b>
+Death | Street | 0, 0, 0, 0

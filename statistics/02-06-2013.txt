@@ -1,0 +1,55 @@
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, 0, 2, 
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Explosion | Sewers | -1, -1, 2, 2
+Death | Sewers | 0, 0, 67.4, 0 | [00:10:56]<font color='orange'> Attacked by Weston Burkett (nodos) with scalpel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 38, 24, 0
+Death | Sewers | 0, 0, 0, 0 | [00:22:03]<font color='orange'> Attacked by Weston Burkett (nodos) with scalpel (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | Sewers | 0, 0, 0, 0 | [00:22:17] <font color='red'>Attempted to remove Unknown's (hovenbeth) back item</font>
+Death | Street | 0, 0, 0, 0
+Death | Sewers | 0, 159, 0, 0
+Explosion | Sewers | -1, -1, 2, 2
+Death | The Kitchen | 0, 5, 0, 0 | [00:37:12] <b>Unknown/dezer</b> shot <b>Reaper/catratcat</b> with a <b>the lead</b>
+Explosion | The Kitchen | -1, 0, 2, 
+Death | The Quartermasters | 0, 35, 30.6, 29 | [00:35:55] <b>Reaper/catratcat</b> shot <b>Alexander Chernenko/sarumyn</b> with a <b>the Bullet</b>
+Death | Engineering | 0, 0, 0, 0 | [00:38:14]<font color='orange'> Attacked by Atarabashi Nihondzin as (Isaac Freeman) (editorrus) with butcher's cleaver (INTENT: DISARM) (DAMTYE: BRUTE)</font>
+Explosion | Sewers | -1, -1, 2, 2
+Death | Street | 0, 0, 0, 0 | [00:43:36] <b>Braden Bunten/vadkop</b> shot <b>Braden Bunten/dezer</b> with a <b>the Bullet</b>
+Death | Sewers | 0, 2, 0, 0 | [00:45:14] <b>Braden Bunten/vadkop</b> shot <b>Reap Ear/catratcat</b> point blank with a <b>Garand M1</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:46:48] <b>Atarabashi Nihondzin as (Isaac Freeman)/editorrus</b> shot <b>Braden Bunten/vadkop</b> point blank with a <b>Springfield A7</b>
+Death | The Library | 0, 0, 86.3, 0 | [00:41:42]<font color='red'> Attacked Unknown (hovenbeth) with crowbar (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Explosion | The Central Primary Hallway | -1, 0, 2, 
+Death | The Quartermasters | 0, 0, 0, 0 | [00:49:42] <b>John Bohren/catratcat</b> shot <b>Malachi Hujsak/rizus</b> with a <b>the Bullet</b>
+Explosion | The Kitchen | -1, 0, 2, 
+Explosion | The Kitchen | -1, 0, 2, 
+Explosion | The Kitchen | -1, 0, 2, 
+Explosion | The Kitchen | -1, 0, 2, 
+Death | Street | 43.5, 0, 15.4, 0 | [00:52:52] <b>Atarabashi Nihondzin as (Isaac Freeman)/editorrus</b> shot <b>Unknown/hovenbeth</b> point blank with a <b>Nipper MK1</b>
+Death | The Central Primary Hallway | 0, 140, 0, 0 | [00:55:37] <font color='orange'>Has had their pockets emptied by Unknown as (John Bohren) (catratcat)</font>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [00:59:01]<font color='orange'> Attacked by Unknown as (John Bohren) (catratcat) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
+Death | The Central Primary Hallway | 0, 4, 0, 0 | [00:59:22] <b>Braden Bunten/dezer</b> shot <b>Tyler News/ferriangardson</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 26, 42, 0 | [01:00:36] <b>Unknown as (John Bohren)/catratcat</b> shot <b>Alexander Chernenko/sarumyn</b> with a <b>the Bullet</b>
+Death | The Central Primary Hallway | 0, 0, 0, 0 | [01:00:55] <b>Braden Bunten/dezer</b> shot <b>Weston Burkett/nodos</b> with a <b>the Bullet</b>
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Death | The Central Primary Hallway | 139.2, 0, 0, 0 | [01:01:21] <b>Braden Bunten/dezer</b> shot <b>Unknown as (John Bohren)/catratcat</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 3, 0, 0 | [01:02:57] <b>Braden Bunten/dezer</b> shot <b>Alexander Chernenko/miton99</b> with a <b>the Bullet</b>
+Death | The Escape Pod One | 0, 5, 0, 0 | [01:03:25] <b>Braden Bunten/dezer</b> shot <b>Unknown as (Nipus Pigra)/camer</b> point blank with a <b>Trencher MK2</b>
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Escape Pod One | -1, 0, 2, 
+Explosion | The Centcom | -1, 0, 2, 
+Explosion | The Centcom | -1, 0, 2, 
+Death | The Centcom | 0, 0, 0, 0 | [01:06:26] <b>Braden Bunten/dezer</b> shot <b>Rico Red/vadkop</b> with a <b>the explosive bolt</b>
+Death | The Central Primary Hallway | 0, 5, 0, 0 | [01:06:37]<font color='orange'> Attacked by Jack as (John Bohren) (rizus) with balisong knife (INTENT: HURT) (DAMTYE: BRUTE)</font>
+Explosion | The Centcom | -1, 0, 2, 
+Explosion | The Centcom | -1, 0, 2, 
+Explosion | The Centcom | -1, 0, 2, 
+Explosion | The Centcom | -1, 0, 2, 
+Death | The Centcom | 0, 0, 0, 0 | [01:06:44] <b>Braden Bunten/dezer</b> shot <b>Rico Red/</b> with a <b>the explosive bolt</b>
+Death | The Central Primary Hallway | 0, 5, 0, 0 | [01:08:11]<font color='orange'> Attacked by Spike Echard (hovenbeth) with balisong knife (INTENT: HELP) (DAMTYE: BRUTE)</font>
