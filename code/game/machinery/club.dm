@@ -71,7 +71,7 @@
 	icon_state = "bcircuitoff"
 	New()
 		if(prob(10))
-			overlays << image (icon = 'structures.dmi', icon_state = "latticefull")
+			overlays << image (icon = 'icons/obj/structures.dmi', icon_state = "latticefull")
 /*
 /obj/machinery/club/player
 	name = "Player"
@@ -178,7 +178,7 @@
 
 
 /obj/effect/overlay/bluelight
-	icon = 'alert.dmi'
+	icon = 'icons/effects/alert.dmi'
 	icon_state = "lightblue"
 	mouse_opacity = 0
 	layer = 10

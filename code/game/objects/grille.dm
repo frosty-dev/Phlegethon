@@ -3,7 +3,7 @@
 /obj/structure/grille
 	desc = "A piece of metal with evenly spaced gridlike holes in it. Blocks large object but lets small items, gas, or energy beams through. Strangely enough these grilles also lets meteors pass through them, whether they be small or huge station breaking death stones."
 	name = "grille"
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "grille"
 	density = 1
 	anchored = 1.0
@@ -106,13 +106,13 @@
 	attackby(obj/item/weapon/W, mob/user)
 		if(iswirecutter(W))
 			if(!shock(user, 100))
-				playsound(src.loc, 'Wirecutter.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/wirecutter.ogg', 100, 1)
 				src.health = 0
 				if(!destroyed)
 					src.health = -100
 		else if ((isscrewdriver(W)) && (istype(src.loc, /turf/simulated) || src.anchored))
 			if(!shock(user, 90))
-				playsound(src.loc, 'Screwdriver.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/Screwdriver.ogg', 100, 1)
 				src.anchored = !( src.anchored )
 				user << (src.anchored ? "You have fastened the grille to the floor." : "You have unfastened the grill.")
 				for(var/mob/O in oviewers())
@@ -260,7 +260,7 @@
 /obj/structure/grille/vitrage1
 	desc = "A piece of metal with evenly spaced gridlike holes in it. Blocks large object but lets small items, gas, or energy beams through. Strangely enough these grilles also lets meteors pass through them, whether they be small or huge station breaking death stones."
 	name = "grille"
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "grille5_g"
 	density = 1
 	anchored = 1.0
@@ -271,7 +271,7 @@
 /obj/structure/grille/vitrage2
 	desc = "A piece of metal with evenly spaced gridlike holes in it. Blocks large object but lets small items, gas, or energy beams through. Strangely enough these grilles also lets meteors pass through them, whether they be small or huge station breaking death stones."
 	name = "grille"
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "grille1"
 	density = 1
 	anchored = 1.0
@@ -282,7 +282,7 @@
 /obj/structure/grille/vitrage3
 	desc = "A piece of metal with evenly spaced gridlike holes in it. Blocks large object but lets small items, gas, or energy beams through. Strangely enough these grilles also lets meteors pass through them, whether they be small or huge station breaking death stones."
 	name = "grille"
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "grille2"
 	density = 1
 	anchored = 1.0
@@ -293,7 +293,7 @@
 /obj/structure/grille/vitrage4
 	desc = "A piece of metal with evenly spaced gridlike holes in it. Blocks large object but lets small items, gas, or energy beams through. Strangely enough these grilles also lets meteors pass through them, whether they be small or huge station breaking death stones."
 	name = "grille"
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "grille3"
 	density = 1
 	anchored = 1.0
@@ -304,7 +304,7 @@
 /obj/structure/grille/vitrage5
 	desc = "A piece of metal with evenly spaced gridlike holes in it. Blocks large object but lets small items, gas, or energy beams through. Strangely enough these grilles also lets meteors pass through them, whether they be small or huge station breaking death stones."
 	name = "grille"
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "grille3_g"
 	density = 1
 	anchored = 1.0
@@ -315,7 +315,7 @@
 /obj/structure/grille/vitrage6
 	desc = "A piece of metal with evenly spaced gridlike holes in it. Blocks large object but lets small items, gas, or energy beams through. Strangely enough these grilles also lets meteors pass through them, whether they be small or huge station breaking death stones."
 	name = "grille"
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "grille4"
 	density = 1
 	anchored = 1.0
@@ -326,7 +326,7 @@
 /obj/structure/grille/vitrage7
 	desc = "A piece of metal with evenly spaced gridlike holes in it. Blocks large object but lets small items, gas, or energy beams through. Strangely enough these grilles also lets meteors pass through them, whether they be small or huge station breaking death stones."
 	name = "grille"
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "grille4_g"
 	density = 1
 	anchored = 1.0
@@ -337,7 +337,7 @@
 /obj/structure/grille/vitrage8
 	desc = "A piece of metal with evenly spaced gridlike holes in it. Blocks large object but lets small items, gas, or energy beams through. Strangely enough these grilles also lets meteors pass through them, whether they be small or huge station breaking death stones."
 	name = "grille"
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "grille5"
 	density = 1
 	anchored = 1.0

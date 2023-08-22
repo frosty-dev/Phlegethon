@@ -234,14 +234,14 @@
 
 		if(istype(W, /obj/item/weapon/pickaxe/excavationtool))
 			user << "\red You carefully start clearing away the rock."
-			playsound(user, 'Genhit.ogg', 20, 1)
+			playsound(user, 'sound/weapons/Genhit.ogg', 20, 1)
 
 			if(do_after(user,W:digspeed))
 				user << "\blue You finish clearing away the rock."
 				gets_drilled(1)
 		else
 			user << "\red You start picking."
-			playsound(user, 'Genhit.ogg', 20, 1)
+			playsound(user, 'sound/weapons/Genhit.ogg', 20, 1)
 
 			if(do_after(user,W:digspeed))
 				user << "\blue You finish cutting into the rock."

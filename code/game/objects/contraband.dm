@@ -13,7 +13,7 @@
 
 /obj/item/weapon/contraband/poster
 	name = "rolled-up poster"
-	desc = "The poster comes with its own automatic adhesive mechanism, for easy pinning to any vertical surface. Its vulgar themes have marked it as Contraband aboard Nanotrasen© Space Facilities."
+	desc = "The poster comes with its own automatic adhesive mechanism, for easy pinning to any vertical surface. Its vulgar themes have marked it as Contraband aboard Nanotrasenï¿½ Space Facilities."
 	icon_state = "rolled_poster"
 	var/serial_number = 0
 	var/obj/effect/decal/poster/resulting_poster = null //The poster that will be created is initialised and stored through contraband/poster's constructor
@@ -198,7 +198,7 @@ obj/effect/decal/poster/rev2
 
 obj/effect/decal/poster/attackby(obj/item/weapon/W as obj, mob/user as mob)
 	if( istype(W, /obj/item/weapon/wirecutters) )
-		playsound(src.loc, 'Wirecutter.ogg', 100, 1)
+		playsound(src.loc, 'sound/items/wirecutter.ogg', 100, 1)
 		if(src.ruined)
 			user << "<FONT COLOR='BLUE'>You remove the remnants of the poster.</FONT>"
 			del(src)

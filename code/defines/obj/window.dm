@@ -1,6 +1,6 @@
 /obj/structure/window
 	name = "window"
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	desc = "A window."
 	density = 1
 	layer = 3.2//Just above doors
@@ -96,7 +96,7 @@
 
 /obj/structure/window/lat
 	name = "lattice"
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	desc = "A lattice fence."
 	icon_state = "lat"
 	layer = 3.2//Just above doors
@@ -173,13 +173,13 @@
 	attackby(obj/item/weapon/W, mob/user)
 		if(iswirecutter(W))
 			if(!shock(user, 100))
-				playsound(src.loc, 'Wirecutter.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/wirecutter.ogg', 100, 1)
 				src.health = 0
 				if(!destroyed)
 					src.health = -100
 		else if ((isscrewdriver(W)) && (istype(src.loc, /turf/simulated) || src.anchored))
 			if(!shock(user, 90))
-				playsound(src.loc, 'Screwdriver.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/Screwdriver.ogg', 100, 1)
 				src.anchored = !( src.anchored )
 				user << (src.anchored ? "You have fastened the lattice to the floor." : "You have unfastened the lattice.")
 				for(var/mob/O in oviewers())

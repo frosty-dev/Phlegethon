@@ -16,7 +16,7 @@
 /obj/structure/workbench //phleg WIP
 	name = "Workbench"
 	desc = "Convenient universal workbench."
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "workbench"
 	density = 1
 	anchored = 1.0
@@ -35,7 +35,7 @@
 				new /obj/item/weapon/crafty/craftgunframe(user.loc)
 				user << "\blue After fiddling around with the rod you chose, you are left with a good frame for a gun."
 			else
-				user << "\red You wasted the rod with faulty rifling. Perhaps you should practice with something more susceptible to rifling (/)(°,,°)(/)"
+				user << "\red You wasted the rod with faulty rifling. Perhaps you should practice with something more susceptible to rifling (/)(ï¿½,,ï¿½)(/)"
 			use(1)
 		else
 			user << "\red Crafting have been interrupted."

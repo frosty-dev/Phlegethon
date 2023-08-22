@@ -178,7 +178,7 @@
 
 	if (wear_id)
 		if(wear_id.over_jumpsuit)
-			overlays += image("icon" = 'mob.dmi', "icon_state" = "id[!lying ? null : "2"]", "layer" = MOB_LAYER)
+			overlays += image("icon" = 'icons/mob/mob.dmi', "icon_state" = "id[!lying ? null : "2"]", "layer" = MOB_LAYER)
 
 	if (client)
 		client.screen -= hud_used.intents
@@ -386,9 +386,9 @@
 	if (handcuffed)
 		pulling = null
 		if (!lying)
-			overlays += image("icon" = 'mob.dmi', "icon_state" = "handcuff1", "layer" = MOB_LAYER)
+			overlays += image("icon" = 'icons/mob/mob.dmi', "icon_state" = "handcuff1", "layer" = MOB_LAYER)
 		else
-			overlays += image("icon" = 'mob.dmi', "icon_state" = "handcuff2", "layer" = MOB_LAYER)
+			overlays += image("icon" = 'icons/mob/mob.dmi', "icon_state" = "handcuff2", "layer" = MOB_LAYER)
 
 	if (client)
 		client.screen -= contents
@@ -415,7 +415,7 @@
 
 	switch(shielded)
 		if(1)
-			overlays += image("icon" = 'effects.dmi', "icon_state" = "shield", "layer" = MOB_LAYER+1)
+			overlays += image("icon" = 'icons/effects/effects.dmi', "icon_state" = "shield", "layer" = MOB_LAYER+1)
 		if(2)
 			invisibility = 2
 			//New stealth. Hopefully doesn't lag too much. /N

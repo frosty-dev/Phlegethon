@@ -91,7 +91,7 @@
 	energy_drain = 20
 	equip_cooldown = 8
 	projectile = /obj/item/projectile/energy/electrode
-	fire_sound = 'Taser.ogg'
+	fire_sound = 'sound/weapons/Taser.ogg'
 
 
 /obj/item/mecha_parts/mecha_equipment/weapon/honker
@@ -188,7 +188,7 @@
 	icon_state = "mecha_scatter"
 	equip_cooldown = 20
 	projectile = /obj/item/projectile/bullet/midbullet
-	fire_sound = 'Gunshot.ogg'
+	fire_sound = 'sound/weapons/Gunshot.ogg'
 	projectiles = 40
 	projectile_energy_cost = 25
 	var/projectiles_per_shot = 4
@@ -227,7 +227,7 @@
 	icon_state = "mecha_uac2"
 	equip_cooldown = 10
 	projectile = /obj/item/projectile/bullet/weakbullet
-	fire_sound = 'Gunshot.ogg'
+	fire_sound = 'sound/weapons/Gunshot.ogg'
 	projectiles = 300
 	projectile_energy_cost = 20
 	var/projectiles_per_shot = 3

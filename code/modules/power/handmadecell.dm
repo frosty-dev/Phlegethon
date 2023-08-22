@@ -42,7 +42,7 @@
 						del (W)
 			if(2)
 				if(istype(W, /obj/item/weapon/screwdriver))
-					playsound(src.loc, 'Screwdriver.ogg', 50, 1)
+					playsound(src.loc, 'sound/items/Screwdriver.ogg', 50, 1)
 					usr << "You finish your battery."
 					var/D = new /obj/item/weapon/cell (src.loc)
 					D:maxcharge = src.items * 500

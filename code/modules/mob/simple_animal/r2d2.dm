@@ -3,7 +3,7 @@
 	name = "r2d2"
 	real_name = "R2D2"
 	desc = "Astro droid."
-	icon = 'mob.dmi'
+	icon = 'icons/mob/mob.dmi'
 	icon_state = "r2d2"
 	icon_living = "r2d2"
 	icon_dead = "r2d2_dead"
@@ -36,7 +36,7 @@
 	name = "r2d3"
 	real_name = "R2D3"
 	desc = "Engineering droid."
-	icon = 'mob.dmi'
+	icon = 'icons/mob/mob.dmi'
 	icon_state = "r2d3"
 	icon_living = "r2d3"
 	icon_dead = "r2d3_dead"

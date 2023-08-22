@@ -1059,7 +1059,7 @@
 	icon_state = "fire_extinguisher0"
 	var/last_use = 1.0
 	var/safety = 1
-	hitsound = 'smash.ogg'
+	hitsound = 'sound/weapons/smash.ogg'
 	flags = FPRINT | USEDELAY | TABLEPASS | CONDUCT
 	w_class = 3.0
 	throw_speed = 2
@@ -1514,7 +1514,7 @@ eternal248: Found broken and buggy Z-levels 7-12, ended up leading to my discove
 /obj/item/weapon/staff
 	name = "wizards staff"
 	desc = "Apparently a staff used by a wizard."
-	icon = 'wizard.dmi'
+	icon = 'icons/obj/wizard.dmi'
 	icon_state = "staff"
 	force = 3.0
 	throwforce = 5.0
@@ -1565,7 +1565,7 @@ eternal248: Found broken and buggy Z-levels 7-12, ended up leading to my discove
 /obj/item/weapon/teleportation_scroll
 	name = "scroll of teleportation"
 	desc = "A scroll for moving around."
-	icon = 'wizard.dmi'
+	icon = 'icons/obj/wizard.dmi'
 	icon_state = "scroll"
 	var/uses = 4.0
 	flags = FPRINT | TABLEPASS
@@ -2557,7 +2557,7 @@ eternal248: Found broken and buggy Z-levels 7-12, ended up leading to my discove
 	name = "ectoplasm"
 	desc = "spooky"
 	gender = PLURAL
-	icon = 'wizard.dmi'
+	icon = 'icons/obj/wizard.dmi'
 	icon_state = "ectoplasm"
 
 /obj/item/weapon/research//Makes testing much less of a pain -Sieve

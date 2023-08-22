@@ -32,7 +32,7 @@
 /*
 /turf/simulated/wall/asteroid/frozen_gas
 	name="frozen gas"
-	icon = 'atmos.dmi'
+	icon = 'icons/obj/atmos.dmi'
 
 /turf/simulated/wall/asteroid/frozen_gas/oxygen
 	icon_state = "blue"

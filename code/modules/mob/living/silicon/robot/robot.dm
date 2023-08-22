@@ -660,7 +660,7 @@
 						stunned = max(stunned,4)
 				What is this?*/
 
-				playsound(loc, 'slash.ogg', 25, 1, -1)
+				playsound(loc, 'sound/weapons/slash.ogg', 25, 1, -1)
 				for(var/mob/O in viewers(src, null))
 					O.show_message(text("\red <B>[] has slashed at []!</B>", M, src), 1)
 				if(prob(8))

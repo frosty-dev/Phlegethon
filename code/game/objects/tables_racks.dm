@@ -196,10 +196,10 @@ TABLE AND RACK OBJECT INTERATIONS
 
 	if (istype(W, /obj/item/weapon/wrench))
 		user << "\blue Now disassembling table"
-		playsound(src.loc, 'Ratchet.ogg', 50, 1)
+		playsound(src.loc, 'sound/items/Ratchet.ogg', 50, 1)
 		if(do_after(user,50))
 			new /obj/item/weapon/table_parts( src.loc )
-			playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+			playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 			//SN src = null
 			del(src)
 		return
@@ -241,10 +241,10 @@ TABLE AND RACK OBJECT INTERATIONS
 		return
 	if (istype(W, /obj/item/weapon/wrench))
 		user << "\blue Now disassembling the wooden table"
-		playsound(src.loc, 'Ratchet.ogg', 50, 1)
+		playsound(src.loc, 'sound/items/Ratchet.ogg', 50, 1)
 		sleep(50)
 		new /obj/item/weapon/table_parts/wood( src.loc )
-		playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+		playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 		del(src)
 		return
 	if(isrobot(user))
@@ -309,10 +309,10 @@ TABLE AND RACK OBJECT INTERATIONS
 	if (istype(W, /obj/item/weapon/wrench))
 		if(src.status == 1)
 			user << "\blue Now disassembling the reinforced table"
-			playsound(src.loc, 'Ratchet.ogg', 50, 1)
+			playsound(src.loc, 'sound/items/Ratchet.ogg', 50, 1)
 			if (do_after(user, 50))
 				new /obj/item/weapon/table_parts/reinforced( src.loc )
-				playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+				playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 				del(src)
 			return
 	if(isrobot(user))
@@ -380,7 +380,7 @@ TABLE AND RACK OBJECT INTERATIONS
 /obj/structure/rack/attackby(obj/item/weapon/W as obj, mob/user as mob)
 	if (istype(W, /obj/item/weapon/wrench))
 		new /obj/item/weapon/rack_parts( src.loc )
-		playsound(src.loc, 'Ratchet.ogg', 50, 1)
+		playsound(src.loc, 'sound/items/Ratchet.ogg', 50, 1)
 		//SN src = null
 		del(src)
 		return
@@ -580,10 +580,10 @@ TABLE AND RACK OBJECT INTERATIONS
 
 	if (istype(W, /obj/item/weapon/wrench))
 		user << "\blue Now disassembling table"
-		playsound(src.loc, 'Ratchet.ogg', 50, 1)
+		playsound(src.loc, 'sound/items/Ratchet.ogg', 50, 1)
 		if(do_after(user,50))
 			new /obj/item/weapon/table_parts( src.loc )
-			playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+			playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 			//SN src = null
 			del(src)
 		return

@@ -981,7 +981,7 @@
 		if(ishuman(M))
 			animation = new(src.loc)
 			animation.icon_state = "blank"
-			animation.icon = 'mob.dmi'
+			animation.icon = 'icons/mob/mob.dmi'
 			animation.master = src
 		if (M.client)
 			var/mob/dead/observer/newmob

@@ -18,7 +18,7 @@
 				if(2)
 					mode = 0
 					charge_cost = 100
-					fire_sound = 'Taser.ogg'
+					fire_sound = 'sound/weapons/Taser.ogg'
 					user << "\red [src] is now set to stun."
 					projectile_type = "/obj/item/projectile/energy/electrode"
 				if(0)

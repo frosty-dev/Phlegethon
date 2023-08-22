@@ -44,6 +44,7 @@
 
 /obj/beam/e_beam
 	name = "Laser beam"
+	//OD2600
 	icon = 'projectiles.dmi'
 	icon_state = "u_laser"
 	var/obj/machinery/engine/laser/master = null

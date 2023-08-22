@@ -218,7 +218,7 @@
 						if(disabled) return
 						chassis.spark_system.start()
 						target:ReplaceWithPlating()
-						playsound(target, 'Deconstruct.ogg', 50, 1)
+						playsound(target, 'sound/items/Deconstruct.ogg', 50, 1)
 						chassis.give_power(energy_drain)
 				else if (istype(target, /turf/simulated/floor))
 					occupant_message("Deconstructing [target]...")
@@ -227,7 +227,7 @@
 						if(disabled) return
 						chassis.spark_system.start()
 						target:ReplaceWithSpace()
-						playsound(target, 'Deconstruct.ogg', 50, 1)
+						playsound(target, 'sound/items/Deconstruct.ogg', 50, 1)
 						chassis.give_power(energy_drain)
 				else if (istype(target, /obj/machinery/door/airlock))
 					occupant_message("Deconstructing [target]...")
@@ -236,7 +236,7 @@
 						if(disabled) return
 						chassis.spark_system.start()
 						del(target)
-						playsound(target, 'Deconstruct.ogg', 50, 1)
+						playsound(target, 'sound/items/Deconstruct.ogg', 50, 1)
 						chassis.give_power(energy_drain)
 			if(1)
 				if(istype(target, /turf/space))
@@ -245,7 +245,7 @@
 					if(do_after_cooldown(target))
 						if(disabled) return
 						target:ReplaceWithPlating()
-						playsound(target, 'Deconstruct.ogg', 50, 1)
+						playsound(target, 'sound/items/Deconstruct.ogg', 50, 1)
 						chassis.spark_system.start()
 						chassis.use_power(energy_drain*2)
 				else if(istype(target, /turf/simulated/floor))
@@ -254,7 +254,7 @@
 					if(do_after_cooldown(target))
 						if(disabled) return
 						target:ReplaceWithWall()
-						playsound(target, 'Deconstruct.ogg', 50, 1)
+						playsound(target, 'sound/items/Deconstruct.ogg', 50, 1)
 						chassis.spark_system.start()
 						chassis.use_power(energy_drain*2)
 			if(2)
@@ -266,7 +266,7 @@
 						chassis.spark_system.start()
 						var/obj/machinery/door/airlock/T = new /obj/machinery/door/airlock(target)
 						T.autoclose = 1
-						playsound(target, 'Deconstruct.ogg', 50, 1)
+						playsound(target, 'sound/items/Deconstruct.ogg', 50, 1)
 						playsound(target, 'sparks2.ogg', 50, 1)
 						chassis.use_power(energy_drain*2)
 		return
@@ -350,7 +350,7 @@
 		var/obj/effect/portal/P = new /obj/effect/portal(get_turf(target))
 		P.target = target_turf
 		P.creator = null
-		P.icon = 'objects.dmi'
+		P.icon = 'icons/obj/objects.dmi'
 		P.failchance = 0
 		P.icon_state = "anom"
 		P.name = "wormhole"

@@ -392,7 +392,7 @@
 		var/t1 = wear_suit.item_state
 		if (!t1)
 			t1 = wear_suit.icon_state
-		overlays += image("icon" = 'mob.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = SUIT_LAYER)
+		overlays += image("icon" = 'icons/mob/mob.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = SUIT_LAYER)
 		if (wear_suit.blood_DNA)
 			if (istype(wear_suit, /obj/item/clothing/suit/armor))
 				overlays += image("icon" = 'blood.dmi', "icon_state" = "armorblood[!lying ? "" : "2"]", "layer" = B_SUIT_LAYER)
@@ -417,7 +417,7 @@
 		var/t1 = head.item_state
 		if (!t1)
 			t1 = head.icon_state
-		overlays += image("icon" = 'mob.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = HEAD_LAYER)
+		overlays += image("icon" = 'icons/mob/mob.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = HEAD_LAYER)
 		if (head.blood_DNA)
 			overlays += image("icon" = 'blood.dmi', "icon_state" = "helmetblood[!lying ? "" : "2"]", "layer" = B_HEAD_LAYER)
 		head.screen_loc = ui_alien_head

@@ -3,7 +3,7 @@
 	name = "saturn"
 	real_name = "Saturn"
 	desc = "It's a Saturn."
-	icon = 'mob.dmi'
+	icon = 'icons/mob/mob.dmi'
 	icon_state = "saturn"
 	icon_living = "saturn"
 	icon_dead = "saturn_dead"

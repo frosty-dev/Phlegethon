@@ -608,7 +608,7 @@
 /obj/structure/lattice
 	desc = "A lightweight support lattice."
 	name = "lattice"
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "latticefull"
 	density = 0
 	anchored = 1.0
@@ -804,7 +804,7 @@
 /obj/structure/shelf //phleg
 	name = "Bookshelf"
 	desc = "Just a old bookshelf."
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "bookshelf1"
 	density = 1
 	opacity = 1
@@ -958,7 +958,7 @@
 /obj/structure/rack
 	name = "rack"
 	desc = "Different from the Middle Ages version."
-	icon = 'objects.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "rack"
 	density = 1
 	flags = FPRINT
@@ -984,7 +984,7 @@
 /obj/structure/stool
 	name = "stool"
 	desc = "Apply butt."
-	icon = 'objects.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "stool"
 	flags = FPRINT
 	pressure_resistance = 3*ONE_ATMOSPHERE
@@ -998,7 +998,7 @@
 	density = 1
 	name = "stand"
 	desc = "It stand."
-	icon = 'objects.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "crvcstand"
 
 /obj/structure/crvwardrobe
@@ -1006,7 +1006,7 @@
 	opacity = 1
 	name = "wardrobe"
 	desc = "It wardrobe."
-	icon = 'objects.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "crvcwardrobe"
 
 /obj/structure/stool/bed
@@ -1093,7 +1093,7 @@
 /obj/structure/table
 	name = "table"
 	desc = "A square piece of metal standing on four metal legs. It can not move."
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "table"
 	density = 1
 	anchored = 1.0
@@ -1829,7 +1829,7 @@
 /obj/item/rubberduck
 	name = "rubber duck"
 	desc = "A rubber duck. Quack."
-	icon = 'objects.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "rduck"
 	item_state = "rduck"
 	flags = FPRINT

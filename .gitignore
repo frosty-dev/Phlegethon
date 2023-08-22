@@ -3,3 +3,5 @@ info.json
 *.dmb
 *.dyn.rsc
 *.log
+*.rsc
+*.int

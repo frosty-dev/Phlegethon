@@ -5,7 +5,7 @@
 	name = "ashes"
 	desc = "Ashes to ashes, dust to dust, and into space."
 	gender = PLURAL
-	icon = 'objects.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "ash"
 	anchored = 1
 
@@ -239,7 +239,7 @@
 	density = 0
 	anchored = 1
 	layer = 2
-	icon = 'objects.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "shards"
 
 /obj/effect/decal/cleanable/dirt
@@ -249,7 +249,7 @@
 	density = 0
 	anchored = 1
 	layer = 2
-	icon = 'effects.dmi'
+	icon = 'icons/effects/effects.dmi'
 	icon_state = "dirt"
 
 /obj/effect/decal/cleanable/greenglow
@@ -259,7 +259,7 @@
 	density = 0
 	anchored = 1
 	layer = 2
-	icon = 'effects.dmi'
+	icon = 'icons/effects/effects.dmi'
 	icon_state = "greenglow"
 
 /obj/effect/decal/cleanable/cobweb
@@ -268,7 +268,7 @@
 	density = 0
 	anchored = 1
 	layer = 3
-	icon = 'effects.dmi'
+	icon = 'icons/effects/effects.dmi'
 	icon_state = "cobweb1"
 
 /obj/effect/decal/cleanable/molten_item
@@ -286,7 +286,7 @@
 	density = 0
 	anchored = 1
 	layer = 3
-	icon = 'effects.dmi'
+	icon = 'icons/effects/effects.dmi'
 	icon_state = "cobweb2"
 
 // Used for spray that you spray at walls, tables, hydrovats etc

@@ -352,14 +352,14 @@ atom/movable/proc/airflow_hit(atom/A)
 mob/airflow_hit(atom/A)
 	for(var/mob/M in hearers(src))
 		M.show_message("\red <B>\The [src] slams into \a [A]!</B>",1,"\red You hear a loud slam!",2)
-	playsound(src.loc, "smash.ogg", 25, 1, -1)
+	playsound(src.loc, "sound/weapons/smash.ogg", 25, 1, -1)
 	weakened = max(weakened, (istype(A,/obj/item) ? A:w_class : rand(1,5))) //Heheheh
 	. = ..()
 
 obj/airflow_hit(atom/A)
 	for(var/mob/M in hearers(src))
 		M.show_message("\red <B>\The [src] slams into \a [A]!</B>",1,"\red You hear a loud slam!",2)
-	playsound(src.loc, "smash.ogg", 25, 1, -1)
+	playsound(src.loc, "sound/weapons/smash.ogg", 25, 1, -1)
 	. = ..()
 
 obj/item/airflow_hit(atom/A)

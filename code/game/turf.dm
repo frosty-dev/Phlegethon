@@ -599,7 +599,7 @@
 			return
 
 	user << "\blue You push the wall but nothing happens!"
-	playsound(src.loc, 'Genhit.ogg', 25, 1)
+	playsound(src.loc, 'sound/weapons/Genhit.ogg', 25, 1)
 	src.add_fingerprint(user)
 	return
 
@@ -766,7 +766,7 @@
 	switch(d_state)
 		if(0)
 			if (istype(W, /obj/item/weapon/wirecutters))
-				playsound(src.loc, 'Wirecutter.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/wirecutter.ogg', 100, 1)
 				src.d_state = 1
 				src.icon_state = "r_wall-1"
 				new /obj/item/stack/rods( src )
@@ -776,7 +776,7 @@
 		if(1)
 			if (istype(W, /obj/item/weapon/screwdriver))
 				user << "<span class='notice'>You begin removing the support lines.</span>"
-				playsound(src.loc, 'Screwdriver.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/Screwdriver.ogg', 100, 1)
 
 				sleep(40)
 				if( !istype(src, /turf/simulated/wall/r_wall) || !user || !W || !T )	return
@@ -837,7 +837,7 @@
 			if (istype(W, /obj/item/weapon/crowbar))
 
 				user << "<span class='notice'>You struggle to pry off the cover.</span>"
-				playsound(src.loc, 'Crowbar.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/Crowbar.ogg', 100, 1)
 
 				sleep(100)
 				if( !istype(src, /turf/simulated/wall/r_wall) || !user || !W || !T )	return
@@ -852,7 +852,7 @@
 			if (istype(W, /obj/item/weapon/wrench))
 
 				user << "<span class='notice'>You start loosening the anchoring bolts which secure the support rods to their frame.</span>"
-				playsound(src.loc, 'Ratchet.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/Ratchet.ogg', 100, 1)
 
 				sleep(40)
 				if( !istype(src, /turf/simulated/wall/r_wall) || !user || !W || !T )	return
@@ -902,7 +902,7 @@
 			if( istype(W, /obj/item/weapon/crowbar) )
 
 				user << "<span class='notice'>You struggle to pry off the outer sheath.</span>"
-				playsound(src.loc, 'Crowbar.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/Crowbar.ogg', 100, 1)
 
 				sleep(100)
 				if( !istype(src, /turf/simulated/wall/r_wall) || !user || !W || !T )	return
@@ -1333,7 +1333,7 @@ turf/simulated/floor/return_siding_icon_state()
 		return
 	if(istype(C, /obj/item/weapon/wrench))
 		user << "\blue Removing rods..."
-		playsound(src.loc, 'Ratchet.ogg', 80, 1)
+		playsound(src.loc, 'sound/items/Ratchet.ogg', 80, 1)
 		if(do_after(user, 30))
 			new /obj/item/stack/rods(src, 2)
 			ReplaceWithFloor()
@@ -1518,7 +1518,7 @@ turf/simulated/floor/return_siding_icon_state()
 			new floor_tile.type(src)
 
 		make_plating()
-		playsound(src.loc, 'Crowbar.ogg', 80, 1)
+		playsound(src.loc, 'sound/items/Crowbar.ogg', 80, 1)
 
 		return
 
@@ -1529,7 +1529,7 @@ turf/simulated/floor/return_siding_icon_state()
 				user << "\blue Reinforcing the floor..."
 				if(do_after(user, 30) && R && R.amount >= 2 && is_plating())
 					ReplaceWithEngineFloor()
-					playsound(src.loc, 'Deconstruct.ogg', 80, 1)
+					playsound(src.loc, 'sound/items/Deconstruct.ogg', 80, 1)
 					R.use(2)
 					return
 			else
@@ -1557,7 +1557,7 @@ turf/simulated/floor/return_siding_icon_state()
 				T.use(1)
 				update_icon()
 				levelupdate()
-				playsound(src.loc, 'Genhit.ogg', 50, 1)
+				playsound(src.loc, 'sound/weapons/Genhit.ogg', 50, 1)
 			else
 				user << "\blue This section is too damaged to support a tile. Use a welder to fix the damage."
 
@@ -1641,7 +1641,7 @@ turf/simulated/floor/return_siding_icon_state()
 			return
 		var/obj/item/stack/rods/R = C
 		user << "\blue Constructing support lattice ..."
-		playsound(src.loc, 'Genhit.ogg', 50, 1)
+		playsound(src.loc, 'sound/weapons/Genhit.ogg', 50, 1)
 		ReplaceWithLattice()
 		R.use(1)
 		return
@@ -1651,7 +1651,7 @@ turf/simulated/floor/return_siding_icon_state()
 		if(L)
 			var/obj/item/stack/tile/plasteel/S = C
 			del(L)
-			playsound(src.loc, 'Genhit.ogg', 50, 1)
+			playsound(src.loc, 'sound/weapons/Genhit.ogg', 50, 1)
 			S.build(src)
 			S.use(1)
 			return
@@ -1867,4 +1867,4 @@ turf/simulated/floor/return_siding_icon_state()
 	if(flags & NOJAUNT)
 		return
 	flags |= NOJAUNT
-	overlays += image('water.dmi',src,"holywater")
+	overlays += image('icons/effects/water.dmi',src,"holywater")

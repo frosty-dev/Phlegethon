@@ -238,7 +238,7 @@
 	proc/activate()
 //		spark_system.set_up(5, 0, src)
 //		src.spark_system.start()
-		playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+		playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 
 
 	attack_self(mob/user as mob)

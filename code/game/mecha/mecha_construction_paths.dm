@@ -10,13 +10,13 @@
 		else
 			return 0
 	else if(istype(used_atom, /obj/item/weapon/wrench))
-		playsound(holder, 'Ratchet.ogg', 50, 1)
+		playsound(holder, 'sound/items/Ratchet.ogg', 50, 1)
 
 	else if(istype(used_atom, /obj/item/weapon/screwdriver))
-		playsound(holder, 'Screwdriver.ogg', 50, 1)
+		playsound(holder, 'sound/items/Screwdriver.ogg', 50, 1)
 
 	else if(istype(used_atom, /obj/item/weapon/wirecutters))
-		playsound(holder, 'Wirecutter.ogg', 50, 1)
+		playsound(holder, 'sound/items/wirecutter.ogg', 50, 1)
 
 	else if(istype(used_atom, /obj/item/weapon/cable_coil))
 		var/obj/item/weapon/cable_coil/C = used_atom
@@ -25,7 +25,7 @@
 			return 0
 		else
 			C.use(4)
-			playsound(holder, 'Deconstruct.ogg', 50, 1)
+			playsound(holder, 'sound/items/Deconstruct.ogg', 50, 1)
 	else if(istype(used_atom, /obj/item/stack))
 		var/obj/item/stack/S = used_atom
 		if(S.amount < 5)
@@ -43,13 +43,13 @@
 		else
 			return 0
 	else if(istype(used_atom, /obj/item/weapon/wrench))
-		playsound(holder, 'Ratchet.ogg', 50, 1)
+		playsound(holder, 'sound/items/Ratchet.ogg', 50, 1)
 
 	else if(istype(used_atom, /obj/item/weapon/screwdriver))
-		playsound(holder, 'Screwdriver.ogg', 50, 1)
+		playsound(holder, 'sound/items/Screwdriver.ogg', 50, 1)
 
 	else if(istype(used_atom, /obj/item/weapon/wirecutters))
-		playsound(holder, 'Wirecutter.ogg', 50, 1)
+		playsound(holder, 'sound/items/wirecutter.ogg', 50, 1)
 
 	else if(istype(used_atom, /obj/item/weapon/cable_coil))
 		var/obj/item/weapon/cable_coil/C = used_atom
@@ -58,7 +58,7 @@
 			return 0
 		else
 			C.use(4)
-			playsound(holder, 'Deconstruct.ogg', 50, 1)
+			playsound(holder, 'sound/items/Deconstruct.ogg', 50, 1)
 	else if(istype(used_atom, /obj/item/stack))
 		var/obj/item/stack/S = used_atom
 		if(S.amount < 5)

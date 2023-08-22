@@ -79,7 +79,7 @@ RCD
 			if(istype(A, /turf/space) && matter >= 1)
 				user << "Building Floor (1)..."
 				if(!disabled && matter >= 1)
-					playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+					playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 					spark_system.set_up(5, 0, src)
 					src.spark_system.start()
 					A:ReplaceWithPlating()
@@ -95,7 +95,7 @@ RCD
 					spark_system.set_up(5, 0, src)
 					src.spark_system.start()
 					A:ReplaceWithWall()
-					playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+					playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 					if (isrobot(user))
 						var/mob/living/silicon/robot/engy = user
 						engy.cell.charge -= 90
@@ -117,7 +117,7 @@ RCD
 					if(killthis)
 						killthis.ex_act(2)//Smashin windows
 					T.autoclose = 1
-					playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+					playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 					playsound(src.loc, 'sparks2.ogg', 50, 1)
 					matter -= 10
 					user << "The RCD now holds [matter]/30 matter-units."
@@ -131,7 +131,7 @@ RCD
 					spark_system.set_up(5, 0, src)
 					src.spark_system.start()
 					A:ReplaceWithFloor()
-					playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+					playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 					if (isrobot(user))
 						var/mob/living/silicon/robot/engy = user
 						engy.cell.charge -= 150
@@ -148,7 +148,7 @@ RCD
 					spark_system.set_up(5, 0, src)
 					src.spark_system.start()
 					A:ReplaceWithWall()
-					playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+					playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 					if (isrobot(user))
 						var/mob/living/silicon/robot/engy = user
 						engy.cell.charge -= 150
@@ -165,7 +165,7 @@ RCD
 						spark_system.set_up(5, 0, src)
 						src.spark_system.start()
 						A:ReplaceWithSpace()
-						playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+						playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 						matter -= 5
 						user << "The RCD now holds [matter]/30 matter-units."
 						desc = "A RCD. It currently holds [matter]/30 matter-units."
@@ -178,7 +178,7 @@ RCD
 						spark_system.set_up(5, 0, src)
 						src.spark_system.start()
 						del(A)
-						playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+						playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 						matter -= 10
 						user << "The RCD now holds [matter]/30 matter-units."
 						desc = "A RCD. It currently holds [matter]/30 matter-units."

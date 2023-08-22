@@ -142,7 +142,7 @@
 
 
 		var/obj/item/projectile/hivebotbullet/A = new /obj/item/projectile/hivebotbullet(user:loc)
-		playsound(user, 'Gunshot.ogg', 100, 1)
+		playsound(user, 'sound/weapons/Gunshot.ogg', 100, 1)
 
 
 		if(!A)	return

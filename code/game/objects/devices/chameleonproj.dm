@@ -79,7 +79,7 @@
 			active_dummy = null
 			usr << "\blue You deactivate the [src]."
 			var/obj/effect/overlay/T = new/obj/effect/overlay(get_turf(src))
-			T.icon = 'effects.dmi'
+			T.icon = 'icons/effects/effects.dmi'
 			flick("emppulse",T)
 			spawn(8) del(T)
 		else
@@ -98,7 +98,7 @@
 			del(O)
 			usr << "\blue You activate the [src]."
 			var/obj/effect/overlay/T = new/obj/effect/overlay(get_turf(src))
-			T.icon = 'effects.dmi'
+			T.icon = 'icons/effects/effects.dmi'
 			flick("emppulse",T)
 			spawn(8) del(T)
 

@@ -122,15 +122,15 @@ mob/living/carbon/proc/handle_hallucinations()
 					if(8) src << 'windowdoor.ogg'
 					if(9)
 						//To make it more realistic, I added two gunshots (enough to kill)
-						src << 'Gunshot.ogg'
+						src << 'sound/weapons/Gunshot.ogg'
 						spawn(rand(10,30))
-							src << 'Gunshot.ogg'
-					if(10) src << 'smash.ogg'
+							src << 'sound/weapons/Gunshot.ogg'
+					if(10) src << 'sound/weapons/smash.ogg'
 					if(11)
 						//Same as above, but with tasers.
-						src << 'Taser.ogg'
+						src << 'sound/weapons/Taser.ogg'
 						spawn(rand(10,30))
-							src << 'Taser.ogg'
+							src << 'sound/weapons/Taser.ogg'
 				//Rare audio
 					if(12)
 //These sounds are (mostly) taken from Hidden: Source

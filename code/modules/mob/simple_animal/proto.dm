@@ -3,7 +3,7 @@
 	name = "proto"
 	real_name = "Proto"
 	desc = "CentCom protocol cyborg."
-	icon = 'mob.dmi'
+	icon = 'icons/mob/mob.dmi'
 	icon_state = "proto"
 	icon_living = "proto"
 	icon_dead = "proto_dead"

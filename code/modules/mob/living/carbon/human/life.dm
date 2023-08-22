@@ -1121,9 +1121,9 @@
 */
 
 			//	stand_icon.ChangeOpacity(0.5)
-			//	stand_icon.Blend(new /icon('mob.dmi', "icon_state" = "hide"), ICON_SUBTRACT)
+			//	stand_icon.Blend(new /icon('icons/mob/mob.dmi', "icon_state" = "hide"), ICON_SUBTRACT)
 			//	overlays += image(turficon,ICON_OVERLAY,ChangeOpacity(0.5))
-			//	clothing_overlays += image("icon" = 'mob.dmi', "icon_state" = "hide", "layer" = SHIELD_LAYER, ICON_SUBTRACT)
+			//	clothing_overlays += image("icon" = 'icons/mob/mob.dmi', "icon_state" = "hide", "layer" = SHIELD_LAYER, ICON_SUBTRACT)
 			//	var/icon/my_icon = stand_icon
 			//	my_icon.ChangeOpacity(0.5)
 

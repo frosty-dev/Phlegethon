@@ -3,7 +3,7 @@
 	name = "pluto"
 	real_name = "Pluto"
 	desc = "It's a Pluto."
-	icon = 'mob.dmi'
+	icon = 'icons/mob/mob.dmi'
 	icon_state = "pluto"
 	icon_living = "pluto"
 	icon_dead = "pluto_dead"

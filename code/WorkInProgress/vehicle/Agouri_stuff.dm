@@ -766,7 +766,7 @@
 			return
 
 	user << "\blue You push the wall but nothing happens!"
-	playsound(src.loc, 'sound/weapons/Genhit.ogg', 25, 1)
+	playsound(src.loc, 'sound/weapons/sound/weapons/Genhit.ogg', 25, 1)
 	src.add_fingerprint(user)
 	return
 
@@ -1026,7 +1026,7 @@
 
 	else if (istype(W, /obj/item/weapon/wirecutters))
 		if (src.d_state == 0)
-			playsound(src.loc, 'sound/items/Wirecutter.ogg', 100, 1)
+			playsound(src.loc, 'sound/items/wirecutter.ogg', 100, 1)
 			src.d_state = 1
 			new /obj/item/stack/rods( src )
 
@@ -1625,7 +1625,7 @@ turf/simulated/floor/return_siding_icon_state()
 				T.use(1)
 				update_icon()
 				levelupdate()
-				playsound(src.loc, 'sound/weapons/Genhit.ogg', 50, 1)
+				playsound(src.loc, 'sound/weapons/sound/weapons/Genhit.ogg', 50, 1)
 			else
 				user << "\blue This section is too damaged to support a tile. Use a welder to fix the damage."
 
@@ -1709,7 +1709,7 @@ turf/simulated/floor/return_siding_icon_state()
 			return
 		var/obj/item/stack/rods/R = C
 		user << "\blue Constructing support lattice ..."
-		playsound(src.loc, 'sound/weapons/Genhit.ogg', 50, 1)
+		playsound(src.loc, 'sound/weapons/sound/weapons/Genhit.ogg', 50, 1)
 		ReplaceWithLattice()
 		R.use(1)
 		return
@@ -1719,7 +1719,7 @@ turf/simulated/floor/return_siding_icon_state()
 		if(L)
 			var/obj/item/stack/tile/plasteel/S = C
 			del(L)
-			playsound(src.loc, 'sound/weapons/Genhit.ogg', 50, 1)
+			playsound(src.loc, 'sound/weapons/sound/weapons/Genhit.ogg', 50, 1)
 			S.build(src)
 			S.use(1)
 			return
@@ -1946,4 +1946,4 @@ turf/simulated/floor/return_siding_icon_state()
 	if(flags & NOJAUNT)
 		return
 	flags |= NOJAUNT
-	overlays += image('icons/effects/water.dmi',src,"holywater")*/
+	overlays += image('icons/effects/icons/effects/water.dmi',src,"holywater")*/

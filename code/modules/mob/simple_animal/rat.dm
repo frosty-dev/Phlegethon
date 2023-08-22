@@ -2,7 +2,7 @@
 /mob/living/simple_animal/rat
 	name = "rat"
 	desc = "space parasite"
-	icon = 'mob.dmi'
+	icon = 'icons/mob/mob.dmi'
 	icon_state = "rat"
 	icon_living = "rat"
 	icon_dead = "rat_dead"

@@ -593,7 +593,7 @@ Neutralize All Unidentified Life Signs: []<BR>"},
 	else
 		icon_state = "[lasercolor]orange_target_prism"
 	if(sound)
-		playsound(src.loc, 'Taser.ogg', 75, 1)
+		playsound(src.loc, 'sound/weapons/Taser.ogg', 75, 1)
 	A = new projectile( loc )
 	A.original = target.loc
 	if(!emagged)
@@ -648,14 +648,14 @@ Neutralize All Unidentified Life Signs: []<BR>"},
 	switch(build_step)
 		if(0) // first step
 			if(istype(W, /obj/item/weapon/wrench) && !anchored)
-				playsound(src.loc, 'Ratchet.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/Ratchet.ogg', 100, 1)
 				user << "\blue You secure the external bolts."
 				anchored = 1
 				build_step = 1
 				return
 
 			else if(istype(W, /obj/item/weapon/crowbar) && !anchored)
-				playsound(src.loc, 'Crowbar.ogg', 75, 1)
+				playsound(src.loc, 'sound/items/Crowbar.ogg', 75, 1)
 				user << "You dismantle the turret construction."
 				new /obj/item/stack/sheet/metal( loc, 5)
 				del(src)
@@ -673,7 +673,7 @@ Neutralize All Unidentified Life Signs: []<BR>"},
 					return
 
 			else if(istype(W, /obj/item/weapon/wrench))
-				playsound(src.loc, 'Ratchet.ogg', 75, 1)
+				playsound(src.loc, 'sound/items/Ratchet.ogg', 75, 1)
 				user << "You unfasten the external bolts."
 				anchored = 0
 				build_step = 0
@@ -682,7 +682,7 @@ Neutralize All Unidentified Life Signs: []<BR>"},
 
 		if(2)
 			if(istype(W, /obj/item/weapon/wrench))
-				playsound(src.loc, 'Ratchet.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/Ratchet.ogg', 100, 1)
 				user << "\blue You bolt the metal armor into place."
 				build_step = 3
 				return
@@ -715,7 +715,7 @@ Neutralize All Unidentified Life Signs: []<BR>"},
 				return
 
 			else if(istype(W, /obj/item/weapon/wrench))
-				playsound(src.loc, 'Ratchet.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/Ratchet.ogg', 100, 1)
 				user << "You remove the turret's metal armor bolts."
 				build_step = 2
 				return
@@ -731,7 +731,7 @@ Neutralize All Unidentified Life Signs: []<BR>"},
 
 		if(5)
 			if(istype(W, /obj/item/weapon/screwdriver))
-				playsound(src.loc, 'Screwdriver.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/Screwdriver.ogg', 100, 1)
 				build_step = 6
 				user << "\blue You close the internal access hatch."
 				return
@@ -749,7 +749,7 @@ Neutralize All Unidentified Life Signs: []<BR>"},
 					return
 
 			else if(istype(W, /obj/item/weapon/screwdriver))
-				playsound(src.loc, 'Screwdriver.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/Screwdriver.ogg', 100, 1)
 				build_step = 5
 				user << "You open the internal access hatch."
 				return
@@ -779,7 +779,7 @@ Neutralize All Unidentified Life Signs: []<BR>"},
 					del(src)
 
 			else if(istype(W, /obj/item/weapon/crowbar))
-				playsound(src.loc, 'Crowbar.ogg', 75, 1)
+				playsound(src.loc, 'sound/items/Crowbar.ogg', 75, 1)
 				user << "You pry off the turret's exterior armor."
 				new /obj/item/stack/sheet/metal( loc, 2)
 				build_step = 6

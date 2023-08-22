@@ -798,7 +798,7 @@ Auto Patrol: []"},
 		..(severity-1)
 	else
 		var/obj/effect/overlay/pulse2 = new/obj/effect/overlay ( src.loc )
-		pulse2.icon = 'effects.dmi'
+		pulse2.icon = 'icons/effects/effects.dmi'
 		pulse2.icon_state = "empdisable"
 		pulse2.name = "emp sparks"
 		pulse2.anchored = 1
@@ -920,7 +920,7 @@ Auto Patrol: []"},
 		src.icon_state = "[lasercolor]ed209_taser"
 		del(W)
 	else if(istype(W, /obj/item/weapon/screwdriver) && (src.build_step == 8) )
-		playsound(src.loc, 'Screwdriver.ogg', 100, 1)
+		playsound(src.loc, 'sound/items/Screwdriver.ogg', 100, 1)
 		var/turf/T = get_turf(user)
 		user << "\blue Now attaching the gun to the frame."
 		sleep(40)

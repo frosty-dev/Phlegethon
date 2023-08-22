@@ -3,7 +3,7 @@
 	item_state = "energystun100"
 	name = "energy gun"
 	desc = "A basic energy-based gun with two settings: Stun and kill."
-	fire_sound = 'Taser.ogg'
+	fire_sound = 'sound/weapons/Taser.ogg'
 
 	charge_cost = 100 //How much energy is needed to fire.
 	projectile_type = "/obj/item/projectile/energy/electrode"
@@ -26,7 +26,7 @@
 				if(1)
 					mode = 0
 					charge_cost = 100
-					fire_sound = 'Taser.ogg'
+					fire_sound = 'sound/weapons/Taser.ogg'
 					user << "\red [src.name] is now set to stun."
 					projectile_type = "/obj/item/projectile/energy/electrode"
 					modifystate = "energystun"

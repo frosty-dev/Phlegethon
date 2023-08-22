@@ -35,7 +35,7 @@
 		if(1)
 			if(istype(P, /obj/item/weapon/cable_coil))
 				if(P:amount >= 5)
-					playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+					playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 					user << "\blue You start to add cables to the frame."
 					if(do_after(user, 20))
 						P:amount -= 2
@@ -44,7 +44,7 @@
 						state = 2
 						icon_state = "wm_1"
 			if(istype(P, /obj/item/weapon/wrench))
-				playsound(src.loc, 'Ratchet.ogg', 75, 1)
+				playsound(src.loc, 'sound/items/Ratchet.ogg', 75, 1)
 				user << "\blue You dismantle the frame"
 				new /obj/item/stack/sheet/metal(src.loc, 2)
 				del(src)
@@ -52,7 +52,7 @@
 			if(istype(P, /obj/item/weapon/circuitboard))
 				var/obj/item/weapon/circuitboard/B = P
 				if(B.board_type == "wallmount")
-					playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+					playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 					user << "\blue You add the circuit board to the frame."
 					circuit = P
 					user.drop_item()
@@ -76,7 +76,7 @@
 				else
 					user << "\red This frame does not accept circuit boards of this type!"
 			if(istype(P, /obj/item/weapon/wirecutters))
-				playsound(src.loc, 'wirecutter.ogg', 50, 1)
+				playsound(src.loc, 'sound/items/wirecutter.ogg', 50, 1)
 				user << "\blue You remove the cables."
 				state = 1
 				icon_state = "wm_0"
@@ -85,7 +85,7 @@
 
 		if(3)
 			if(istype(P, /obj/item/weapon/crowbar))
-				playsound(src.loc, 'Crowbar.ogg', 50, 1)
+				playsound(src.loc, 'sound/items/Crowbar.ogg', 50, 1)
 				state = 2
 				circuit.loc = src.loc
 				circuit = null
@@ -107,7 +107,7 @@
 						component_check = 0
 						break
 				if(component_check)
-					playsound(src.loc, 'Screwdriver.ogg', 50, 1)
+					playsound(src.loc, 'sound/items/Screwdriver.ogg', 50, 1)
 					var/obj/machinery/new_machine = new src.circuit.build_path(src.loc)
 					new_machine.dir = dir
 					if(istype(circuit, /obj/item/weapon/circuitboard/status_display))
@@ -135,7 +135,7 @@
 			if(istype(P, /obj/item/weapon))
 				for(var/I in req_components)
 					if(istype(P, text2path(I)) && (req_components[I] > 0))
-						playsound(src.loc, 'Deconstruct.ogg', 50, 1)
+						playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
 						if(istype(P, /obj/item/weapon/cable_coil))
 							var/obj/item/weapon/cable_coil/CP = P
 							if(CP.amount > 1)

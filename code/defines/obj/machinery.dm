@@ -70,7 +70,7 @@
 /obj/machinery/dispenser
 	name = "tank storage unit"
 	desc = "A simple yet bulky one-way storage device for gas tanks. Holds 10 plasma and 10 oxygen tanks."
-	icon = 'objects.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "dispenser"
 	density = 1
 	var/o2tanks = 10.0
@@ -235,7 +235,7 @@
 
 /obj/machinery/driver_button
 	name = "mass driver button"
-	icon = 'objects.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "launcherbtt"
 	desc = "A remote control switch for a mass driver."
 	var/id = null
@@ -247,7 +247,7 @@
 
 /obj/machinery/ignition_switch
 	name = "ignition switch"
-	icon = 'objects.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "launcherbtt"
 	desc = "A remote control switch for a mounted igniter."
 	var/id = null
@@ -260,7 +260,7 @@
 /obj/machinery/flasher_button
 	name = "flasher button"
 	desc = "A remote control switch for a mounted flasher."
-	icon = 'objects.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "launcherbtt"
 	var/id = null
 	var/active = 0

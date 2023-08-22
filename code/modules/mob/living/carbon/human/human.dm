@@ -2,7 +2,7 @@
 	name = "human"
 	real_name = "human"
 	voice_name = "human"
-	icon = 'mob.dmi'
+	icon = 'icons/mob/mob.dmi'
 	icon_state = "m-none"
 
 	var/harpymut = 0
@@ -1037,7 +1037,7 @@
 
 	if (wear_id)
 		if(wear_id.over_jumpsuit)
-			clothing_overlays += image("icon" = 'mob.dmi', "icon_state" = "id[!lying ? null : "2"]", "layer" = ID_LAYER)
+			clothing_overlays += image("icon" = 'icons/mob/mob.dmi', "icon_state" = "id[!lying ? null : "2"]", "layer" = ID_LAYER)
 
 	if (client)
 		client.screen -= hud_used.intents
@@ -1172,18 +1172,18 @@
 		pulling = null
 		var/h1 = handcuffed.icon_state
 		if (!lying)
-			clothing_overlays += image("icon" = 'mob.dmi', "icon_state" = "[h1]1", "layer" = CUFFED_LAYER)
+			clothing_overlays += image("icon" = 'icons/mob/mob.dmi', "icon_state" = "[h1]1", "layer" = CUFFED_LAYER)
 		else
-			clothing_overlays += image("icon" = 'mob.dmi', "icon_state" = "[h1]2", "layer" = CUFFED_LAYER)
+			clothing_overlays += image("icon" = 'icons/mob/mob.dmi', "icon_state" = "[h1]2", "layer" = CUFFED_LAYER)
 
 	// Splints
 	for(var/organ in list("l_leg","r_leg","l_arm","r_arm"))
 		var/datum/organ/external/o = organs["[organ]"]
 		if (o.status & ORGAN_SPLINTED)
 			if (!lying)
-				clothing_overlays += image("icon" = 'mob.dmi', "icon_state" = "[o]_splint", "layer" = CUFFED_LAYER)
+				clothing_overlays += image("icon" = 'icons/mob/mob.dmi', "icon_state" = "[o]_splint", "layer" = CUFFED_LAYER)
 			else
-				clothing_overlays += image("icon" = 'mob.dmi', "icon_state" = "[o]_splint2", "layer" = CUFFED_LAYER)
+				clothing_overlays += image("icon" = 'icons/mob/mob.dmi', "icon_state" = "[o]_splint2", "layer" = CUFFED_LAYER)
 
 	if (r_hand)
 		if (lying)
@@ -1256,7 +1256,7 @@
 
 	switch(shielded)
 		if(1)
-			overlays += image("icon" = 'effects.dmi', "icon_state" = "shield", "layer" = SHIELD_LAYER)
+			overlays += image("icon" = 'icons/effects/effects.dmi', "icon_state" = "shield", "layer" = SHIELD_LAYER)
 		if(2)
 			invisibility = 2
 			//New stealth. Hopefully doesn't lag too much. /N

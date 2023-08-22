@@ -177,7 +177,7 @@
 			for(var/mob/K in viewers(usr))
 				K << 'empty.ogg'
 			return
-		playsound(user, 'Gunshot.ogg', 100, 1)
+		playsound(user, 'sound/weapons/Gunshot.ogg', 100, 1)
 		src.bullets--
 		for(var/mob/O in viewers(user, null))
 			O.show_message(text("\red <B>[] fires a cap gun at []!</B>", user, target), 1, "\red You hear a gunshot", 2)
@@ -439,7 +439,7 @@
 		D.icon_state = "chempuff"
 		D.create_reagents(5)
 		src.reagents.trans_to(D, 1)
-		playsound(src.loc, 'spray3.ogg', 50, 1, -6)
+		playsound(src.loc, 'sound/effects/spray3.ogg', 50, 1, -6)
 
 		spawn(0)
 			for(var/i=0, i<1, i++)

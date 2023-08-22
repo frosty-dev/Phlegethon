@@ -60,7 +60,7 @@
 						O.show_message(text("\red <B>[] has tackled down []!</B>", M, src), 1)
 			else
 				if (randn <= 99)
-					playsound(loc, 'slash.ogg', 25, 1, -1)
+					playsound(loc, 'sound/weapons/slash.ogg', 25, 1, -1)
 					drop_item()
 					for(var/mob/O in viewers(src, null))
 						if ((O.client && !( O.blinded )))

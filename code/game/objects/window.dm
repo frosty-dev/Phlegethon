@@ -200,21 +200,21 @@
 	if (istype(W, /obj/item/weapon/screwdriver))
 		if(reinf && state >= 1)
 			state = 3 - state
-			playsound(src.loc, 'Screwdriver.ogg', 75, 1)
+			playsound(src.loc, 'sound/items/Screwdriver.ogg', 75, 1)
 			usr << ( state==1? "You have unfastened the window from the frame." : "You have fastened the window to the frame." )
 		else if(reinf && state == 0)
 			anchored = !anchored
 			update_nearby_icons()
-			playsound(src.loc, 'Screwdriver.ogg', 75, 1)
+			playsound(src.loc, 'sound/items/Screwdriver.ogg', 75, 1)
 			user << (src.anchored ? "You have fastened the frame to the floor." : "You have unfastened the frame from the floor.")
 		else if(!reinf)
 			src.anchored = !( src.anchored )
 			update_nearby_icons()
-			playsound(src.loc, 'Screwdriver.ogg', 75, 1)
+			playsound(src.loc, 'sound/items/Screwdriver.ogg', 75, 1)
 			user << (src.anchored ? "You have fastened the window to the floor." : "You have unfastened the window.")
 	else if(istype(W, /obj/item/weapon/crowbar) && reinf && state <=1)
 		state = 1-state;
-		playsound(src.loc, 'Crowbar.ogg', 75, 1)
+		playsound(src.loc, 'sound/items/Crowbar.ogg', 75, 1)
 		user << (state ? "You have pried the window into the frame." : "You have pried the window out of the frame.")
 	else
 

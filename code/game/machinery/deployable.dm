@@ -2,7 +2,7 @@
 /obj/structure/barricade/wooden
 	name = "wooden barricade"
 	desc = "This space is blocked off by a wooden barricade."
-	icon = 'structures.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "woodenbarricade"
 	anchored = 1.0
 	density = 1.0
@@ -29,12 +29,12 @@
 					src.health -= W.force * 1
 				if("brute")
 					src.health -= W.force * 0.75
-					playsound(src.loc, 'barricadehit.ogg', 80, 1)
+					playsound(src.loc, 'sound/effects/barricadehit.ogg', 80, 1)
 				else
 			if (src.health <= 0)
 				for(var/mob/O in viewers(src, null))
 					O << "\red <B>The barricade is smashed apart!</B>"
-				playsound(src.loc, 'barricadedown.ogg', 80, 1)
+				playsound(src.loc, 'sound/effects/barricadedown.ogg', 80, 1)
 				new /obj/item/stack/sheet/wood(get_turf(src))
 				new /obj/item/stack/sheet/wood(get_turf(src))
 				new /obj/item/stack/sheet/wood(get_turf(src))
@@ -90,13 +90,13 @@
 /obj/machinery/deployable
 	name = "deployable"
 	desc = "deployable"
-	icon = 'objects.dmi'
+	icon = 'icons/obj/objects.dmi'
 	req_access = list(ACCESS_SECURITY)//I'm changing this until these are properly tested./N
 
 /obj/machinery/deployable/barrier
 	name = "deployable barrier"
 	desc = "A deployable barrier. Swipe your ID card to lock/unlock it."
-	icon = 'objects.dmi'
+	icon = 'icons/obj/objects.dmi'
 	anchored = 0.0
 	density = 1.0
 	icon_state = "barrier0"

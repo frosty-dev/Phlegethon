@@ -8,7 +8,7 @@ would spawn and follow the beaker, even if it is carried or thrown.
 
 /obj/effect/effect
 	name = "effect"
-	icon = 'effects.dmi'
+	icon = 'icons/effects/effects.dmi'
 	mouse_opacity = 0
 	unacidable = 1//So effect are not targeted by alien acid.
 	flags = TABLEPASS
@@ -19,7 +19,7 @@ would spawn and follow the beaker, even if it is carried or thrown.
 
 /obj/effect/effect/water
 	name = "water"
-	icon = 'effects.dmi'
+	icon = 'icons/effects/effects.dmi'
 	icon_state = "extinguish"
 	var/life = 15.0
 	flags = TABLEPASS
@@ -27,7 +27,7 @@ would spawn and follow the beaker, even if it is carried or thrown.
 
 /obj/effect/effect/fragexp
 	name = "fragexp"
-	icon = 'effects.dmi'
+	icon = 'icons/effects/effects.dmi'
 	icon_state = "fragexp"
 	mouse_opacity = 0
 	unacidable = 1//So effect are not targeted by alien acid.
@@ -36,7 +36,7 @@ would spawn and follow the beaker, even if it is carried or thrown.
 
 /obj/effect/effect/smoke
 	name = "smoke"
-	icon = 'water.dmi'
+	icon = 'icons/effects/water.dmi'
 	icon_state = "smoke"
 	opacity = 1
 	anchored = 0.0
@@ -46,7 +46,7 @@ would spawn and follow the beaker, even if it is carried or thrown.
 //phleg fov
 /obj/effect/effect/noise
 	name = "noise"
-	icon = 'effects.dmi'
+	icon = 'icons/effects/effects.dmi'
 	icon_state = "noise"
 	mouse_opacity = 0
 	layer = 18
@@ -124,7 +124,7 @@ steam.start() -- spawns the effect
 /////////////////////////////////////////////
 /obj/effect/effect/steam
 	name = "steam"
-	icon = 'effects.dmi'
+	icon = 'icons/effects/effects.dmi'
 	icon_state = "extinguish"
 	density = 0
 
@@ -1243,7 +1243,7 @@ steam.start() -- spawns the effect
 // dense and opaque, but easy to break
 
 /obj/structure/foamedmetal
-	icon = 'effects.dmi'
+	icon = 'icons/effects/effects.dmi'
 	icon_state = "metalfoam"
 	density = 1
 	opacity = 0 	// changed in New()

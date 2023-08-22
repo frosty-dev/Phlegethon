@@ -535,7 +535,7 @@ As such, it's hard-coded for now. No reason for it not to be, really.
 		U:gloves.item_state = "s-ninjan"
 	else
 		if(U.mind.special_role!="Space Ninja")
-			U << "\red <B>fÄTaL ÈÈRRoR</B>: 382200-*#00CÖDE <B>RED</B>\nUNAU†HORIZED USÈ DETÈC†††eD\nCoMMÈNCING SUB-R0U†IN3 13...\nTÈRMInATING U-U-USÈR..."
+			U << "\red <B>fï¿½TaL ï¿½ï¿½RRoR</B>: 382200-*#00Cï¿½DE <B>RED</B>\nUNAUï¿½HORIZED USï¿½ DETï¿½Cï¿½ï¿½ï¿½eD\nCoMMï¿½NCING SUB-R0Uï¿½IN3 13...\nTï¿½RMInATING U-U-USï¿½R..."
 			U.gib()
 			return 0
 		if(!istype(U:head, /obj/item/clothing/head/helmet/space/space_ninja))
@@ -584,7 +584,7 @@ As such, it's hard-coded for now. No reason for it not to be, really.
 	invisibility = 2//Set ninja invis to 2.
 	var/icon/opacity_icon = new(A.icon, A.icon_state)
 	var/icon/alpha_mask = getIconMask(src)
-	var/icon/alpha_mask_2 = new('effects.dmi', "at_shield1")
+	var/icon/alpha_mask_2 = new('icons/effects/effects.dmi', "at_shield1")
 	alpha_mask.AddAlphaMask(alpha_mask_2)
 	opacity_icon.AddAlphaMask(alpha_mask)
 	for(var/i=0,i<5,i++)//And now we add it as overlays. It's faster than creating an icon and then merging it.
@@ -600,12 +600,12 @@ As such, it's hard-coded for now. No reason for it not to be, really.
 				I.pixel_y += 1
 
 		overlays += I//And finally add the overlay.
-	overlays += image("icon"='effects.dmi',"icon_state" ="electricity","layer" = layer+0.9)
+	overlays += image("icon"='icons/effects/effects.dmi',"icon_state" ="electricity","layer" = layer+0.9)
 
 //When ninja steal malfunctions.
 /mob/proc/NinjaStealthMalf()
 	invisibility = 0//Set ninja invis to 0.
-	overlays += image("icon"='effects.dmi',"icon_state" ="electricity","layer" = layer+0.9)
+	overlays += image("icon"='icons/effects/effects.dmi',"icon_state" ="electricity","layer" = layer+0.9)
 	playsound(loc, 'stealthoff.ogg', 75, 1)
 
 //=======//GENERIC VERB MODIFIERS//=======//
@@ -996,7 +996,7 @@ That is why you attached them to objects.
 		var/safety = 4
 		for(var/turf/T in oview(5))
 			if(prob(20))
-				var/current_clone = image('mob.dmi',T,"s-ninja")
+				var/current_clone = image('icons/mob/mob.dmi',T,"s-ninja")
 				safety--
 				spawn(0)
 					src << current_clone

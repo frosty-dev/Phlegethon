@@ -376,13 +376,13 @@
 		if (!(src.status))
 			for(var/mob/O in viewers(user, null))
 				O.show_message(text("\red [] has deactivated []!", user, src), 1)
-				playsound(src.loc, 'Wirecutter.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/wirecutter.ogg', 100, 1)
 			icon_state = "camera1"
 			add_hiddenprint(user)
 		else
 			for(var/mob/O in viewers(user, null))
 				O.show_message(text("\red [] has reactivated []!", user, src), 1)
-				playsound(src.loc, 'Wirecutter.ogg', 100, 1)
+				playsound(src.loc, 'sound/items/wirecutter.ogg', 100, 1)
 			icon_state = "camera"
 			add_hiddenprint(user)
 	// now disconnect anyone using the camera

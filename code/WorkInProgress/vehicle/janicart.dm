@@ -25,7 +25,7 @@
 		if(reagents.total_volume >= 2)
 			reagents.trans_to(W, 2)
 			user << "<span class='notice'>You wet the mop in the pimpin' ride.</span>"
-			playsound(src.loc, 'sound/effects/slosh.ogg', 25, 1)
+			playsound(src.loc, 'sound/effects/sound/effects/slosh.ogg', 25, 1)
 		if(reagents.total_volume < 1)
 			user << "<span class='notice'>This pimpin' ride is out of water!</span>"
 	else if(istype(W, /obj/item/key))
