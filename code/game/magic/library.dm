@@ -254,7 +254,7 @@
 		for(var/page in pages)
 			// look for photos and process
 			var/i = 1
-			while(i <= lentext(page))
+			while(i <= length(page))
 				i = findtext(page, "<photo ", i)
 				if(i == 0)
 					break
@@ -323,11 +323,11 @@
 						if ((!in_range(src, usr) && src.loc != user && src.loc.loc != user && user.equipped() != W))
 							return
 
-						if(lentext(t) >= MAX_BOOK_MESSAGE_LEN)
+						if(length(t) >= MAX_BOOK_MESSAGE_LEN)
 							var/cont = input(user, "Your message is too long! Would you like to continue editing it?", "", "yes") in list("yes", "no")
 							if(cont == "no")
 								break
-					while(lentext(t) > MAX_BOOK_MESSAGE_LEN)
+					while(length(t) > MAX_BOOK_MESSAGE_LEN)
 
 					if ((!in_range(src, usr) && src.loc != user && src.loc.loc != user && user.equipped() != W))
 						return
@@ -1181,11 +1181,11 @@ datum/borrowbook // Datum used to keep track of who has borrowed what when and f
 		do
 			t = input(usr, "What text do you wish to add?", "Book Binder P.[PN]", t) as message
 
-			if(lentext(t) >= MAX_BOOK_MESSAGE_LEN)
+			if(length(t) >= MAX_BOOK_MESSAGE_LEN)
 				var/cont = input(usr, "Your message is too long! Would you like to continue editing it?", "", "yes") in list("yes", "no")
 				if(cont == "no")
 					break
-		while(lentext(t) > MAX_BOOK_MESSAGE_LEN)
+		while(length(t) > MAX_BOOK_MESSAGE_LEN)
 
 		// check for exploits
 		for(var/tag in paper_blacklist)

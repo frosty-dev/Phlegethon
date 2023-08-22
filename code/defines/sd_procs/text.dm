@@ -55,7 +55,7 @@ proc
 		while(open)
 			var/close = findtext(T,">",open)
 			if(close)
-				if(close<lentext(T))
+				if(close<length(T))
 					T = copytext(T,1,open)+copytext(T,close+1)
 				else
 					T = copytext(T,1,open)
@@ -71,7 +71,7 @@ proc
 		var/F = findtext(maintext, oldtext)
 		var/length = length(newtext)
 		while(F)
-			var/newmessage = copytext(maintext,1,F) + newtext + copytext(maintext,F+lentext(oldtext))
+			var/newmessage = copytext(maintext,1,F) + newtext + copytext(maintext,F+length(oldtext))
 			maintext = newmessage
 			F = findtext(maintext, oldtext, F + length)
 		return maintext
@@ -83,7 +83,7 @@ proc
 		var/F = findText(maintext, oldtext)
 		var/length = length(newtext)
 		while(F)
-			var/newmessage = copytext(maintext,1,F) + newtext + copytext(maintext,F+lentext(oldtext))
+			var/newmessage = copytext(maintext,1,F) + newtext + copytext(maintext,F+length(oldtext))
 			maintext = newmessage
 			F = findText(maintext, oldtext, F + length)
 		return maintext

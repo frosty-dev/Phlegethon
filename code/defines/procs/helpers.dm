@@ -131,10 +131,10 @@
 	while(index)
 		t = copytext(t, 1, index) + "#" + copytext(t, index+1)
 		index = findtext(t, "\t")
-	index = findtext(t, "ÿ")
+	index = findtext(t, "ï¿½")
 	while(index)
 		t = copytext(t, 1, index) + "____255;" + copytext(t, index+1)
-		index = findtext(t, "ÿ")
+		index = findtext(t, "ï¿½")
 
 	t = html_encode(t)
 
@@ -146,10 +146,10 @@
 	return t
 
 /proc/sanitize_ya(var/t)
-	var/index = findtext(t, "ÿ")
+	var/index = findtext(t, "ï¿½")
 	while(index)
 		t = copytext(t, 1, index) + "____255;" + copytext(t, index+1)
-		index = findtext(t, "ÿ")
+		index = findtext(t, "ï¿½")
 
 	t = html_encode(t)
 
@@ -1131,10 +1131,6 @@ Turf and target are seperate in case you want to teleport some distance from a t
 /proc/between(var/low, var/middle, var/high)
 	return max(min(middle, high), low)
 
-proc/arctan(x)
-	var/y=arcsin(x/sqrt(1+x*x))
-	return y
-
 //returns random gauss number
 proc/GaussRand(var/sigma)
   var/x,y,rsq
@@ -1175,11 +1171,6 @@ proc/listgetindex(var/list/list,index)
 		else if(index in list)
 			return list[index]
 	return
-
-proc/islist(list/list)
-	if(istype(list))
-		return 1
-	return 0
 
 proc/isemptylist(list/list)
 	if(!list.len)
@@ -1837,9 +1828,9 @@ proc/get_opposite(var/checkdir)
 //is in the other string at the same spot (assuming it is not a replace char).
 //This is used for fingerprints
 	var/newtext = text
-	if(lentext(text) != lentext(compare))
+	if(length(text) != length(compare))
 		return 0
-	for(var/i = 1, i < lentext(text), i++)
+	for(var/i = 1, i < length(text), i++)
 		var/a = copytext(text,i,i+1)
 		var/b = copytext(compare,i,i+1)
 //if it isn't both the same letter, or if they are both the replacement character
@@ -1859,7 +1850,7 @@ proc/get_opposite(var/checkdir)
 	if(!text || !character)
 		return 0
 	var/count = 0
-	for(var/i = 1, i <= lentext(text), i++)
+	for(var/i = 1, i <= length(text), i++)
 		var/a = copytext(text,i,i+1)
 		if(a == character)
 			count++

@@ -52,7 +52,7 @@ proc
 		var/decimal = 0
 		number = uppertext(number)
 
-		for(var/loop = 1, loop <= lentext(number))
+		for(var/loop = 1, loop <= length(number))
 			var/digit = copytext(number,loop,++loop)
 			if((digit >= "0") && (digit <= "9"))
 				decimal = decimal * base + text2num(digit)
@@ -95,7 +95,7 @@ proc
 
 			decimal = (decimal - n)/base
 
-		while(lentext(text) < digits)
+		while(length(text) < digits)
 			text = "0" + text
 
 		return text
