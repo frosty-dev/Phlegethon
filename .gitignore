@@ -2,3 +2,4 @@ data/**/*
 info.json
 *.dmb
 *.dyn.rsc
+*.log
